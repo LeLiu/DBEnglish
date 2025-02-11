@@ -1,0 +1,7 @@
+[
+    {
+        "key": "ctrl+alt+r", // 你可以选择你喜欢的快捷键
+        "command": "workbench.action.tasks.runTask",
+        "args": "Python运行: 当前文件"
+    }
+]
