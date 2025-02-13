@@ -10,7 +10,9 @@
     "daily_word_count": 10,
     "status_file": "resource/status/人教版新起点_status.json",
     "log_file": "resource/logs/人教版新起点_log.json",
-    "task_file": "resource/tasks/人教版新起点_task.json"
+    "task_file": "resource/tasks/人教版新起点_task.json",
+    "days_studied": 5,
+    "total_words": 100
 }
 ```
 
