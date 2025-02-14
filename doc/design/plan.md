@@ -15,12 +15,11 @@
 
 4. **艾宾浩斯记忆法**：学习方法采用艾宾浩斯记忆法，学习日志和学习状态文件的设计需支持该方法的实现。
 
-5. **学习状态管理**：学习状态分为学习次数和掌握程度，掌握程度分为 0-5 级，5 表示完全掌握。
+5. **学习状态管理**：学习状态分为学习次数和掌握程度，掌握程度分为 0.0至1.0，1.0表示完全掌握。
 
 6. **学习日志和状态关联**：学习状态文件中记录每次学习日志的 ID，方便查询；学习日志文件中记录每次学习前后的掌握程度，便于跟踪学习效果。
 
 7. **学习计划进度管理**：`plan.json` 中记录已学习的天数、总单词数以及各状态单词的个数，便于用户了解整体学习进度。
-
 
 ## 学习计划存储格式示例
 
@@ -29,7 +28,8 @@
     "plan_name": "人教版新起点 一年级上册",
     "word_list_file": "resource/words/人教版新起点.json",
     "start_date": "2023-10-01",
-    "daily_word_count": 10,
+    "min_daily_word_count": 10,
+    "max_daliy_word_count": 15,
     "status_file": "resource/status/人教版新起点_status.json",
     "log_file": "resource/logs/人教版新起点_log.json",
     "task_file": "resource/tasks/人教版新起点_task.json",
@@ -40,15 +40,16 @@
 
 ### 说明
 
-* plan_name: 学习计划的名称，用于标识不同的学习计划。
-* word_list_file: 单词列表文件的路径，包含所有需要学习的单词。
-* start_date: 学习计划的开始日期，格式为 YYYY-MM-DD。
-* daily_word_count: 每天学习的单词数量。
-* status_file: 学习状态文件的路径，记录每个单词的学习状态。
-* log_file: 学习日志文件的路径，记录每次学习的具体情况。
-* task_file: 学习任务文件的路径，根据学习计划和学习状态动态生成。
-* days_studied: 已经学习的天数。
-* total_words: 单词列表中的总单词数。
+- plan_name: 学习计划的名称，用于标识不同的学习计划。
+- word_list_file: 单词列表文件的路径，包含所有需要学习的单词。
+- start_date: 学习计划的开始日期，格式为 YYYY-MM-DD。
+- min_daily_word_count: 每天学习的最少单词数量。
+- max_daliy_word_count: 每天学习的最大单词数量。
+- status_file: 学习状态文件的路径，记录每个单词的学习状态。
+- log_file: 学习日志文件的路径，记录每次学习的具体情况。
+- task_file: 学习任务文件的路径，根据学习计划和学习状态动态生成。
+- days_studied: 已经学习的天数。
+- total_words: 单词列表中的总单词数。
 
 ## 学习状态文件示例
 
@@ -69,11 +70,11 @@
 
 ### 说明
 
-* no: 单词的唯一编号，用于标识不同的单词。
-* word: 单词本身。
-* review_count: 该单词已经被学习的次数。
-* mastery_level: 单词的掌握程度，范围为 0-5，5 表示完全掌握。
-* log_ids: 与该单词相关的学习日志的 ID 列表，方便查询。
+- no: 单词的唯一编号，用于标识不同的单词。
+- word: 单词本身。
+- review_count: 该单词已经被学习的次数。
+- mastery_level: 单词的掌握程度，范围为 0-5，5 表示完全掌握。
+- log_ids: 与该单词相关的学习日志的 ID 列表，方便查询。
 
 ## 学习日志文件示例
 
@@ -83,42 +84,42 @@
         "log_id": 1,
         "date": "2023-10-01",
         "words_learned": [
-            {"no": 1, "word": "book", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 2, "word": "ruler", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 3, "word": "pencil", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 4, "word": "schoolbag", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 5, "word": "teacher", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 6, "word": "I", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 7, "word": "have", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 8, "word": "a/an", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 9, "word": "face", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 10, "word": "ear", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3}
+            {"no": 1, "word": "book", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.3},
+            {"no": 2, "word": "ruler", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.3},
+            {"no": 3, "word": "pencil", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.3},
+            {"no": 4, "word": "schoolbag", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.3},
+            {"no": 5, "word": "teacher", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.3},
+            {"no": 6, "word": "I", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.3},
+            {"no": 7, "word": "have", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.3},
+            {"no": 8, "word": "a/an", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.3},
+            {"no": 9, "word": "face", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.3},
+            {"no": 10, "word": "ear", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.3}
         ]
     },
     {
         "log_id": 2,
         "date": "2023-10-02",
         "words_learned": [
-            {"no": 1, "word": "book", "review_count": 2, "mastery_level_before": 3, "mastery_level_after": 5},
-            {"no": 2, "word": "ruler", "review_count": 2, "mastery_level_before": 3, "mastery_level_after": 5},
-            {"no": 3, "word": "pencil", "review_count": 2, "mastery_level_before": 3, "mastery_level_after": 5},
-            {"no": 4, "word": "schoolbag", "review_count": 2, "mastery_level_before": 3, "mastery_level_after": 5},
-            {"no": 5, "word": "teacher", "review_count": 2, "mastery_level_before": 3, "mastery_level_after": 5},
-            {"no": 6, "word": "I", "review_count": 2, "mastery_level_before": 3, "mastery_level_after": 5},
-            {"no": 7, "word": "have", "review_count": 2, "mastery_level_before": 3, "mastery_level_after": 5},
-            {"no": 8, "word": "a/an", "review_count": 2, "mastery_level_before": 3, "mastery_level_after": 5},
-            {"no": 9, "word": "face", "review_count": 2, "mastery_level_before": 3, "mastery_level_after": 5},
-            {"no": 10, "word": "ear", "review_count": 2, "mastery_level_before": 3, "mastery_level_after": 5},
-            {"no": 11, "word": "eye", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 12, "word": "nose", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 13, "word": "mouth", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 14, "word": "this", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 15, "word": "is", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 16, "word": "my", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 17, "word": "dog", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 18, "word": "bird", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 19, "word": "tiger", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3},
-            {"no": 20, "word": "monkey", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 3}
+            {"no": 1, "word": "book", "review_count": 2, "mastery_level_before": 0.3, "mastery_level_after": 0.5},
+            {"no": 2, "word": "ruler", "review_count": 2, "mastery_level_before": 0.3, "mastery_level_after": 0.5},
+            {"no": 3, "word": "pencil", "review_count": 2, "mastery_level_before": 0.3, "mastery_level_after": 0.5},
+            {"no": 4, "word": "schoolbag", "review_count": 2, "mastery_level_before": 0.3, "mastery_level_after": 0.5},
+            {"no": 5, "word": "teacher", "review_count": 2, "mastery_level_before": 0.3, "mastery_level_after": 0.5},
+            {"no": 6, "word": "I", "review_count": 2, "mastery_level_before": 0.3, "mastery_level_after": 0.5},
+            {"no": 7, "word": "have", "review_count": 2, "mastery_level_before": 0.3, "mastery_level_after": 0.5},
+            {"no": 8, "word": "a/an", "review_count": 2, "mastery_level_before": 0.3, "mastery_level_after": 0.5},
+            {"no": 9, "word": "face", "review_count": 2, "mastery_level_before": 0.3, "mastery_level_after": 0.5},
+            {"no": 10, "word": "ear", "review_count": 2, "mastery_level_before": 0.3, "mastery_level_after": 0.5},
+            {"no": 11, "word": "eye", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.5},
+            {"no": 12, "word": "nose", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.5},
+            {"no": 13, "word": "mouth", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.5},
+            {"no": 14, "word": "this", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.5},
+            {"no": 15, "word": "is", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.5},
+            {"no": 16, "word": "my", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.5},
+            {"no": 17, "word": "dog", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.5},
+            {"no": 18, "word": "bird", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.5},
+            {"no": 19, "word": "tiger", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.5},
+            {"no": 20, "word": "monkey", "review_count": 1, "mastery_level_before": 0, "mastery_level_after": 0.5}
         ]
     }
 ]
@@ -126,14 +127,14 @@
 
 ### 说明
 
-* log_id: 学习日志的唯一标识符。
-* date: 学习日志的日期，格式为 YYYY-MM-DD。
-* words_learned: 本次学习的所有单词及其相关信息。
-* no: 单词的唯一编号。
-* word: 单词本身。
-* review_count: 该单词已经被学习的次数。
-* mastery_level_before: 学习前的掌握程度。
-* mastery_level_after: 学习后的掌握程度。
+- log_id: 学习日志的唯一标识符。
+- date: 学习日志的日期，格式为 YYYY-MM-DD。
+- words_learned: 本次学习的所有单词及其相关信息。
+- no: 单词的唯一编号。
+- word: 单词本身。
+- review_count: 该单词已经被学习的次数。
+- mastery_level_before: 学习前的掌握程度。
+- mastery_level_after: 学习后的掌握程度。
 
 ## 学习任务文件示例
 
@@ -141,17 +142,17 @@
 {
     "date": "2023-10-03",
     "tasks": [
-        {"no": 1, "word": "book", "review_count": 2, "mastery_level": 5},
-        {"no": 2, "word": "ruler", "review_count": 2, "mastery_level": 5},
-        {"no": 3, "word": "pencil", "review_count": 2, "mastery_level": 5},
-        {"no": 4, "word": "schoolbag", "review_count": 2, "mastery_level": 5},
-        {"no": 5, "word": "teacher", "review_count": 2, "mastery_level": 5},
-        {"no": 6, "word": "I", "review_count": 2, "mastery_level": 5},
-        {"no": 7, "word": "have", "review_count": 2, "mastery_level": 5},
-        {"no": 8, "word": "a/an", "review_count": 2, "mastery_level": 5},
-        {"no": 9, "word": "face", "review_count": 2, "mastery_level": 5},
-        {"no": 10, "word": "ear", "review_count": 2, "mastery_level": 5},
-        {"no": 11, "word": "eye", "review_count": 1, "mastery_level": 0},
+        {"no": 1, "word": "book", "review_count": 2, "mastery_level": 0.5},
+        {"no": 2, "word": "ruler", "review_count": 2, "mastery_level": 0.5},
+        {"no": 3, "word": "pencil", "review_count": 2, "mastery_level": 0.5},
+        {"no": 4, "word": "schoolbag", "review_count": 2, "mastery_level": 0.5},
+        {"no": 5, "word": "teacher", "review_count": 2, "mastery_level": 0.5},
+        {"no": 6, "word": "I", "review_count": 2, "mastery_level": 0.5},
+        {"no": 7, "word": "have", "review_count": 2, "mastery_level": 0.5},
+        {"no": 8, "word": "a/an", "review_count": 2, "mastery_level": 0.5},
+        {"no": 9, "word": "face", "review_count": 2, "mastery_level": 0.5},
+        {"no": 10, "word": "ear", "review_count": 2, "mastery_level": 0.5},
+        {"no": 11, "word": "eye", "review_count": 1, "mastery_level": 0.5},
         {"no": 12, "word": "nose", "review_count": 1, "mastery_level": 0},
         {"no": 13, "word": "mouth", "review_count": 1, "mastery_level": 0},
         {"no": 14, "word": "this", "review_count": 1, "mastery_level": 0},
@@ -167,9 +168,39 @@
 
 ### 说明
 
-* date: 学习任务的日期，格式为 YYYY-MM-DD。
-* tasks: 本次学习任务中的所有单词及其相关信息。
-* no: 单词的唯一编号。
-* word: 单词本身。
-* review_count: 该单词已经被学习的次数。
-* mastery_level: 单词的当前掌握程度。
+- date: 学习任务的日期，格式为 YYYY-MM-DD。
+- tasks: 本次学习任务中的所有单词及其相关信息。
+- no: 单词的唯一编号。
+- word: 单词本身。
+- review_count: 该单词已经被学习的次数。
+- mastery_level: 单词的当前掌握程度。
+  
+## 学习任务生成方法
+
+### 单词的分类
+
+将单词分为三类，未开始学习的单词、正在学习的单词和已经掌握的单词。在生成学习任务时，每种类型的单词其个数权重不同。
+升成学习任务时，选择的单词个数大于等于min_daily_word_count且小于等于max_daily_word_count。
+在统计选择了多少个单词时，计算已选中的单词的个数加权和。
+例如单词1的个数权重为0.5，而单词2的个数权重为0.3，则选中的单词个数加权和为0.5+0.3=0.8。
+
+#### 未开始学习的单词
+
+未开始学习的单词review_count为0，且mastery_level为0。
+单词个数权重为1。
+
+#### 正在学习的单词
+
+正在学习的单词review_count不为0，且mastery_level小于1。
+单词个权重为$1-mastery\_level$。
+
+正在学习的单词根据学习进度分为三类：
+
+1. 延期的单词：下一次学习时间段为当前时间段之前的单词。由于某种原因该单词在已经过去的下一次学时时间段并未被学习；
+2. 本次学习的单词：下一次学习时间段为当前时间段；
+3. 未来学习的单词：下一次学习时间段为当前时间段之后的单词。
+
+### 已掌握的单词
+
+已掌握的单词review_count不为0，且mastery_level等于1。
+单词个权重为0。
