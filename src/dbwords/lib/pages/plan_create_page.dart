@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
+import '../models/word_bank.dart';
 
 class PlanCreatePage extends StatefulWidget {
   const PlanCreatePage({super.key});
@@ -11,7 +12,7 @@ class PlanCreatePage extends StatefulWidget {
 }
 
 class _PlanCreatePageState extends State<PlanCreatePage> {
-  List<WordLibrary> _libraries = [];
+  List<WordBank> _libraries = [];
   bool _loading = true;
 
   @override
@@ -24,17 +25,15 @@ class _PlanCreatePageState extends State<PlanCreatePage> {
     try {
       final resourceDir = Directory('resource/words');
       final files = await resourceDir.list().toList();
-      final libraries = <WordLibrary>[];
+      final libraries = <WordBank>[];
 
       for (var file in files) {
         if (file.path.endsWith('.json')) {
           final name = path.basenameWithoutExtension(file.path);
           final content = await File(file.path).readAsString();
-          final words = jsonDecode(content) as List;
-          libraries.add(WordLibrary(
-            name: name,
-            wordCount: words.length,
-          ));
+          final jsonList = jsonDecode(content) as List;
+          final words = jsonList.map((json) => Word.fromJson(json as Map<String, dynamic>)).toList();
+          libraries.add(WordBank(name: name, words: words));
         }
       }
 
@@ -85,14 +84,4 @@ class _PlanCreatePageState extends State<PlanCreatePage> {
                 ),
     );
   }
-}
-
-class WordLibrary {
-  final String name;
-  final int wordCount;
-
-  const WordLibrary({
-    required this.name,
-    required this.wordCount,
-  });
 }
