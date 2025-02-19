@@ -3,6 +3,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 import '../models/word_bank.dart';
+import '../models/word.dart';
 
 class PlanCreatePage extends StatefulWidget {
   const PlanCreatePage({super.key});
@@ -23,18 +24,17 @@ class _PlanCreatePageState extends State<PlanCreatePage> {
 
   Future<void> _loadWordLibraries() async {
     try {
-      final resourceDir = Directory('resource/words');
-      final files = await resourceDir.list().toList();
+      final manifestContent = await DefaultAssetBundle.of(context).loadString('AssetManifest.json');
+      final Map<String, dynamic> manifest = json.decode(manifestContent);
+      final wordFiles = manifest.keys.where((String key) => key.startsWith('assets/words/') && key.endsWith('.json'));
       final libraries = <WordBank>[];
 
-      for (var file in files) {
-        if (file.path.endsWith('.json')) {
-          final name = path.basenameWithoutExtension(file.path);
-          final content = await File(file.path).readAsString();
-          final jsonList = jsonDecode(content) as List;
-          final words = jsonList.map((json) => Word.fromJson(json as Map<String, dynamic>)).toList();
-          libraries.add(WordBank(name: name, words: words));
-        }
+      for (var filePath in wordFiles) {
+        final name = path.basenameWithoutExtension(filePath);
+        final content = await DefaultAssetBundle.of(context).loadString(filePath);
+        final jsonList = jsonDecode(content) as List;
+        final words = jsonList.map((json) => Word.fromJson(json as Map<String, dynamic>)).toList();
+        libraries.add(WordBank(name: name, words: words));
       }
 
       setState(() {

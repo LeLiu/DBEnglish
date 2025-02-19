@@ -69,29 +69,6 @@ class TaskWord {
   final double masteryLevel;
   /// 复习次数
   final int reviewCount;
-
-  const TaskWord({
-    required this.no,
-    required this.word,
-    this.masteryLevel = 0.0,
-    this.reviewCount = 0,
-  });
-
-  Map<String, dynamic> toJson() => {
-    'no': no,
-    'word': word,
-    'mastery_level': masteryLevel,
-    'review_count': reviewCount,
-  };
-
-  factory TaskWord.fromJson(Map<String, dynamic> json) => TaskWord(
-
-    no: json['no'] as int,
-    word: json['word'] as String,
-    masteryLevel: json['mastery_level'] as double,
-    reviewCount: json['review_count'] as int,
-  );
-}
   /// 学习前测试项目
   final List<TestItem> preTestItems;
   /// 学习项目
