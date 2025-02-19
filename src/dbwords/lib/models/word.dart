@@ -72,7 +72,9 @@ class Word {
   factory Word.fromJson(Map<String, dynamic> json) => Word(
     no: json['no'] as int,
     word: json['word'] as String,
-    mastery: WordMastery.fromJson(json['mastery'] as Map<String, dynamic>),
+    mastery: json['mastery'] != null
+        ? WordMastery.fromJson(json['mastery'] as Map<String, dynamic>)
+        : const WordMastery(),
   );
 
   @override
