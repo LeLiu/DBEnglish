@@ -1,0 +1,4026 @@
+{
+    "name": "人教版新起点",
+    "description": "",
+    "words": [
+        {
+            "no": 1,
+            "word": "book",
+            "definition": "书，书本",
+            "loc": "一年级上册::Unit 1::1"
+        },
+        {
+            "no": 2,
+            "word": "ruler",
+            "definition": "尺子",
+            "loc": "一年级上册::Unit 1::2"
+        },
+        {
+            "no": 3,
+            "word": "pencil",
+            "definition": "铅笔",
+            "loc": "一年级上册::Unit 1::3"
+        },
+        {
+            "no": 4,
+            "word": "schoolbag",
+            "definition": "书包",
+            "loc": "一年级上册::Unit 1::4"
+        },
+        {
+            "no": 5,
+            "word": "teacher",
+            "definition": "教师",
+            "loc": "一年级上册::Unit 1::5"
+        },
+        {
+            "no": 6,
+            "word": "I",
+            "definition": "我",
+            "loc": "一年级上册::Unit 1::6"
+        },
+        {
+            "no": 7,
+            "word": "have",
+            "definition": "有",
+            "loc": "一年级上册::Unit 1::7"
+        },
+        {
+            "no": 8,
+            "word": "face",
+            "definition": "脸",
+            "loc": "一年级上册::Unit 2::1"
+        },
+        {
+            "no": 9,
+            "word": "ear",
+            "definition": "耳朵",
+            "loc": "一年级上册::Unit 2::2"
+        },
+        {
+            "no": 10,
+            "word": "eye",
+            "definition": "眼睛",
+            "loc": "一年级上册::Unit 2::3"
+        },
+        {
+            "no": 11,
+            "word": "nose",
+            "definition": "鼻子",
+            "loc": "一年级上册::Unit 2::4"
+        },
+        {
+            "no": 12,
+            "word": "mouth",
+            "definition": "嘴巴",
+            "loc": "一年级上册::Unit 2::5"
+        },
+        {
+            "no": 13,
+            "word": "this",
+            "definition": "这（个）",
+            "loc": "一年级上册::Unit 2::6"
+        },
+        {
+            "no": 14,
+            "word": "is",
+            "definition": "是",
+            "loc": "一年级上册::Unit 2::7"
+        },
+        {
+            "no": 15,
+            "word": "my",
+            "definition": "我的",
+            "loc": "一年级上册::Unit 2::8"
+        },
+        {
+            "no": 16,
+            "word": "dog",
+            "definition": "狗",
+            "loc": "一年级上册::Unit 3::1"
+        },
+        {
+            "no": 17,
+            "word": "bird",
+            "definition": "鸟",
+            "loc": "一年级上册::Unit 3::2"
+        },
+        {
+            "no": 18,
+            "word": "tiger",
+            "definition": "老虎",
+            "loc": "一年级上册::Unit 3::3"
+        },
+        {
+            "no": 19,
+            "word": "monkey",
+            "definition": "猴子",
+            "loc": "一年级上册::Unit 3::4"
+        },
+        {
+            "no": 20,
+            "word": "cat",
+            "definition": "猫",
+            "loc": "一年级上册::Unit 3::5"
+        },
+        {
+            "no": 21,
+            "word": "what",
+            "definition": "什么",
+            "loc": "一年级上册::Unit 3::6"
+        },
+        {
+            "no": 22,
+            "word": "it",
+            "definition": "它",
+            "loc": "一年级上册::Unit 3::7"
+        },
+        {
+            "no": 23,
+            "word": "one",
+            "definition": "一",
+            "loc": "一年级上册::Unit 4::1"
+        },
+        {
+            "no": 24,
+            "word": "two",
+            "definition": "二",
+            "loc": "一年级上册::Unit 4::2"
+        },
+        {
+            "no": 25,
+            "word": "three",
+            "definition": "三",
+            "loc": "一年级上册::Unit 4::3"
+        },
+        {
+            "no": 26,
+            "word": "four",
+            "definition": "四",
+            "loc": "一年级上册::Unit 4::4"
+        },
+        {
+            "no": 27,
+            "word": "five",
+            "definition": "五",
+            "loc": "一年级上册::Unit 4::5"
+        },
+        {
+            "no": 28,
+            "word": "six",
+            "definition": "六",
+            "loc": "一年级上册::Unit 4::6"
+        },
+        {
+            "no": 29,
+            "word": "seven",
+            "definition": "七",
+            "loc": "一年级上册::Unit 4::7"
+        },
+        {
+            "no": 30,
+            "word": "eight",
+            "definition": "八",
+            "loc": "一年级上册::Unit 4::8"
+        },
+        {
+            "no": 31,
+            "word": "nine",
+            "definition": "九",
+            "loc": "一年级上册::Unit 4::9"
+        },
+        {
+            "no": 32,
+            "word": "ten",
+            "definition": "十",
+            "loc": "一年级上册::Unit 4::10"
+        },
+        {
+            "no": 33,
+            "word": "how",
+            "definition": "多少",
+            "loc": "一年级上册::Unit 4::11"
+        },
+        {
+            "no": 34,
+            "word": "many",
+            "definition": "多的，许多的",
+            "loc": "一年级上册::Unit 4::12"
+        },
+        {
+            "no": 35,
+            "word": "are",
+            "definition": "是",
+            "loc": "一年级上册::Unit 4::13"
+        },
+        {
+            "no": 36,
+            "word": "there",
+            "definition": "（代替主语）",
+            "loc": "一年级上册::Unit 4::14"
+        },
+        {
+            "no": 37,
+            "word": "black",
+            "definition": "黑色；黑色的",
+            "loc": "一年级上册::Unit 5::1"
+        },
+        {
+            "no": 38,
+            "word": "yellow",
+            "definition": "黄色；黄色的",
+            "loc": "一年级上册::Unit 5::2"
+        },
+        {
+            "no": 39,
+            "word": "blue",
+            "definition": "蓝色；蓝色的",
+            "loc": "一年级上册::Unit 5::3"
+        },
+        {
+            "no": 40,
+            "word": "red",
+            "definition": "红色；红色的",
+            "loc": "一年级上册::Unit 5::4"
+        },
+        {
+            "no": 41,
+            "word": "green",
+            "definition": "绿色；绿色的",
+            "loc": "一年级上册::Unit 5::5"
+        },
+        {
+            "no": 42,
+            "word": "colour",
+            "definition": "颜色",
+            "loc": "一年级上册::Unit 5::6"
+        },
+        {
+            "no": 43,
+            "word": "apple",
+            "definition": "苹果",
+            "loc": "一年级上册::Unit 6::1"
+        },
+        {
+            "no": 44,
+            "word": "pear",
+            "definition": "梨",
+            "loc": "一年级上册::Unit 6::2"
+        },
+        {
+            "no": 45,
+            "word": "banana",
+            "definition": "香蕉",
+            "loc": "一年级上册::Unit 6::3"
+        },
+        {
+            "no": 46,
+            "word": "orange",
+            "definition": "柑橘；橙",
+            "loc": "一年级上册::Unit 6::4"
+        },
+        {
+            "no": 47,
+            "word": "do",
+            "definition": "（助动词）",
+            "loc": "一年级上册::Unit 6::5"
+        },
+        {
+            "no": 48,
+            "word": "you",
+            "definition": "你；你们",
+            "loc": "一年级上册::Unit 6::6"
+        },
+        {
+            "no": 49,
+            "word": "like",
+            "definition": "喜欢；喜爱",
+            "loc": "一年级上册::Unit 6::7"
+        },
+        {
+            "no": 50,
+            "word": "yes",
+            "definition": "是，是的",
+            "loc": "一年级上册::Unit 6::8"
+        },
+        {
+            "no": 51,
+            "word": "no",
+            "definition": "不，不是",
+            "loc": "一年级上册::Unit 6::9"
+        },
+        {
+            "no": 52,
+            "word": "chair",
+            "definition": "椅子",
+            "loc": "一年级下册::Unit 1::1"
+        },
+        {
+            "no": 53,
+            "word": "desk",
+            "definition": "书桌，写字台",
+            "loc": "一年级下册::Unit 1::2"
+        },
+        {
+            "no": 54,
+            "word": "blackboard",
+            "definition": "黑板",
+            "loc": "一年级下册::Unit 1::3"
+        },
+        {
+            "no": 55,
+            "word": "on",
+            "definition": "在……上",
+            "loc": "一年级下册::Unit 1::4"
+        },
+        {
+            "no": 56,
+            "word": "under",
+            "definition": "在……下面/下方",
+            "loc": "一年级下册::Unit 1::5"
+        },
+        {
+            "no": 57,
+            "word": "in",
+            "definition": "在……里面",
+            "loc": "一年级下册::Unit 1::6"
+        },
+        {
+            "no": 58,
+            "word": "where",
+            "definition": "在哪里",
+            "loc": "一年级下册::Unit 1::7"
+        },
+        {
+            "no": 59,
+            "word": "the",
+            "definition": "放在名词前，特指人、事或物",
+            "loc": "一年级下册::Unit 1::8"
+        },
+        {
+            "no": 60,
+            "word": "light",
+            "definition": "灯",
+            "loc": "一年级下册::Unit 2::1"
+        },
+        {
+            "no": 61,
+            "word": "bed",
+            "definition": "床",
+            "loc": "一年级下册::Unit 2::2"
+        },
+        {
+            "no": 62,
+            "word": "door",
+            "definition": "门，出入口",
+            "loc": "一年级下册::Unit 2::3"
+        },
+        {
+            "no": 63,
+            "word": "box",
+            "definition": "箱子，盒子",
+            "loc": "一年级下册::Unit 2::4"
+        },
+        {
+            "no": 64,
+            "word": "near",
+            "definition": "靠近，接近",
+            "loc": "一年级下册::Unit 2::5"
+        },
+        {
+            "no": 65,
+            "word": "behind",
+            "definition": "在...背后",
+            "loc": "一年级下册::Unit 2::6"
+        },
+        {
+            "no": 66,
+            "word": "plane",
+            "definition": "飞机",
+            "loc": "一年级下册::Unit 3::1"
+        },
+        {
+            "no": 67,
+            "word": "ball",
+            "definition": "球",
+            "loc": "一年级下册::Unit 3::2"
+        },
+        {
+            "no": 68,
+            "word": "doll",
+            "definition": "玩偶，玩具娃娃",
+            "loc": "一年级下册::Unit 3::3"
+        },
+        {
+            "no": 69,
+            "word": "train",
+            "definition": "列车，火车",
+            "loc": "一年级下册::Unit 3::4"
+        },
+        {
+            "no": 70,
+            "word": "car",
+            "definition": "小汽车，轿车",
+            "loc": "一年级下册::Unit 3::5"
+        },
+        {
+            "no": 71,
+            "word": "bear",
+            "definition": "玩具熊，熊",
+            "loc": "一年级下册::Unit 3::6"
+        },
+        {
+            "no": 72,
+            "word": "can",
+            "definition": "可以，能够",
+            "loc": "一年级下册::Unit 3::7"
+        },
+        {
+            "no": 73,
+            "word": "sure",
+            "definition": "当然",
+            "loc": "一年级下册::Unit 3::8"
+        },
+        {
+            "no": 74,
+            "word": "sorry",
+            "definition": "对不起，抱歉",
+            "loc": "一年级下册::Unit 3::9"
+        },
+        {
+            "no": 75,
+            "word": "rice",
+            "definition": "米饭，米",
+            "loc": "一年级下册::Unit 4::1"
+        },
+        {
+            "no": 76,
+            "word": "noodles",
+            "definition": "面条",
+            "loc": "一年级下册::Unit 4::2"
+        },
+        {
+            "no": 77,
+            "word": "vegetable",
+            "definition": "蔬菜",
+            "loc": "一年级下册::Unit 4::3"
+        },
+        {
+            "no": 78,
+            "word": "fish",
+            "definition": "鱼肉，鱼",
+            "loc": "一年级下册::Unit 4::4"
+        },
+        {
+            "no": 79,
+            "word": "chicken",
+            "definition": "鸡肉，鸡",
+            "loc": "一年级下册::Unit 4::5"
+        },
+        {
+            "no": 80,
+            "word": "egg",
+            "definition": "鸡蛋",
+            "loc": "一年级下册::Unit 4::6"
+        },
+        {
+            "no": 81,
+            "word": "hungry",
+            "definition": "饥饿的",
+            "loc": "一年级下册::Unit 4::7"
+        },
+        {
+            "no": 82,
+            "word": "want",
+            "definition": "要，想要",
+            "loc": "一年级下册::Unit 4::8"
+        },
+        {
+            "no": 83,
+            "word": "and",
+            "definition": "和",
+            "loc": "一年级下册::Unit 4::9"
+        },
+        {
+            "no": 84,
+            "word": "juice",
+            "definition": "果汁，蔬菜汁",
+            "loc": "一年级下册::Unit 5::1"
+        },
+        {
+            "no": 85,
+            "word": "tea",
+            "definition": "茶，茶叶",
+            "loc": "一年级下册::Unit 5::2"
+        },
+        {
+            "no": 86,
+            "word": "milk",
+            "definition": "奶，牛奶",
+            "loc": "一年级下册::Unit 5::3"
+        },
+        {
+            "no": 87,
+            "word": "water",
+            "definition": "水",
+            "loc": "一年级下册::Unit 5::4"
+        },
+        {
+            "no": 88,
+            "word": "thirsty",
+            "definition": "口渴的",
+            "loc": "一年级下册::Unit 5::5"
+        },
+        {
+            "no": 89,
+            "word": "thanks",
+            "definition": "感谢",
+            "loc": "一年级下册::Unit 5::6"
+        },
+        {
+            "no": 90,
+            "word": "shirt",
+            "definition": "衬衫",
+            "loc": "一年级下册::Unit 6::1"
+        },
+        {
+            "no": 91,
+            "word": "skirt",
+            "definition": "裙子",
+            "loc": "一年级下册::Unit 6::3"
+        },
+        {
+            "no": 92,
+            "word": "dress",
+            "definition": "连衣裙，套裙",
+            "loc": "一年级下册::Unit 6::4"
+        },
+        {
+            "no": 93,
+            "word": "socks",
+            "definition": "短袜",
+            "loc": "一年级下册::Unit 6::5"
+        },
+        {
+            "no": 94,
+            "word": "shorts",
+            "definition": "短裤",
+            "loc": "一年级下册::Unit 6::6"
+        },
+        {
+            "no": 95,
+            "word": "your",
+            "definition": "你的，你们的",
+            "loc": "一年级下册::Unit 6::7"
+        },
+        {
+            "no": 96,
+            "word": "father",
+            "definition": "父亲",
+            "loc": "二年级上册::Unit 1::1"
+        },
+        {
+            "no": 97,
+            "word": "mother",
+            "definition": "母亲",
+            "loc": "二年级上册::Unit 1::2"
+        },
+        {
+            "no": 98,
+            "word": "brother",
+            "definition": "兄；弟",
+            "loc": "二年级上册::Unit 1::3"
+        },
+        {
+            "no": 99,
+            "word": "sister",
+            "definition": "姐；妹",
+            "loc": "二年级上册::Unit 1::4"
+        },
+        {
+            "no": 100,
+            "word": "grandmother",
+            "definition": "（外）祖母",
+            "loc": "二年级上册::Unit 1::5"
+        },
+        {
+            "no": 101,
+            "word": "grandfather",
+            "definition": "（外）祖父",
+            "loc": "二年级上册::Unit 1::6"
+        },
+        {
+            "no": 102,
+            "word": "who",
+            "definition": "谁",
+            "loc": "二年级上册::Unit 1::7"
+        },
+        {
+            "no": 103,
+            "word": "he",
+            "definition": "他",
+            "loc": "二年级上册::Unit 1::8"
+        },
+        {
+            "no": 104,
+            "word": "she",
+            "definition": "她",
+            "loc": "二年级上册::Unit 1::9"
+        },
+        {
+            "no": 105,
+            "word": "classmate",
+            "definition": "同班同学",
+            "loc": "二年级上册::Unit 2::1"
+        },
+        {
+            "no": 106,
+            "word": "friend",
+            "definition": "朋友",
+            "loc": "二年级上册::Unit 2::2"
+        },
+        {
+            "no": 107,
+            "word": "woman",
+            "definition": "女人",
+            "loc": "二年级上册::Unit 2::3"
+        },
+        {
+            "no": 108,
+            "word": "girl",
+            "definition": "女孩",
+            "loc": "二年级上册::Unit 2::4"
+        },
+        {
+            "no": 109,
+            "word": "man",
+            "definition": "男人",
+            "loc": "二年级上册::Unit 2::5"
+        },
+        {
+            "no": 110,
+            "word": "boy",
+            "definition": "男孩",
+            "loc": "二年级上册::Unit 2::6"
+        },
+        {
+            "no": 111,
+            "word": "look",
+            "definition": "看；瞧",
+            "loc": "二年级上册::Unit 2::7"
+        },
+        {
+            "no": 112,
+            "word": "his",
+            "definition": "他的",
+            "loc": "二年级上册::Unit 2::8"
+        },
+        {
+            "no": 113,
+            "word": "name",
+            "definition": "名字",
+            "loc": "二年级上册::Unit 2::9"
+        },
+        {
+            "no": 114,
+            "word": "her",
+            "definition": "她的",
+            "loc": "二年级上册::Unit 2::10"
+        },
+        {
+            "no": 115,
+            "word": "or",
+            "definition": "还是",
+            "loc": "二年级上册::Unit 2::11"
+        },
+        {
+            "no": 116,
+            "word": "big",
+            "definition": "大的",
+            "loc": "二年级上册::Unit 3::1"
+        },
+        {
+            "no": 117,
+            "word": "tall",
+            "definition": "高的",
+            "loc": "二年级上册::Unit 3::2"
+        },
+        {
+            "no": 118,
+            "word": "pretty",
+            "definition": "漂亮的",
+            "loc": "二年级上册::Unit 3::3"
+        },
+        {
+            "no": 119,
+            "word": "thin",
+            "definition": "瘦的",
+            "loc": "二年级上册::Unit 3::4"
+        },
+        {
+            "no": 120,
+            "word": "short",
+            "definition": "矮的",
+            "loc": "二年级上册::Unit 3::5"
+        },
+        {
+            "no": 121,
+            "word": "handsome",
+            "definition": "英俊的",
+            "loc": "二年级上册::Unit 3::6"
+        },
+        {
+            "no": 122,
+            "word": "new",
+            "definition": "新的",
+            "loc": "二年级上册::Unit 3::7"
+        },
+        {
+            "no": 123,
+            "word": "does",
+            "definition": "（助动词）",
+            "loc": "二年级上册::Unit 3::8"
+        },
+        {
+            "no": 124,
+            "word": "bookshop",
+            "definition": "书店",
+            "loc": "二年级上册::Unit 4::1"
+        },
+        {
+            "no": 125,
+            "word": "zoo",
+            "definition": "动物园",
+            "loc": "二年级上册::Unit 4::2"
+        },
+        {
+            "no": 126,
+            "word": "school",
+            "definition": "学校",
+            "loc": "二年级上册::Unit 4::3"
+        },
+        {
+            "no": 127,
+            "word": "supermarket",
+            "definition": "超市",
+            "loc": "二年级上册::Unit 4::4"
+        },
+        {
+            "no": 128,
+            "word": "park",
+            "definition": "公园",
+            "loc": "二年级上册::Unit 4::5"
+        },
+        {
+            "no": 129,
+            "word": "hospital",
+            "definition": "医院",
+            "loc": "二年级上册::Unit 4::6"
+        },
+        {
+            "no": 130,
+            "word": "go",
+            "definition": "去",
+            "loc": "二年级上册::Unit 4::7"
+        },
+        {
+            "no": 131,
+            "word": "to",
+            "definition": "向，朝",
+            "loc": "二年级上册::Unit 4::8"
+        },
+        {
+            "no": 132,
+            "word": "grass",
+            "definition": "草",
+            "loc": "二年级上册::Unit 5::1"
+        },
+        {
+            "no": 133,
+            "word": "tree",
+            "definition": "树",
+            "loc": "二年级上册::Unit 5::2"
+        },
+        {
+            "no": 134,
+            "word": "flower",
+            "definition": "花",
+            "loc": "二年级上册::Unit 5::3"
+        },
+        {
+            "no": 135,
+            "word": "boat",
+            "definition": "船",
+            "loc": "二年级上册::Unit 5::4"
+        },
+        {
+            "no": 136,
+            "word": "lake",
+            "definition": "湖",
+            "loc": "二年级上册::Unit 5::5"
+        },
+        {
+            "no": 137,
+            "word": "hill",
+            "definition": "山",
+            "loc": "二年级上册::Unit 5::6"
+        },
+        {
+            "no": 138,
+            "word": "Christmas",
+            "definition": "圣诞节",
+            "loc": "二年级上册::Unit 6::1"
+        },
+        {
+            "no": 139,
+            "word": "card",
+            "definition": "贺卡",
+            "loc": "二年级上册::Unit 6::4"
+        },
+        {
+            "no": 140,
+            "word": "present",
+            "definition": "礼物",
+            "loc": "二年级上册::Unit 6::5"
+        },
+        {
+            "no": 141,
+            "word": "merry",
+            "definition": "高兴的",
+            "loc": "二年级上册::Unit 6::7"
+        },
+        {
+            "no": 142,
+            "word": "too",
+            "definition": "也",
+            "loc": "二年级上册::Unit 6::8"
+        },
+        {
+            "no": 143,
+            "word": "here",
+            "definition": "这儿",
+            "loc": "二年级上册::Unit 6::9"
+        },
+        {
+            "no": 144,
+            "word": "for",
+            "definition": "（表示接受某事物或从某事物中获益的人）",
+            "loc": "二年级上册::Unit 6::10"
+        },
+        {
+            "no": 145,
+            "word": "thank",
+            "definition": "谢谢",
+            "loc": "二年级上册::Unit 6::11"
+        },
+        {
+            "no": 146,
+            "word": "happy",
+            "definition": "快乐的",
+            "loc": "二年级上册::Unit 6::12"
+        },
+        {
+            "no": 147,
+            "word": "swim",
+            "definition": "游泳",
+            "loc": "二年级下册::Unit 1::5"
+        },
+        {
+            "no": 148,
+            "word": "rainy",
+            "definition": "下雨的",
+            "loc": "二年级下册::Unit 2::1"
+        },
+        {
+            "no": 149,
+            "word": "cloudy",
+            "definition": "多云的",
+            "loc": "二年级下册::Unit 2::2"
+        },
+        {
+            "no": 150,
+            "word": "snowy",
+            "definition": "下雪的",
+            "loc": "二年级下册::Unit 2::3"
+        },
+        {
+            "no": 151,
+            "word": "windy",
+            "definition": "刮风的",
+            "loc": "二年级下册::Unit 2::4"
+        },
+        {
+            "no": 152,
+            "word": "sunny",
+            "definition": "晴朗的",
+            "loc": "二年级下册::Unit 2::5"
+        },
+        {
+            "no": 153,
+            "word": "umbrella",
+            "definition": "雨伞",
+            "loc": "二年级下册::Unit 2::6"
+        },
+        {
+            "no": 154,
+            "word": "weather",
+            "definition": "天气",
+            "loc": "二年级下册::Unit 2::7"
+        },
+        {
+            "no": 155,
+            "word": "wow",
+            "definition": "哇",
+            "loc": "二年级下册::Unit 2::8"
+        },
+        {
+            "no": 156,
+            "word": "spring",
+            "definition": "春天",
+            "loc": "二年级下册::Unit 3::1"
+        },
+        {
+            "no": 157,
+            "word": "summer",
+            "definition": "夏天",
+            "loc": "二年级下册::Unit 3::2"
+        },
+        {
+            "no": 158,
+            "word": "autumn",
+            "definition": "秋天",
+            "loc": "二年级下册::Unit 3::3"
+        },
+        {
+            "no": 159,
+            "word": "winter",
+            "definition": "冬天",
+            "loc": "二年级下册::Unit 3::4"
+        },
+        {
+            "no": 160,
+            "word": "hot",
+            "definition": "炎热的",
+            "loc": "二年级下册::Unit 3::5"
+        },
+        {
+            "no": 161,
+            "word": "warm",
+            "definition": "温暖的",
+            "loc": "二年级下册::Unit 3::6"
+        },
+        {
+            "no": 162,
+            "word": "cool",
+            "definition": "凉爽的",
+            "loc": "二年级下册::Unit 3::7"
+        },
+        {
+            "no": 163,
+            "word": "cold",
+            "definition": "寒冷的",
+            "loc": "二年级下册::Unit 3::8"
+        },
+        {
+            "no": 164,
+            "word": "favourite",
+            "definition": "最喜欢的",
+            "loc": "二年级下册::Unit 3::9"
+        },
+        {
+            "no": 165,
+            "word": "season",
+            "definition": "季节",
+            "loc": "二年级下册::Unit 3::10"
+        },
+        {
+            "no": 166,
+            "word": "eleven",
+            "definition": "十一",
+            "loc": "二年级下册::Unit 4::1"
+        },
+        {
+            "no": 167,
+            "word": "twelve",
+            "definition": "十二",
+            "loc": "二年级下册::Unit 4::2"
+        },
+        {
+            "no": 168,
+            "word": "twenty",
+            "definition": "二十",
+            "loc": "二年级下册::Unit 4::3"
+        },
+        {
+            "no": 169,
+            "word": "thirty",
+            "definition": "三十",
+            "loc": "二年级下册::Unit 4::4"
+        },
+        {
+            "no": 170,
+            "word": "forty",
+            "definition": "四十",
+            "loc": "二年级下册::Unit 4::5"
+        },
+        {
+            "no": 171,
+            "word": "fifty",
+            "definition": "五十",
+            "loc": "二年级下册::Unit 4::6"
+        },
+        {
+            "no": 172,
+            "word": "thirteen",
+            "definition": "十三",
+            "loc": "二年级下册::Unit 4::7"
+        },
+        {
+            "no": 173,
+            "word": "fourteen",
+            "definition": "十四",
+            "loc": "二年级下册::Unit 4::8"
+        },
+        {
+            "no": 174,
+            "word": "fifteen",
+            "definition": "十五",
+            "loc": "二年级下册::Unit 4::9"
+        },
+        {
+            "no": 175,
+            "word": "time",
+            "definition": "时间",
+            "loc": "二年级下册::Unit 4::10"
+        },
+        {
+            "no": 176,
+            "word": "playtime",
+            "definition": "游戏时间",
+            "loc": "二年级下册::Unit 4::11"
+        },
+        {
+            "no": 177,
+            "word": "when",
+            "definition": "什么时候",
+            "loc": "二年级下册::Unit 5::8"
+        },
+        {
+            "no": 178,
+            "word": "at",
+            "definition": "在……点钟",
+            "loc": "二年级下册::Unit 5::10"
+        },
+        {
+            "no": 179,
+            "word": "Sunday",
+            "definition": "星期天",
+            "loc": "二年级下册::Unit 6::1"
+        },
+        {
+            "no": 180,
+            "word": "Monday",
+            "definition": "星期一",
+            "loc": "二年级下册::Unit 6::2"
+        },
+        {
+            "no": 181,
+            "word": "Tuesday",
+            "definition": "星期二",
+            "loc": "二年级下册::Unit 6::3"
+        },
+        {
+            "no": 182,
+            "word": "Wednesday",
+            "definition": "星期三",
+            "loc": "二年级下册::Unit 6::4"
+        },
+        {
+            "no": 183,
+            "word": "Thursday",
+            "definition": "星期四",
+            "loc": "二年级下册::Unit 6::5"
+        },
+        {
+            "no": 184,
+            "word": "Friday",
+            "definition": "星期五",
+            "loc": "二年级下册::Unit 6::6"
+        },
+        {
+            "no": 185,
+            "word": "Saturday",
+            "definition": "星期六",
+            "loc": "二年级下册::Unit 6::7"
+        },
+        {
+            "no": 186,
+            "word": "today",
+            "definition": "今天",
+            "loc": "二年级下册::Unit 6::8"
+        },
+        {
+            "no": 187,
+            "word": "my",
+            "definition": "我的",
+            "loc": "三年级上册::Unit 1::1"
+        },
+        {
+            "no": 188,
+            "word": "your",
+            "definition": "你的",
+            "loc": "三年级上册::Unit 1::2"
+        },
+        {
+            "no": 189,
+            "word": "name",
+            "definition": "名字",
+            "loc": "三年级上册::Unit 1::3"
+        },
+        {
+            "no": 190,
+            "word": "new",
+            "definition": "新的",
+            "loc": "三年级上册::Unit 1::4"
+        },
+        {
+            "no": 191,
+            "word": "year",
+            "definition": "年",
+            "loc": "三年级上册::Unit 1::5"
+        },
+        {
+            "no": 192,
+            "word": "old",
+            "definition": "年老的",
+            "loc": "三年级上册::Unit 1::6"
+        },
+        {
+            "no": 193,
+            "word": "class",
+            "definition": "班级",
+            "loc": "三年级上册::Unit 1::8"
+        },
+        {
+            "no": 194,
+            "word": "grade",
+            "definition": "年级",
+            "loc": "三年级上册::Unit 1::9"
+        },
+        {
+            "no": 195,
+            "word": "age",
+            "definition": "年龄",
+            "loc": "三年级上册::Unit 1::10"
+        },
+        {
+            "no": 196,
+            "word": "dear",
+            "definition": "亲爱的",
+            "loc": "三年级上册::Unit 1::11"
+        },
+        {
+            "no": 197,
+            "word": "body",
+            "definition": "身体",
+            "loc": "三年级上册::Unit 2::1"
+        },
+        {
+            "no": 198,
+            "word": "head",
+            "definition": "头",
+            "loc": "三年级上册::Unit 2::2"
+        },
+        {
+            "no": 199,
+            "word": "hair",
+            "definition": "头发",
+            "loc": "三年级上册::Unit 2::3"
+        },
+        {
+            "no": 200,
+            "word": "arm",
+            "definition": "胳膊",
+            "loc": "三年级上册::Unit 2::4"
+        },
+        {
+            "no": 201,
+            "word": "hand",
+            "definition": "手",
+            "loc": "三年级上册::Unit 2::5"
+        },
+        {
+            "no": 202,
+            "word": "leg",
+            "definition": "腿",
+            "loc": "三年级上册::Unit 2::6"
+        },
+        {
+            "no": 203,
+            "word": "hurt",
+            "definition": "疼痛；弄疼",
+            "loc": "三年级上册::Unit 2::9"
+        },
+        {
+            "no": 204,
+            "word": "help",
+            "definition": "帮助",
+            "loc": "三年级上册::Unit 2::10"
+        },
+        {
+            "no": 205,
+            "word": "bad",
+            "definition": "坏的；糟糕",
+            "loc": "三年级上册::Unit 2::11"
+        },
+        {
+            "no": 206,
+            "word": "bite",
+            "definition": "咬",
+            "loc": "三年级上册::Unit 2::12"
+        },
+        {
+            "no": 207,
+            "word": "tongue",
+            "definition": "舌头",
+            "loc": "三年级上册::Unit 2::13"
+        },
+        {
+            "no": 208,
+            "word": "kick",
+            "definition": "踢",
+            "loc": "三年级上册::Unit 2::14"
+        },
+        {
+            "no": 209,
+            "word": "morning",
+            "definition": "早晨",
+            "loc": "三年级上册::Unit 2::15"
+        },
+        {
+            "no": 210,
+            "word": "afternoon",
+            "definition": "下午",
+            "loc": "三年级上册::Unit 2::16"
+        },
+        {
+            "no": 211,
+            "word": "summary",
+            "definition": "总结，摘要",
+            "loc": "三年级上册::Unit 2::17"
+        },
+        {
+            "no": 212,
+            "word": "face",
+            "definition": "脸",
+            "loc": "三年级上册::Unit 2::18"
+        },
+        {
+            "no": 213,
+            "word": "eye",
+            "definition": "眼睛",
+            "loc": "三年级上册::Unit 2::19"
+        },
+        {
+            "no": 214,
+            "word": "nose",
+            "definition": "鼻子",
+            "loc": "三年级上册::Unit 2::20"
+        },
+        {
+            "no": 215,
+            "word": "mouth",
+            "definition": "嘴巴",
+            "loc": "三年级上册::Unit 2::21"
+        },
+        {
+            "no": 216,
+            "word": "ear",
+            "definition": "耳朵",
+            "loc": "三年级上册::Unit 2::22"
+        },
+        {
+            "no": 217,
+            "word": "bread",
+            "definition": "面包",
+            "loc": "三年级上册::Unit 3::1"
+        },
+        {
+            "no": 218,
+            "word": "cake",
+            "definition": "蛋糕",
+            "loc": "三年级上册::Unit 3::2"
+        },
+        {
+            "no": 219,
+            "word": "fruit",
+            "definition": "水果",
+            "loc": "三年级上册::Unit 3::3"
+        },
+        {
+            "no": 220,
+            "word": "potato",
+            "definition": "土豆",
+            "loc": "三年级上册::Unit 3::5"
+        },
+        {
+            "no": 221,
+            "word": "tomato",
+            "definition": "西红柿",
+            "loc": "三年级上册::Unit 3::6"
+        },
+        {
+            "no": 222,
+            "word": "meat",
+            "definition": "肉",
+            "loc": "三年级上册::Unit 3::7"
+        },
+        {
+            "no": 223,
+            "word": "for",
+            "definition": "当作",
+            "loc": "三年级上册::Unit 3::8"
+        },
+        {
+            "no": 224,
+            "word": "cola",
+            "definition": "可乐",
+            "loc": "三年级上册::Unit 3::10"
+        },
+        {
+            "no": 225,
+            "word": "buy",
+            "definition": "买",
+            "loc": "三年级上册::Unit 3::11"
+        },
+        {
+            "no": 226,
+            "word": "rice",
+            "definition": "米",
+            "loc": "三年级上册::Unit 3::12"
+        },
+        {
+            "no": 227,
+            "word": "noodles",
+            "definition": "面条",
+            "loc": "三年级上册::Unit 3::13"
+        },
+        {
+            "no": 228,
+            "word": "vegetables",
+            "definition": "蔬菜",
+            "loc": "三年级上册::Unit 3::14"
+        },
+        {
+            "no": 229,
+            "word": "fish",
+            "definition": "鱼",
+            "loc": "三年级上册::Unit 3::15"
+        },
+        {
+            "no": 230,
+            "word": "chicken",
+            "definition": "鸡",
+            "loc": "三年级上册::Unit 3::16"
+        },
+        {
+            "no": 231,
+            "word": "egg",
+            "definition": "鸡蛋",
+            "loc": "三年级上册::Unit 3::17"
+        },
+        {
+            "no": 232,
+            "word": "duck",
+            "definition": "鸭子",
+            "loc": "三年级上册::Unit 4::1"
+        },
+        {
+            "no": 233,
+            "word": "chicken",
+            "definition": "鸡",
+            "loc": "三年级上册::Unit 4::2"
+        },
+        {
+            "no": 234,
+            "word": "rabbit",
+            "definition": "兔子",
+            "loc": "三年级上册::Unit 4::3"
+        },
+        {
+            "no": 235,
+            "word": "pet",
+            "definition": "宠物",
+            "loc": "三年级上册::Unit 4::4"
+        },
+        {
+            "no": 236,
+            "word": "snake",
+            "definition": "蛇",
+            "loc": "三年级上册::Unit 4::5"
+        },
+        {
+            "no": 237,
+            "word": "turtle",
+            "definition": "海龟",
+            "loc": "三年级上册::Unit 4::6"
+        },
+        {
+            "no": 238,
+            "word": "small",
+            "definition": "小的",
+            "loc": "三年级上册::Unit 4::7"
+        },
+        {
+            "no": 239,
+            "word": "long",
+            "definition": "长的",
+            "loc": "三年级上册::Unit 4::8"
+        },
+        {
+            "no": 240,
+            "word": "tail",
+            "definition": "尾巴",
+            "loc": "三年级上册::Unit 4::10"
+        },
+        {
+            "no": 241,
+            "word": "dance",
+            "definition": "跳舞",
+            "loc": "三年级上册::Unit 4::11"
+        },
+        {
+            "no": 242,
+            "word": "cat",
+            "definition": "猫",
+            "loc": "三年级上册::Unit 4::12"
+        },
+        {
+            "no": 243,
+            "word": "dog",
+            "definition": "狗",
+            "loc": "三年级上册::Unit 4::13"
+        },
+        {
+            "no": 244,
+            "word": "bird",
+            "definition": "鸟",
+            "loc": "三年级上册::Unit 4::14"
+        },
+        {
+            "no": 245,
+            "word": "fish",
+            "definition": "鱼",
+            "loc": "三年级上册::Unit 4::15"
+        },
+        {
+            "no": 246,
+            "word": "monkey",
+            "definition": "猴子",
+            "loc": "三年级上册::Unit 4::16"
+        },
+        {
+            "no": 247,
+            "word": "tiger",
+            "definition": "老虎",
+            "loc": "三年级上册::Unit 4::17"
+        },
+        {
+            "no": 248,
+            "word": "big",
+            "definition": "大",
+            "loc": "三年级上册::Unit 4::18"
+        },
+        {
+            "no": 249,
+            "word": "short",
+            "definition": "短",
+            "loc": "三年级上册::Unit 4::19"
+        },
+        {
+            "no": 250,
+            "word": "cap",
+            "definition": "帽子",
+            "loc": "三年级上册::Unit 5::1"
+        },
+        {
+            "no": 251,
+            "word": "coat",
+            "definition": "大衣",
+            "loc": "三年级上册::Unit 5::2"
+        },
+        {
+            "no": 252,
+            "word": "shoes",
+            "definition": "鞋",
+            "loc": "三年级上册::Unit 5::3"
+        },
+        {
+            "no": 253,
+            "word": "sweater",
+            "definition": "毛衣",
+            "loc": "三年级上册::Unit 5::4"
+        },
+        {
+            "no": 254,
+            "word": "jacket",
+            "definition": "夹克衫",
+            "loc": "三年级上册::Unit 5::5"
+        },
+        {
+            "no": 255,
+            "word": "gloves",
+            "definition": "手套",
+            "loc": "三年级上册::Unit 5::6"
+        },
+        {
+            "no": 256,
+            "word": "trousers",
+            "definition": "裤子",
+            "loc": "三年级上册::Unit 5::7"
+        },
+        {
+            "no": 257,
+            "word": "should",
+            "definition": "应该",
+            "loc": "三年级上册::Unit 5::8"
+        },
+        {
+            "no": 258,
+            "word": "wear",
+            "definition": "穿",
+            "loc": "三年级上册::Unit 5::9"
+        },
+        {
+            "no": 259,
+            "word": "week",
+            "definition": "星期",
+            "loc": "三年级上册::Unit 5::10"
+        },
+        {
+            "no": 260,
+            "word": "soon",
+            "definition": "不久，很快",
+            "loc": "三年级上册::Unit 5::11"
+        },
+        {
+            "no": 261,
+            "word": "shorts",
+            "definition": "短裤",
+            "loc": "三年级上册::Unit 5::14"
+        },
+        {
+            "no": 262,
+            "word": "socks",
+            "definition": "短袜",
+            "loc": "三年级上册::Unit 5::15"
+        },
+        {
+            "no": 263,
+            "word": "skirt",
+            "definition": "裙子",
+            "loc": "三年级上册::Unit 5::16"
+        },
+        {
+            "no": 264,
+            "word": "dress",
+            "definition": "连衣裙",
+            "loc": "三年级上册::Unit 5::17"
+        },
+        {
+            "no": 265,
+            "word": "shirt",
+            "definition": "衬衫",
+            "loc": "三年级上册::Unit 5::18"
+        },
+        {
+            "no": 266,
+            "word": "January",
+            "definition": "一月",
+            "loc": "三年级上册::Unit 6::1"
+        },
+        {
+            "no": 267,
+            "word": "February",
+            "definition": "二月",
+            "loc": "三年级上册::Unit 6::2"
+        },
+        {
+            "no": 268,
+            "word": "March",
+            "definition": "三月",
+            "loc": "三年级上册::Unit 6::3"
+        },
+        {
+            "no": 269,
+            "word": "April",
+            "definition": "四月",
+            "loc": "三年级上册::Unit 6::4"
+        },
+        {
+            "no": 270,
+            "word": "May",
+            "definition": "五月",
+            "loc": "三年级上册::Unit 6::5"
+        },
+        {
+            "no": 271,
+            "word": "June",
+            "definition": "六月",
+            "loc": "三年级上册::Unit 6::6"
+        },
+        {
+            "no": 272,
+            "word": "July",
+            "definition": "七月",
+            "loc": "三年级上册::Unit 6::7"
+        },
+        {
+            "no": 273,
+            "word": "August",
+            "definition": "八月",
+            "loc": "三年级上册::Unit 6::8"
+        },
+        {
+            "no": 274,
+            "word": "September",
+            "definition": "九月",
+            "loc": "三年级上册::Unit 6::9"
+        },
+        {
+            "no": 275,
+            "word": "October",
+            "definition": "十月",
+            "loc": "三年级上册::Unit 6::10"
+        },
+        {
+            "no": 276,
+            "word": "November",
+            "definition": "十一月",
+            "loc": "三年级上册::Unit 6::11"
+        },
+        {
+            "no": 277,
+            "word": "December",
+            "definition": "十二月",
+            "loc": "三年级上册::Unit 6::12"
+        },
+        {
+            "no": 278,
+            "word": "birthday",
+            "definition": "生日",
+            "loc": "三年级上册::Unit 6::13"
+        },
+        {
+            "no": 279,
+            "word": "first",
+            "definition": "第一",
+            "loc": "三年级上册::Unit 6::14"
+        },
+        {
+            "no": 280,
+            "word": "party",
+            "definition": "聚会",
+            "loc": "三年级上册::Unit 6::15"
+        },
+        {
+            "no": 281,
+            "word": "delicious",
+            "definition": "美味的",
+            "loc": "三年级上册::Unit 6::16"
+        },
+        {
+            "no": 282,
+            "word": "Chinese",
+            "definition": "语文；汉语",
+            "loc": "三年级下册::Unit 1::1"
+        },
+        {
+            "no": 283,
+            "word": "English",
+            "definition": "英语",
+            "loc": "三年级下册::Unit 1::2"
+        },
+        {
+            "no": 284,
+            "word": "science",
+            "definition": "科学",
+            "loc": "三年级下册::Unit 1::3"
+        },
+        {
+            "no": 285,
+            "word": "PE",
+            "definition": "体育",
+            "loc": "三年级下册::Unit 1::4"
+        },
+        {
+            "no": 286,
+            "word": "music",
+            "definition": "音乐",
+            "loc": "三年级下册::Unit 1::5"
+        },
+        {
+            "no": 287,
+            "word": "maths",
+            "definition": "数学",
+            "loc": "三年级下册::Unit 1::6"
+        },
+        {
+            "no": 288,
+            "word": "art",
+            "definition": "美术",
+            "loc": "三年级下册::Unit 1::7"
+        },
+        {
+            "no": 289,
+            "word": "we",
+            "definition": "我们",
+            "loc": "三年级下册::Unit 1::9"
+        },
+        {
+            "no": 290,
+            "word": "that",
+            "definition": "那，那个",
+            "loc": "三年级下册::Unit 1::10"
+        },
+        {
+            "no": 291,
+            "word": "classroom",
+            "definition": "教室",
+            "loc": "三年级下册::Unit 2::1"
+        },
+        {
+            "no": 292,
+            "word": "library",
+            "definition": "图书馆",
+            "loc": "三年级下册::Unit 2::2"
+        },
+        {
+            "no": 293,
+            "word": "toilet",
+            "definition": "洗手间",
+            "loc": "三年级下册::Unit 2::3"
+        },
+        {
+            "no": 294,
+            "word": "playground",
+            "definition": "操场",
+            "loc": "三年级下册::Unit 2::4"
+        },
+        {
+            "no": 295,
+            "word": "first",
+            "definition": "第一的",
+            "loc": "三年级下册::Unit 2::5"
+        },
+        {
+            "no": 296,
+            "word": "second",
+            "definition": "第二的",
+            "loc": "三年级下册::Unit 2::6"
+        },
+        {
+            "no": 297,
+            "word": "third",
+            "definition": "第三的",
+            "loc": "三年级下册::Unit 2::7"
+        },
+        {
+            "no": 298,
+            "word": "floor",
+            "definition": "（楼）层",
+            "loc": "三年级下册::Unit 2::8"
+        },
+        {
+            "no": 299,
+            "word": "room",
+            "definition": "房间",
+            "loc": "三年级下册::Unit 2::9"
+        },
+        {
+            "no": 300,
+            "word": "our",
+            "definition": "我们的",
+            "loc": "三年级下册::Unit 2::10"
+        },
+        {
+            "no": 301,
+            "word": "they",
+            "definition": "他们",
+            "loc": "三年级下册::Unit 2::11"
+        },
+        {
+            "no": 302,
+            "word": "chair",
+            "definition": "椅子",
+            "loc": "三年级下册::Unit 2::12"
+        },
+        {
+            "no": 303,
+            "word": "desk",
+            "definition": "书桌",
+            "loc": "三年级下册::Unit 2::13"
+        },
+        {
+            "no": 304,
+            "word": "blackboard",
+            "definition": "黑板",
+            "loc": "三年级下册::Unit 2::14"
+        },
+        {
+            "no": 305,
+            "word": "afterschool",
+            "definition": "放学后",
+            "loc": "三年级下册::Unit 3::1"
+        },
+        {
+            "no": 306,
+            "word": "dance",
+            "definition": "跳舞",
+            "loc": "三年级下册::Unit 3::5"
+        },
+        {
+            "no": 307,
+            "word": "really",
+            "definition": "确实",
+            "loc": "三年级下册::Unit 3::8"
+        },
+        {
+            "no": 308,
+            "word": "tomorrow",
+            "definition": "明天",
+            "loc": "三年级下册::Unit 3::9"
+        },
+        {
+            "no": 309,
+            "word": "swim",
+            "definition": "游泳",
+            "loc": "三年级下册::Unit 3::15"
+        },
+        {
+            "no": 310,
+            "word": "family",
+            "definition": "家庭",
+            "loc": "三年级下册::Unit 4::1"
+        },
+        {
+            "no": 311,
+            "word": "uncle",
+            "definition": "姑父；叔叔",
+            "loc": "三年级下册::Unit 4::2"
+        },
+        {
+            "no": 312,
+            "word": "aunt",
+            "definition": "姑母；阿姨",
+            "loc": "三年级下册::Unit 4::3"
+        },
+        {
+            "no": 313,
+            "word": "cousin",
+            "definition": "堂兄弟；堂姐妹",
+            "loc": "三年级下册::Unit 4::4"
+        },
+        {
+            "no": 314,
+            "word": "handsome",
+            "definition": "英俊的",
+            "loc": "三年级下册::Unit 4::5"
+        },
+        {
+            "no": 315,
+            "word": "beautiful",
+            "definition": "美丽的",
+            "loc": "三年级下册::Unit 4::6"
+        },
+        {
+            "no": 316,
+            "word": "lost",
+            "definition": "遗失",
+            "loc": "三年级下册::Unit 4::7"
+        },
+        {
+            "no": 317,
+            "word": "know",
+            "definition": "知道",
+            "loc": "三年级下册::Unit 4::9"
+        },
+        {
+            "no": 318,
+            "word": "OK",
+            "definition": "好的；行",
+            "loc": "三年级下册::Unit 4::10"
+        },
+        {
+            "no": 319,
+            "word": "much",
+            "definition": "很多的；非常",
+            "loc": "三年级下册::Unit 4::11"
+        },
+        {
+            "no": 320,
+            "word": "welcome",
+            "definition": "受欢迎的",
+            "loc": "三年级下册::Unit 4::12"
+        },
+        {
+            "no": 321,
+            "word": "grandfather",
+            "definition": "（外）祖父",
+            "loc": "三年级下册::Unit 4::13"
+        },
+        {
+            "no": 322,
+            "word": "grandmother",
+            "definition": "（外）祖母",
+            "loc": "三年级下册::Unit 4::14"
+        },
+        {
+            "no": 323,
+            "word": "father",
+            "definition": "父亲；爸爸",
+            "loc": "三年级下册::Unit 4::15"
+        },
+        {
+            "no": 324,
+            "word": "mother",
+            "definition": "母亲；妈妈",
+            "loc": "三年级下册::Unit 4::16"
+        },
+        {
+            "no": 325,
+            "word": "brother",
+            "definition": "兄；弟",
+            "loc": "三年级下册::Unit 4::17"
+        },
+        {
+            "no": 326,
+            "word": "sister",
+            "definition": "姐；妹",
+            "loc": "三年级下册::Unit 4::18"
+        },
+        {
+            "no": 327,
+            "word": "everyone",
+            "definition": "人人",
+            "loc": "三年级下册::Unit 5::10"
+        },
+        {
+            "no": 328,
+            "word": "children",
+            "definition": "孩子们",
+            "loc": "三年级下册::Unit 5::11"
+        },
+        {
+            "no": 329,
+            "word": "run",
+            "definition": "跑",
+            "loc": "三年级下册::Unit 5::12"
+        },
+        {
+            "no": 330,
+            "word": "home",
+            "definition": "家；家庭",
+            "loc": "三年级下册::Unit 6::1"
+        },
+        {
+            "no": 331,
+            "word": "bedroom",
+            "definition": "卧室",
+            "loc": "三年级下册::Unit 6::2"
+        },
+        {
+            "no": 332,
+            "word": "bathroom",
+            "definition": "浴室",
+            "loc": "三年级下册::Unit 6::4"
+        },
+        {
+            "no": 333,
+            "word": "study",
+            "definition": "书房",
+            "loc": "三年级下册::Unit 6::6"
+        },
+        {
+            "no": 334,
+            "word": "kitchen",
+            "definition": "厨房",
+            "loc": "三年级下册::Unit 6::7"
+        },
+        {
+            "no": 335,
+            "word": "sofa",
+            "definition": "沙发",
+            "loc": "三年级下册::Unit 6::9"
+        },
+        {
+            "no": 336,
+            "word": "light",
+            "definition": "灯",
+            "loc": "三年级下册::Unit 6::10"
+        },
+        {
+            "no": 337,
+            "word": "bed",
+            "definition": "床",
+            "loc": "三年级下册::Unit 6::11"
+        },
+        {
+            "no": 338,
+            "word": "door",
+            "definition": "门",
+            "loc": "三年级下册::Unit 6::12"
+        },
+        {
+            "no": 339,
+            "word": "box",
+            "definition": "盒子；箱子",
+            "loc": "三年级下册::Unit 6::13"
+        },
+        {
+            "no": 340,
+            "word": "running",
+            "definition": "跑步",
+            "loc": "四年级上册::Unit 1::1"
+        },
+        {
+            "no": 341,
+            "word": "basketball",
+            "definition": "篮球",
+            "loc": "四年级上册::Unit 1::2"
+        },
+        {
+            "no": 342,
+            "word": "interesting",
+            "definition": "有趣的",
+            "loc": "四年级上册::Unit 1::7"
+        },
+        {
+            "no": 343,
+            "word": "often",
+            "definition": "经常",
+            "loc": "四年级上册::Unit 1::8"
+        },
+        {
+            "no": 344,
+            "word": "late",
+            "definition": "晚",
+            "loc": "四年级上册::Unit 1::10"
+        },
+        {
+            "no": 345,
+            "word": "swim",
+            "definition": "游泳",
+            "loc": "四年级上册::Unit 1::11"
+        },
+        {
+            "no": 346,
+            "word": "friend",
+            "definition": "朋友",
+            "loc": "四年级上册::Unit 1::12"
+        },
+        {
+            "no": 347,
+            "word": "father",
+            "definition": "父亲",
+            "loc": "四年级上册::Unit 1::13"
+        },
+        {
+            "no": 348,
+            "word": "fun",
+            "definition": "有趣的",
+            "loc": "四年级上册::Unit 2::9"
+        },
+        {
+            "no": 349,
+            "word": "always",
+            "definition": "总是",
+            "loc": "四年级上册::Unit 2::10"
+        },
+        {
+            "no": 350,
+            "word": "step",
+            "definition": "踏；踩",
+            "loc": "四年级上册::Unit 2::11"
+        },
+        {
+            "no": 351,
+            "word": "paint",
+            "definition": "颜料",
+            "loc": "四年级上册::Unit 2::12"
+        },
+        {
+            "no": 352,
+            "word": "evening",
+            "definition": "傍晚；黄昏",
+            "loc": "四年级上册::Unit 2::13"
+        },
+        {
+            "no": 353,
+            "word": "dirty",
+            "definition": "脏的",
+            "loc": "四年级上册::Unit 2::14"
+        },
+        {
+            "no": 354,
+            "word": "their",
+            "definition": "他们的",
+            "loc": "四年级上册::Unit 2::15"
+        },
+        {
+            "no": 355,
+            "word": "house",
+            "definition": "房子",
+            "loc": "四年级上册::Unit 2::16"
+        },
+        {
+            "no": 356,
+            "word": "poor",
+            "definition": "可怜的",
+            "loc": "四年级上册::Unit 2::17"
+        },
+        {
+            "no": 357,
+            "word": "hope",
+            "definition": "希望",
+            "loc": "四年级上册::Unit 2::18"
+        },
+        {
+            "no": 358,
+            "word": "so",
+            "definition": "那么",
+            "loc": "四年级上册::Unit 2::19"
+        },
+        {
+            "no": 359,
+            "word": "Saturday",
+            "definition": "星期六",
+            "loc": "四年级上册::Unit 2::20"
+        },
+        {
+            "no": 360,
+            "word": "near",
+            "definition": "靠近",
+            "loc": "四年级上册::Unit 2::21"
+        },
+        {
+            "no": 361,
+            "word": "day",
+            "definition": "白天",
+            "loc": "四年级上册::Unit 2::22"
+        },
+        {
+            "no": 362,
+            "word": "usually",
+            "definition": "通常",
+            "loc": "四年级上册::Unit 3::1"
+        },
+        {
+            "no": 363,
+            "word": "garden",
+            "definition": "花园",
+            "loc": "四年级上册::Unit 3::13"
+        },
+        {
+            "no": 364,
+            "word": "gate",
+            "definition": "大门",
+            "loc": "四年级上册::Unit 3::15"
+        },
+        {
+            "no": 365,
+            "word": "transportation",
+            "definition": "交通",
+            "loc": "四年级上册::Unit 3::16"
+        },
+        {
+            "no": 366,
+            "word": "film",
+            "definition": "电影",
+            "loc": "四年级上册::Unit 3::17"
+        },
+        {
+            "no": 367,
+            "word": "earth",
+            "definition": "地球",
+            "loc": "四年级上册::Unit 3::18"
+        },
+        {
+            "no": 368,
+            "word": "snow",
+            "definition": "雪",
+            "loc": "四年级上册::Unit 3::19"
+        },
+        {
+            "no": 369,
+            "word": "theatre",
+            "definition": "剧场",
+            "loc": "四年级上册::Unit 3::20"
+        },
+        {
+            "no": 370,
+            "word": "come",
+            "definition": "来",
+            "loc": "四年级上册::Unit 3::21"
+        },
+        {
+            "no": 371,
+            "word": "enjoy",
+            "definition": "欣赏",
+            "loc": "四年级上册::Unit 3::22"
+        },
+        {
+            "no": 372,
+            "word": "park",
+            "definition": "公园",
+            "loc": "四年级上册::Unit 3::23"
+        },
+        {
+            "no": 373,
+            "word": "apple",
+            "definition": "苹果",
+            "loc": "四年级上册::Unit 3::24"
+        },
+        {
+            "no": 374,
+            "word": "pen",
+            "definition": "钢笔",
+            "loc": "四年级上册::Unit 4::1"
+        },
+        {
+            "no": 375,
+            "word": "knife",
+            "definition": "小刀",
+            "loc": "四年级上册::Unit 4::2"
+        },
+        {
+            "no": 376,
+            "word": "eraser",
+            "definition": "橡皮",
+            "loc": "四年级上册::Unit 4::3"
+        },
+        {
+            "no": 377,
+            "word": "crayon",
+            "definition": "蜡笔",
+            "loc": "四年级上册::Unit 4::4"
+        },
+        {
+            "no": 378,
+            "word": "scissors",
+            "definition": "剪刀",
+            "loc": "四年级上册::Unit 4::5"
+        },
+        {
+            "no": 379,
+            "word": "paper",
+            "definition": "纸",
+            "loc": "四年级上册::Unit 4::7"
+        },
+        {
+            "no": 380,
+            "word": "use",
+            "definition": "使用",
+            "loc": "四年级上册::Unit 4::8"
+        },
+        {
+            "no": 381,
+            "word": "please",
+            "definition": "请",
+            "loc": "四年级上册::Unit 4::9"
+        },
+        {
+            "no": 382,
+            "word": "find",
+            "definition": "找到",
+            "loc": "四年级上册::Unit 4::10"
+        },
+        {
+            "no": 383,
+            "word": "phone",
+            "definition": "电话",
+            "loc": "四年级上册::Unit 4::13"
+        },
+        {
+            "no": 384,
+            "word": "dad",
+            "definition": "爸爸",
+            "loc": "四年级上册::Unit 4::14"
+        },
+        {
+            "no": 385,
+            "word": "hamburger",
+            "definition": "汉堡包",
+            "loc": "四年级上册::Unit 4::15"
+        },
+        {
+            "no": 386,
+            "word": "ruler",
+            "definition": "尺子",
+            "loc": "四年级上册::Unit 4::16"
+        },
+        {
+            "no": 387,
+            "word": "pencil",
+            "definition": "铅笔",
+            "loc": "四年级上册::Unit 4::17"
+        },
+        {
+            "no": 388,
+            "word": "schoolbag",
+            "definition": "书包",
+            "loc": "四年级上册::Unit 4::18"
+        },
+        {
+            "no": 389,
+            "word": "shop",
+            "definition": "商店",
+            "loc": "四年级上册::Unit 4::19"
+        },
+        {
+            "no": 390,
+            "word": "dangerous",
+            "definition": "危险的",
+            "loc": "四年级上册::Unit 5::2"
+        },
+        {
+            "no": 391,
+            "word": "sidewalk",
+            "definition": "人行道",
+            "loc": "四年级上册::Unit 5::6"
+        },
+        {
+            "no": 392,
+            "word": "safe",
+            "definition": "安全",
+            "loc": "四年级上册::Unit 5::8"
+        },
+        {
+            "no": 393,
+            "word": "stop",
+            "definition": "停",
+            "loc": "四年级上册::Unit 5::9"
+        },
+        {
+            "no": 394,
+            "word": "street",
+            "definition": "街道",
+            "loc": "四年级上册::Unit 5::10"
+        },
+        {
+            "no": 395,
+            "word": "green",
+            "definition": "绿色的",
+            "loc": "四年级上册::Unit 5::12"
+        },
+        {
+            "no": 396,
+            "word": "red",
+            "definition": "红色的",
+            "loc": "四年级上册::Unit 5::13"
+        },
+        {
+            "no": 397,
+            "word": "nurse",
+            "definition": "护士",
+            "loc": "四年级上册::Unit 6::1"
+        },
+        {
+            "no": 398,
+            "word": "cook",
+            "definition": "厨师",
+            "loc": "四年级上册::Unit 6::2"
+        },
+        {
+            "no": 399,
+            "word": "doctor",
+            "definition": "医生",
+            "loc": "四年级上册::Unit 6::3"
+        },
+        {
+            "no": 400,
+            "word": "farmer",
+            "definition": "农民",
+            "loc": "四年级上册::Unit 6::7"
+        },
+        {
+            "no": 401,
+            "word": "worker",
+            "definition": "工人",
+            "loc": "四年级上册::Unit 6::8"
+        },
+        {
+            "no": 402,
+            "word": "great",
+            "definition": "好极了",
+            "loc": "四年级上册::Unit 6::10"
+        },
+        {
+            "no": 403,
+            "word": "job",
+            "definition": "工作",
+            "loc": "四年级上册::Unit 6::11"
+        },
+        {
+            "no": 404,
+            "word": "sick",
+            "definition": "有病的",
+            "loc": "四年级上册::Unit 6::12"
+        },
+        {
+            "no": 405,
+            "word": "people",
+            "definition": "人们",
+            "loc": "四年级上册::Unit 6::13"
+        },
+        {
+            "no": 406,
+            "word": "teach",
+            "definition": "教",
+            "loc": "四年级上册::Unit 6::14"
+        },
+        {
+            "no": 407,
+            "word": "just",
+            "definition": "只是",
+            "loc": "四年级上册::Unit 6::15"
+        },
+        {
+            "no": 408,
+            "word": "myself",
+            "definition": "我自己",
+            "loc": "四年级上册::Unit 6::16"
+        },
+        {
+            "no": 409,
+            "word": "sound",
+            "definition": "听起来",
+            "loc": "四年级上册::Unit 6::17"
+        },
+        {
+            "no": 410,
+            "word": "Monday",
+            "definition": "星期一",
+            "loc": "四年级上册::Unit 6::18"
+        },
+        {
+            "no": 411,
+            "word": "Tuesday",
+            "definition": "星期二",
+            "loc": "四年级上册::Unit 6::19"
+        },
+        {
+            "no": 412,
+            "word": "Wednesday",
+            "definition": "星期三",
+            "loc": "四年级上册::Unit 6::20"
+        },
+        {
+            "no": 413,
+            "word": "Thursday",
+            "definition": "星期四",
+            "loc": "四年级上册::Unit 6::21"
+        },
+        {
+            "no": 414,
+            "word": "Friday",
+            "definition": "星期五",
+            "loc": "四年级上册::Unit 6::22"
+        },
+        {
+            "no": 415,
+            "word": "teacher",
+            "definition": "老师",
+            "loc": "四年级上册::Unit 6::23"
+        },
+        {
+            "no": 416,
+            "word": "between",
+            "definition": "在……之间",
+            "loc": "四年级下册::Unit 1::3"
+        },
+        {
+            "no": 417,
+            "word": "restaurant",
+            "definition": "餐馆",
+            "loc": "四年级下册::Unit 1::4"
+        },
+        {
+            "no": 418,
+            "word": "bank",
+            "definition": "银行",
+            "loc": "四年级下册::Unit 1::6"
+        },
+        {
+            "no": 419,
+            "word": "grocery",
+            "definition": "食品杂货店",
+            "loc": "四年级下册::Unit 1::7"
+        },
+        {
+            "no": 420,
+            "word": "crossroads",
+            "definition": "十字路口",
+            "loc": "四年级下册::Unit 1::11"
+        },
+        {
+            "no": 421,
+            "word": "neighbourhood",
+            "definition": "街坊",
+            "loc": "四年级下册::Unit 1::12"
+        },
+        {
+            "no": 422,
+            "word": "send",
+            "definition": "发送",
+            "loc": "四年级下册::Unit 1::13"
+        },
+        {
+            "no": 423,
+            "word": "get",
+            "definition": "得到",
+            "loc": "四年级下册::Unit 1::14"
+        },
+        {
+            "no": 424,
+            "word": "money",
+            "definition": "钱",
+            "loc": "四年级下册::Unit 1::15"
+        },
+        {
+            "no": 425,
+            "word": "before",
+            "definition": "在……之前",
+            "loc": "四年级下册::Unit 1::17"
+        },
+        {
+            "no": 426,
+            "word": "leave",
+            "definition": "离开",
+            "loc": "四年级下册::Unit 1::18"
+        },
+        {
+            "no": 427,
+            "word": "toy",
+            "definition": "玩具",
+            "loc": "四年级下册::Unit 1::19"
+        },
+        {
+            "no": 428,
+            "word": "hospital",
+            "definition": "医院",
+            "loc": "四年级下册::Unit 1::20"
+        },
+        {
+            "no": 429,
+            "word": "bookshop",
+            "definition": "书店",
+            "loc": "四年级下册::Unit 1::21"
+        },
+        {
+            "no": 430,
+            "word": "school",
+            "definition": "学校",
+            "loc": "四年级下册::Unit 1::22"
+        },
+        {
+            "no": 431,
+            "word": "supermarket",
+            "definition": "超市",
+            "loc": "四年级下册::Unit 1::23"
+        },
+        {
+            "no": 432,
+            "word": "ball",
+            "definition": "球",
+            "loc": "四年级下册::Unit 1::24"
+        },
+        {
+            "no": 433,
+            "word": "city",
+            "definition": "城市",
+            "loc": "四年级下册::Unit 2::1"
+        },
+        {
+            "no": 434,
+            "word": "street",
+            "definition": "街道",
+            "loc": "四年级下册::Unit 2::2"
+        },
+        {
+            "no": 435,
+            "word": "hotel",
+            "definition": "宾馆",
+            "loc": "四年级下册::Unit 2::4"
+        },
+        {
+            "no": 436,
+            "word": "square",
+            "definition": "广场",
+            "loc": "四年级下册::Unit 2::5"
+        },
+        {
+            "no": 437,
+            "word": "busy",
+            "definition": "忙碌的",
+            "loc": "四年级下册::Unit 2::9"
+        },
+        {
+            "no": 438,
+            "word": "station",
+            "definition": "车站",
+            "loc": "四年级下册::Unit 2::10"
+        },
+        {
+            "no": 439,
+            "word": "place",
+            "definition": "地方",
+            "loc": "四年级下册::Unit 2::11"
+        },
+        {
+            "no": 440,
+            "word": "thing",
+            "definition": "事物",
+            "loc": "四年级下册::Unit 2::12"
+        },
+        {
+            "no": 441,
+            "word": "stay",
+            "definition": "停留",
+            "loc": "四年级下册::Unit 2::13"
+        },
+        {
+            "no": 442,
+            "word": "star",
+            "definition": "星星",
+            "loc": "四年级下册::Unit 2::14"
+        },
+        {
+            "no": 443,
+            "word": "king",
+            "definition": "国王",
+            "loc": "四年级下册::Unit 2::15"
+        },
+        {
+            "no": 444,
+            "word": "central",
+            "definition": "中心的",
+            "loc": "四年级下册::Unit 2::16"
+        },
+        {
+            "no": 445,
+            "word": "museum",
+            "definition": "博物馆",
+            "loc": "四年级下册::Unit 2::18"
+        },
+        {
+            "no": 446,
+            "word": "dream",
+            "definition": "梦",
+            "loc": "四年级下册::Unit 2::19"
+        },
+        {
+            "no": 447,
+            "word": "sea",
+            "definition": "大海",
+            "loc": "四年级下册::Unit 3::1"
+        },
+        {
+            "no": 448,
+            "word": "ski",
+            "definition": "滑雪",
+            "loc": "四年级下册::Unit 3::2"
+        },
+        {
+            "no": 449,
+            "word": "travel",
+            "definition": "旅游",
+            "loc": "四年级下册::Unit 3::10"
+        },
+        {
+            "no": 450,
+            "word": "reading",
+            "definition": "读书",
+            "loc": "四年级下册::Unit 4::1"
+        },
+        {
+            "no": 451,
+            "word": "skateboarding",
+            "definition": "玩滑板",
+            "loc": "四年级下册::Unit 4::2"
+        },
+        {
+            "no": 452,
+            "word": "singing",
+            "definition": "唱歌",
+            "loc": "四年级下册::Unit 4::3"
+        },
+        {
+            "no": 453,
+            "word": "dancing",
+            "definition": "跳舞",
+            "loc": "四年级下册::Unit 4::4"
+        },
+        {
+            "no": 454,
+            "word": "different",
+            "definition": "不同的",
+            "loc": "四年级下册::Unit 4::8"
+        },
+        {
+            "no": 455,
+            "word": "hobby",
+            "definition": "爱好",
+            "loc": "四年级下册::Unit 4::9"
+        },
+        {
+            "no": 456,
+            "word": "stamp",
+            "definition": "邮票",
+            "loc": "四年级下册::Unit 4::10"
+        },
+        {
+            "no": 457,
+            "word": "catch",
+            "definition": "抓住",
+            "loc": "四年级下册::Unit 4::11"
+        },
+        {
+            "no": 458,
+            "word": "free",
+            "definition": "空闲的",
+            "loc": "四年级下册::Unit 5::6"
+        },
+        {
+            "no": 459,
+            "word": "never",
+            "definition": "从不",
+            "loc": "四年级下册::Unit 5::7"
+        },
+        {
+            "no": 460,
+            "word": "Canada",
+            "definition": "加拿大",
+            "loc": "四年级下册::Unit 6::1"
+        },
+        {
+            "no": 461,
+            "word": "Australia",
+            "definition": "澳大利亚",
+            "loc": "四年级下册::Unit 6::2"
+        },
+        {
+            "no": 462,
+            "word": "China",
+            "definition": "中国",
+            "loc": "四年级下册::Unit 6::5"
+        },
+        {
+            "no": 463,
+            "word": "koala",
+            "definition": "考拉",
+            "loc": "四年级下册::Unit 6::6"
+        },
+        {
+            "no": 464,
+            "word": "Disneyland",
+            "definition": "迪斯尼乐园",
+            "loc": "四年级下册::Unit 6::9"
+        },
+        {
+            "no": 465,
+            "word": "campfire",
+            "definition": "篝火",
+            "loc": "四年级下册::Unit 6::10"
+        },
+        {
+            "no": 466,
+            "word": "cute",
+            "definition": "可爱的",
+            "loc": "四年级下册::Unit 6::11"
+        },
+        {
+            "no": 467,
+            "word": "country",
+            "definition": "国家",
+            "loc": "四年级下册::Unit 6::12"
+        },
+        {
+            "no": 468,
+            "word": "pretty",
+            "definition": "漂亮的",
+            "loc": "四年级下册::Unit 6::13"
+        },
+        {
+            "no": 469,
+            "word": "clever",
+            "definition": "聪明的",
+            "loc": "五年级上册::Unit 1::1"
+        },
+        {
+            "no": 470,
+            "word": "careless",
+            "definition": "粗心的",
+            "loc": "五年级上册::Unit 1::2"
+        },
+        {
+            "no": 471,
+            "word": "polite",
+            "definition": "有礼貌的",
+            "loc": "五年级上册::Unit 1::3"
+        },
+        {
+            "no": 472,
+            "word": "quiet",
+            "definition": "安静的",
+            "loc": "五年级上册::Unit 1::4"
+        },
+        {
+            "no": 473,
+            "word": "cute",
+            "definition": "漂亮的，可爱的",
+            "loc": "五年级上册::Unit 1::5"
+        },
+        {
+            "no": 474,
+            "word": "friendly",
+            "definition": "肯帮忙的",
+            "loc": "五年级上册::Unit 1::6"
+        },
+        {
+            "no": 475,
+            "word": "helpful",
+            "definition": "有帮助的",
+            "loc": "五年级上册::Unit 1::7"
+        },
+        {
+            "no": 476,
+            "word": "active",
+            "definition": "活跃的",
+            "loc": "五年级上册::Unit 1::8"
+        },
+        {
+            "no": 477,
+            "word": "popular",
+            "definition": "受欢迎的",
+            "loc": "五年级上册::Unit 1::9"
+        },
+        {
+            "no": 478,
+            "word": "talk",
+            "definition": "说话",
+            "loc": "五年级上册::Unit 1::10"
+        },
+        {
+            "no": 479,
+            "word": "party",
+            "definition": "聚会",
+            "loc": "五年级上册::Unit 1::11"
+        },
+        {
+            "no": 480,
+            "word": "all",
+            "definition": "全部",
+            "loc": "五年级上册::Unit 1::12"
+        },
+        {
+            "no": 481,
+            "word": "but",
+            "definition": "但是",
+            "loc": "五年级上册::Unit 1::13"
+        },
+        {
+            "no": 482,
+            "word": "sometimes",
+            "definition": "有时",
+            "loc": "五年级上册::Unit 1::14"
+        },
+        {
+            "no": 483,
+            "word": "bark",
+            "definition": "叫",
+            "loc": "五年级上册::Unit 1::15"
+        },
+        {
+            "no": 484,
+            "word": "forget",
+            "definition": "忘记",
+            "loc": "五年级上册::Unit 1::16"
+        },
+        {
+            "no": 485,
+            "word": "with",
+            "definition": "同……一起",
+            "loc": "五年级上册::Unit 1::17"
+        },
+        {
+            "no": 486,
+            "word": "slim",
+            "definition": "苗条的",
+            "loc": "五年级上册::Unit 2::2"
+        },
+        {
+            "no": 487,
+            "word": "curly",
+            "definition": "卷曲的",
+            "loc": "五年级上册::Unit 2::3"
+        },
+        {
+            "no": 488,
+            "word": "straight",
+            "definition": "直的",
+            "loc": "五年级上册::Unit 2::4"
+        },
+        {
+            "no": 489,
+            "word": "nice",
+            "definition": "好的",
+            "loc": "五年级上册::Unit 2::5"
+        },
+        {
+            "no": 490,
+            "word": "young",
+            "definition": "年轻的",
+            "loc": "五年级上册::Unit 2::6"
+        },
+        {
+            "no": 491,
+            "word": "teach",
+            "definition": "教",
+            "loc": "五年级上册::Unit 2::7"
+        },
+        {
+            "no": 492,
+            "word": "guess",
+            "definition": "猜",
+            "loc": "五年级上册::Unit 2::8"
+        },
+        {
+            "no": 493,
+            "word": "has",
+            "definition": "有",
+            "loc": "五年级上册::Unit 2::9"
+        },
+        {
+            "no": 494,
+            "word": "animal",
+            "definition": "动物",
+            "loc": "五年级上册::Unit 3::1"
+        },
+        {
+            "no": 495,
+            "word": "elephant",
+            "definition": "大象",
+            "loc": "五年级上册::Unit 3::2"
+        },
+        {
+            "no": 496,
+            "word": "panda",
+            "definition": "熊猫",
+            "loc": "五年级上册::Unit 3::3"
+        },
+        {
+            "no": 497,
+            "word": "horse",
+            "definition": "马",
+            "loc": "五年级上册::Unit 3::4"
+        },
+        {
+            "no": 498,
+            "word": "cow",
+            "definition": "牛",
+            "loc": "五年级上册::Unit 3::5"
+        },
+        {
+            "no": 499,
+            "word": "pig",
+            "definition": "猪",
+            "loc": "五年级上册::Unit 3::6"
+        },
+        {
+            "no": 500,
+            "word": "sheep",
+            "definition": "绵羊",
+            "loc": "五年级上册::Unit 3::7"
+        },
+        {
+            "no": 501,
+            "word": "bee",
+            "definition": "蜜蜂",
+            "loc": "五年级上册::Unit 3::8"
+        },
+        {
+            "no": 502,
+            "word": "farm",
+            "definition": "农场",
+            "loc": "五年级上册::Unit 3::9"
+        },
+        {
+            "no": 503,
+            "word": "fast",
+            "definition": "迅速",
+            "loc": "五年级上册::Unit 3::10"
+        },
+        {
+            "no": 504,
+            "word": "why",
+            "definition": "为什么",
+            "loc": "五年级上册::Unit 3::11"
+        },
+        {
+            "no": 505,
+            "word": "lovely",
+            "definition": "可爱的",
+            "loc": "五年级上册::Unit 3::12"
+        },
+        {
+            "no": 506,
+            "word": "butterfly",
+            "definition": "蝴蝶",
+            "loc": "五年级上册::Unit 3::13"
+        },
+        {
+            "no": 507,
+            "word": "please",
+            "definition": "请",
+            "loc": "五年级上册::Unit 4::6"
+        },
+        {
+            "no": 508,
+            "word": "only",
+            "definition": "只",
+            "loc": "五年级上册::Unit 4::7"
+        },
+        {
+            "no": 509,
+            "word": "also",
+            "definition": "也",
+            "loc": "五年级上册::Unit 4::8"
+        },
+        {
+            "no": 510,
+            "word": "saleswoman",
+            "definition": "女售货员",
+            "loc": "五年级上册::Unit 4::9"
+        },
+        {
+            "no": 511,
+            "word": "great",
+            "definition": "好极了",
+            "loc": "五年级上册::Unit 4::10"
+        },
+        {
+            "no": 512,
+            "word": "love",
+            "definition": "喜欢",
+            "loc": "五年级上册::Unit 4::11"
+        },
+        {
+            "no": 513,
+            "word": "wonderful",
+            "definition": "精彩的",
+            "loc": "五年级上册::Unit 5::1"
+        },
+        {
+            "no": 514,
+            "word": "cool",
+            "definition": "酷的",
+            "loc": "五年级上册::Unit 5::2"
+        },
+        {
+            "no": 515,
+            "word": "fantastic",
+            "definition": "极好的",
+            "loc": "五年级上册::Unit 5::3"
+        },
+        {
+            "no": 516,
+            "word": "cartoons",
+            "definition": "动画片",
+            "loc": "五年级上册::Unit 5::4"
+        },
+        {
+            "no": 517,
+            "word": "chore",
+            "definition": "家务",
+            "loc": "五年级上册::Unit 6::1"
+        },
+        {
+            "no": 518,
+            "word": "call",
+            "definition": "打电话给……",
+            "loc": "五年级上册::Unit 6::8"
+        },
+        {
+            "no": 519,
+            "word": "candy",
+            "definition": "糖果",
+            "loc": "五年级下册::Unit 1::2"
+        },
+        {
+            "no": 520,
+            "word": "early",
+            "definition": "早",
+            "loc": "五年级下册::Unit 1::4"
+        },
+        {
+            "no": 521,
+            "word": "exercise",
+            "definition": "锻炼",
+            "loc": "五年级下册::Unit 1::5"
+        },
+        {
+            "no": 522,
+            "word": "tired",
+            "definition": "困倦的",
+            "loc": "五年级下册::Unit 1::6"
+        },
+        {
+            "no": 523,
+            "word": "drink",
+            "definition": "喝",
+            "loc": "五年级下册::Unit 1::7"
+        },
+        {
+            "no": 524,
+            "word": "before",
+            "definition": "在……之前",
+            "loc": "五年级下册::Unit 1::8"
+        },
+        {
+            "no": 525,
+            "word": "dirty",
+            "definition": "脏的",
+            "loc": "五年级下册::Unit 1::9"
+        },
+        {
+            "no": 526,
+            "word": "always",
+            "definition": "总是",
+            "loc": "五年级下册::Unit 1::10"
+        },
+        {
+            "no": 527,
+            "word": "stomachache",
+            "definition": "胃疼",
+            "loc": "五年级下册::Unit 1::11"
+        },
+        {
+            "no": 528,
+            "word": "headache",
+            "definition": "头疼",
+            "loc": "五年级下册::Unit 1::12"
+        },
+        {
+            "no": 529,
+            "word": "toothache",
+            "definition": "牙疼",
+            "loc": "五年级下册::Unit 1::13"
+        },
+        {
+            "no": 530,
+            "word": "sleepy",
+            "definition": "困的",
+            "loc": "五年级下册::Unit 1::15"
+        },
+        {
+            "no": 531,
+            "word": "subject",
+            "definition": "学科",
+            "loc": "五年级下册::Unit 1::16"
+        },
+        {
+            "no": 532,
+            "word": "mark",
+            "definition": "分数",
+            "loc": "五年级下册::Unit 1::17"
+        },
+        {
+            "no": 533,
+            "word": "advice",
+            "definition": "建议",
+            "loc": "五年级下册::Unit 1::18"
+        },
+        {
+            "no": 534,
+            "word": "more",
+            "definition": "更多的",
+            "loc": "五年级下册::Unit 1::19"
+        },
+        {
+            "no": 535,
+            "word": "birthday",
+            "definition": "生日",
+            "loc": "五年级下册::Unit 2::9"
+        },
+        {
+            "no": 536,
+            "word": "tenth",
+            "definition": "第十",
+            "loc": "五年级下册::Unit 2::11"
+        },
+        {
+            "no": 537,
+            "word": "twelfth",
+            "definition": "第十二",
+            "loc": "五年级下册::Unit 2::12"
+        },
+        {
+            "no": 538,
+            "word": "plant",
+            "definition": "种植",
+            "loc": "五年级下册::Unit 2::14"
+        },
+        {
+            "no": 539,
+            "word": "celebrate",
+            "definition": "庆祝",
+            "loc": "五年级下册::Unit 2::16"
+        },
+        {
+            "no": 540,
+            "word": "office",
+            "definition": "办公室",
+            "loc": "五年级下册::Unit 2::18"
+        },
+        {
+            "no": 541,
+            "word": "together",
+            "definition": "在一起",
+            "loc": "五年级下册::Unit 2::19"
+        },
+        {
+            "no": 542,
+            "word": "special",
+            "definition": "特别的",
+            "loc": "五年级下册::Unit 2::20"
+        },
+        {
+            "no": 543,
+            "word": "say",
+            "definition": "说；讲",
+            "loc": "五年级下册::Unit 3::7"
+        },
+        {
+            "no": 544,
+            "word": "everywhere",
+            "definition": "到处",
+            "loc": "五年级下册::Unit 3::9"
+        },
+        {
+            "no": 545,
+            "word": "danced",
+            "definition": "（dance的过去式）跳舞",
+            "loc": "五年级下册::Unit 4::5"
+        },
+        {
+            "no": 546,
+            "word": "boring",
+            "definition": "乏味的",
+            "loc": "五年级下册::Unit 4::14"
+        },
+        {
+            "no": 547,
+            "word": "badminton",
+            "definition": "羽毛球",
+            "loc": "五年级下册::Unit 4::15"
+        },
+        {
+            "no": 548,
+            "word": "won",
+            "definition": "（win的过去式）赢；获胜",
+            "loc": "五年级下册::Unit 4::16"
+        },
+        {
+            "no": 549,
+            "word": "swam",
+            "definition": "（swim的过去式）游泳",
+            "loc": "五年级下册::Unit 5::3"
+        },
+        {
+            "no": 550,
+            "word": "slept",
+            "definition": "（sleep的过去式）睡觉",
+            "loc": "五年级下册::Unit 5::9"
+        },
+        {
+            "no": 551,
+            "word": "delicious",
+            "definition": "美味的",
+            "loc": "五年级下册::Unit 5::10"
+        },
+        {
+            "no": 552,
+            "word": "sad",
+            "definition": "悲哀的",
+            "loc": "五年级下册::Unit 5::12"
+        },
+        {
+            "no": 553,
+            "word": "left",
+            "definition": "（leave过去式）离开",
+            "loc": "五年级下册::Unit 5::13"
+        },
+        {
+            "no": 554,
+            "word": "were",
+            "definition": "（are的过去式）是",
+            "loc": "五年级下册::Unit 5::15"
+        },
+        {
+            "no": 555,
+            "word": "into",
+            "definition": "进入",
+            "loc": "五年级下册::Unit 6::14"
+        },
+        {
+            "no": 556,
+            "word": "chopsticks",
+            "definition": "筷子",
+            "loc": "五年级下册::Unit 6::15"
+        },
+        {
+            "no": 557,
+            "word": "wet",
+            "definition": "湿的",
+            "loc": "五年级下册::Unit 6::16"
+        },
+        {
+            "no": 558,
+            "word": "soup",
+            "definition": "汤",
+            "loc": "六年级上册::Unit 1::2"
+        },
+        {
+            "no": 559,
+            "word": "garden",
+            "definition": "花园",
+            "loc": "六年级上册::Unit 1::3"
+        },
+        {
+            "no": 560,
+            "word": "vacation",
+            "definition": "假期",
+            "loc": "六年级上册::Unit 1::7"
+        },
+        {
+            "no": 561,
+            "word": "taste",
+            "definition": "品尝",
+            "loc": "六年级上册::Unit 1::8"
+        },
+        {
+            "no": 562,
+            "word": "map",
+            "definition": "地图",
+            "loc": "六年级上册::Unit 1::9"
+        },
+        {
+            "no": 563,
+            "word": "north",
+            "definition": "北",
+            "loc": "六年级上册::Unit 1::10"
+        },
+        {
+            "no": 564,
+            "word": "south",
+            "definition": "南",
+            "loc": "六年级上册::Unit 1::11"
+        },
+        {
+            "no": 565,
+            "word": "east",
+            "definition": "东",
+            "loc": "六年级上册::Unit 1::12"
+        },
+        {
+            "no": 566,
+            "word": "west",
+            "definition": "西",
+            "loc": "六年级上册::Unit 1::13"
+        },
+        {
+            "no": 567,
+            "word": "famous",
+            "definition": "著名的",
+            "loc": "六年级上册::Unit 1::14"
+        },
+        {
+            "no": 568,
+            "word": "temple",
+            "definition": "寺",
+            "loc": "六年级上册::Unit 1::15"
+        },
+        {
+            "no": 569,
+            "word": "around",
+            "definition": "遍及",
+            "loc": "六年级上册::Unit 1::16"
+        },
+        {
+            "no": 570,
+            "word": "foggy",
+            "definition": "有雾的",
+            "loc": "六年级上册::Unit 1::18"
+        },
+        {
+            "no": 571,
+            "word": "spicy",
+            "definition": "辣的",
+            "loc": "六年级上册::Unit 1::19"
+        },
+        {
+            "no": 572,
+            "word": "silk",
+            "definition": "丝绸",
+            "loc": "六年级上册::Unit 1::20"
+        },
+        {
+            "no": 573,
+            "word": "forest",
+            "definition": "树林",
+            "loc": "六年级上册::Unit 1::21"
+        },
+        {
+            "no": 574,
+            "word": "stone",
+            "definition": "石头",
+            "loc": "六年级上册::Unit 1::22"
+        },
+        {
+            "no": 575,
+            "word": "London",
+            "definition": "伦敦",
+            "loc": "六年级上册::Unit 2::1"
+        },
+        {
+            "no": 576,
+            "word": "Toronto",
+            "definition": "多伦多",
+            "loc": "六年级上册::Unit 2::2"
+        },
+        {
+            "no": 577,
+            "word": "Sydney",
+            "definition": "悉尼",
+            "loc": "六年级上册::Unit 2::3"
+        },
+        {
+            "no": 578,
+            "word": "kangaroo",
+            "definition": "袋鼠",
+            "loc": "六年级上册::Unit 2::7"
+        },
+        {
+            "no": 579,
+            "word": "clock",
+            "definition": "时钟",
+            "loc": "六年级上册::Unit 2::10"
+        },
+        {
+            "no": 580,
+            "word": "speak",
+            "definition": "说",
+            "loc": "六年级上册::Unit 2::11"
+        },
+        {
+            "no": 581,
+            "word": "French",
+            "definition": "法语",
+            "loc": "六年级上册::Unit 2::12"
+        },
+        {
+            "no": 582,
+            "word": "hiking",
+            "definition": "远足",
+            "loc": "六年级上册::Unit 2::15"
+        },
+        {
+            "no": 583,
+            "word": "sunrise",
+            "definition": "日出",
+            "loc": "六年级上册::Unit 2::16"
+        },
+        {
+            "no": 584,
+            "word": "president",
+            "definition": "总统",
+            "loc": "六年级上册::Unit 2::17"
+        },
+        {
+            "no": 585,
+            "word": "reptile",
+            "definition": "爬行动物",
+            "loc": "六年级上册::Unit 3::1"
+        },
+        {
+            "no": 586,
+            "word": "bird",
+            "definition": "鸟",
+            "loc": "六年级上册::Unit 3::2"
+        },
+        {
+            "no": 587,
+            "word": "mammal",
+            "definition": "哺乳动物",
+            "loc": "六年级上册::Unit 3::3"
+        },
+        {
+            "no": 588,
+            "word": "insect",
+            "definition": "昆虫",
+            "loc": "六年级上册::Unit 3::4"
+        },
+        {
+            "no": 589,
+            "word": "penguin",
+            "definition": "企鹅",
+            "loc": "六年级上册::Unit 3::5"
+        },
+        {
+            "no": 590,
+            "word": "shark",
+            "definition": "鲨鱼",
+            "loc": "六年级上册::Unit 3::6"
+        },
+        {
+            "no": 591,
+            "word": "whale",
+            "definition": "鲸",
+            "loc": "六年级上册::Unit 3::7"
+        },
+        {
+            "no": 592,
+            "word": "kind",
+            "definition": "种类",
+            "loc": "六年级上册::Unit 3::8"
+        },
+        {
+            "no": 593,
+            "word": "metre",
+            "definition": "米",
+            "loc": "六年级上册::Unit 3::9"
+        },
+        {
+            "no": 594,
+            "word": "spend",
+            "definition": "花费",
+            "loc": "六年级上册::Unit 3::10"
+        },
+        {
+            "no": 595,
+            "word": "trunk",
+            "definition": "象鼻",
+            "loc": "六年级上册::Unit 3::11"
+        },
+        {
+            "no": 596,
+            "word": "peanut",
+            "definition": "花生",
+            "loc": "六年级上册::Unit 3::12"
+        },
+        {
+            "no": 597,
+            "word": "fan",
+            "definition": "扇子",
+            "loc": "六年级上册::Unit 3::13"
+        },
+        {
+            "no": 598,
+            "word": "tusk",
+            "definition": "（象、野猪等的）长牙",
+            "loc": "六年级上册::Unit 3::14"
+        },
+        {
+            "no": 599,
+            "word": "Africa",
+            "definition": "非洲",
+            "loc": "六年级上册::Unit 3::15"
+        },
+        {
+            "no": 600,
+            "word": "Asia",
+            "definition": "亚洲",
+            "loc": "六年级上册::Unit 3::16"
+        },
+        {
+            "no": 601,
+            "word": "smart",
+            "definition": "聪明的",
+            "loc": "六年级上册::Unit 3::17"
+        },
+        {
+            "no": 602,
+            "word": "scared",
+            "definition": "害怕的",
+            "loc": "六年级上册::Unit 4::1"
+        },
+        {
+            "no": 603,
+            "word": "worried",
+            "definition": "担心的",
+            "loc": "六年级上册::Unit 4::2"
+        },
+        {
+            "no": 604,
+            "word": "angry",
+            "definition": "生气的",
+            "loc": "六年级上册::Unit 4::3"
+        },
+        {
+            "no": 605,
+            "word": "proud",
+            "definition": "自豪的",
+            "loc": "六年级上册::Unit 4::4"
+        },
+        {
+            "no": 606,
+            "word": "sad",
+            "definition": "难过的",
+            "loc": "六年级上册::Unit 4::5"
+        },
+        {
+            "no": 607,
+            "word": "excited",
+            "definition": "激动地",
+            "loc": "六年级上册::Unit 4::6"
+        },
+        {
+            "no": 608,
+            "word": "happy",
+            "definition": "高兴的",
+            "loc": "六年级上册::Unit 4::7"
+        },
+        {
+            "no": 609,
+            "word": "ill",
+            "definition": "有病",
+            "loc": "六年级上册::Unit 4::8"
+        },
+        {
+            "no": 610,
+            "word": "win",
+            "definition": "获胜",
+            "loc": "六年级上册::Unit 4::9"
+        },
+        {
+            "no": 611,
+            "word": "race",
+            "definition": "赛跑",
+            "loc": "六年级上册::Unit 4::10"
+        },
+        {
+            "no": 612,
+            "word": "find",
+            "definition": "发现",
+            "loc": "六年级上册::Unit 4::11"
+        },
+        {
+            "no": 613,
+            "word": "cry",
+            "definition": "哭",
+            "loc": "六年级上册::Unit 4::12"
+        },
+        {
+            "no": 614,
+            "word": "because",
+            "definition": "因为",
+            "loc": "六年级上册::Unit 4::13"
+        },
+        {
+            "no": 615,
+            "word": "test",
+            "definition": "测验",
+            "loc": "六年级上册::Unit 4::14"
+        },
+        {
+            "no": 616,
+            "word": "competition",
+            "definition": "竞赛",
+            "loc": "六年级上册::Unit 4::15"
+        },
+        {
+            "no": 617,
+            "word": "hurt",
+            "definition": "弄伤",
+            "loc": "六年级上册::Unit 4::16"
+        },
+        {
+            "no": 618,
+            "word": "inventor",
+            "definition": "发明家",
+            "loc": "六年级上册::Unit 5::1"
+        },
+        {
+            "no": 619,
+            "word": "artist",
+            "definition": "画家",
+            "loc": "六年级上册::Unit 5::2"
+        },
+        {
+            "no": 620,
+            "word": "scientist",
+            "definition": "科学家",
+            "loc": "六年级上册::Unit 5::3"
+        },
+        {
+            "no": 621,
+            "word": "poet",
+            "definition": "诗人",
+            "loc": "六年级上册::Unit 5::4"
+        },
+        {
+            "no": 622,
+            "word": "writer",
+            "definition": "作家",
+            "loc": "六年级上册::Unit 5::5"
+        },
+        {
+            "no": 623,
+            "word": "American",
+            "definition": "美国人",
+            "loc": "六年级上册::Unit 5::6"
+        },
+        {
+            "no": 624,
+            "word": "French",
+            "definition": "法国人",
+            "loc": "六年级上册::Unit 5::7"
+        },
+        {
+            "no": 625,
+            "word": "Danish",
+            "definition": "丹麦人",
+            "loc": "六年级上册::Unit 5::8"
+        },
+        {
+            "no": 626,
+            "word": "poem",
+            "definition": "诗",
+            "loc": "六年级上册::Unit 5::9"
+        },
+        {
+            "no": 627,
+            "word": "paint",
+            "definition": "用颜料画",
+            "loc": "六年级上册::Unit 5::10"
+        },
+        {
+            "no": 628,
+            "word": "invention",
+            "definition": "发明",
+            "loc": "六年级上册::Unit 5::11"
+        },
+        {
+            "no": 629,
+            "word": "invent",
+            "definition": "发明",
+            "loc": "六年级上册::Unit 5::12"
+        },
+        {
+            "no": 630,
+            "word": "study",
+            "definition": "学习",
+            "loc": "六年级上册::Unit 5::13"
+        },
+        {
+            "no": 631,
+            "word": "story",
+            "definition": "故事",
+            "loc": "六年级上册::Unit 5::14"
+        },
+        {
+            "no": 632,
+            "word": "university",
+            "definition": "大学",
+            "loc": "六年级上册::Unit 5::15"
+        },
+        {
+            "no": 633,
+            "word": "deaf",
+            "definition": "聋的",
+            "loc": "六年级上册::Unit 5::16"
+        },
+        {
+            "no": 634,
+            "word": "blind",
+            "definition": "失明的",
+            "loc": "六年级上册::Unit 5::17"
+        },
+        {
+            "no": 635,
+            "word": "fall",
+            "definition": "落下",
+            "loc": "六年级上册::Unit 5::18"
+        },
+        {
+            "no": 636,
+            "word": "dumpling",
+            "definition": "饺子，汤圆",
+            "loc": "六年级上册::Unit 6::1"
+        },
+        {
+            "no": 637,
+            "word": "fan",
+            "definition": "迷，爱好者",
+            "loc": "六年级上册::Unit 6::2"
+        },
+        {
+            "no": 638,
+            "word": "bring",
+            "definition": "带来",
+            "loc": "六年级上册::Unit 6::4"
+        },
+        {
+            "no": 639,
+            "word": "hear",
+            "definition": "听到",
+            "loc": "六年级上册::Unit 6::6"
+        },
+        {
+            "no": 640,
+            "word": "broken",
+            "definition": "损坏了的",
+            "loc": "六年级上册::Unit 6::8"
+        },
+        {
+            "no": 641,
+            "word": "pity",
+            "definition": "遗憾",
+            "loc": "六年级上册::Unit 6::9"
+        },
+        {
+            "no": 642,
+            "word": "prize",
+            "definition": "奖品",
+            "loc": "六年级上册::Unit 6::10"
+        },
+        {
+            "no": 643,
+            "word": "live",
+            "definition": "居住",
+            "loc": "六年级下册::Unit 1::1"
+        },
+        {
+            "no": 644,
+            "word": "quite",
+            "definition": "相当",
+            "loc": "六年级下册::Unit 1::2"
+        },
+        {
+            "no": 645,
+            "word": "scarf",
+            "definition": "围巾",
+            "loc": "六年级下册::Unit 1::3"
+        },
+        {
+            "no": 646,
+            "word": "airport",
+            "definition": "机场",
+            "loc": "六年级下册::Unit 1::4"
+        },
+        {
+            "no": 647,
+            "word": "pupil",
+            "definition": "小学生",
+            "loc": "六年级下册::Unit 1::5"
+        },
+        {
+            "no": 648,
+            "word": "arrive",
+            "definition": "到达",
+            "loc": "六年级下册::Unit 1::6"
+        },
+        {
+            "no": 649,
+            "word": "meet",
+            "definition": "会面",
+            "loc": "六年级下册::Unit 1::7"
+        },
+        {
+            "no": 650,
+            "word": "wardrobe",
+            "definition": "衣柜",
+            "loc": "六年级下册::Unit 1::8"
+        },
+        {
+            "no": 651,
+            "word": "downtown",
+            "definition": "市中心",
+            "loc": "六年级下册::Unit 2::5"
+        },
+        {
+            "no": 652,
+            "word": "stadium",
+            "definition": "体育场",
+            "loc": "六年级下册::Unit 2::7"
+        },
+        {
+            "no": 653,
+            "word": "volunteer",
+            "definition": "志愿者",
+            "loc": "六年级下册::Unit 3::1"
+        },
+        {
+            "no": 654,
+            "word": "sandwich",
+            "definition": "三明治",
+            "loc": "六年级下册::Unit 3::2"
+        },
+        {
+            "no": 655,
+            "word": "top",
+            "definition": "上边",
+            "loc": "六年级下册::Unit 3::3"
+        },
+        {
+            "no": 656,
+            "word": "habit",
+            "definition": "习惯",
+            "loc": "六年级下册::Unit 3::4"
+        },
+        {
+            "no": 657,
+            "word": "idea",
+            "definition": "主意",
+            "loc": "六年级下册::Unit 3::5"
+        },
+        {
+            "no": 658,
+            "word": "less",
+            "definition": "更少",
+            "loc": "六年级下册::Unit 3::6"
+        },
+        {
+            "no": 659,
+            "word": "hockey",
+            "definition": "曲棍球",
+            "loc": "六年级下册::Unit 4::2"
+        },
+        {
+            "no": 660,
+            "word": "together",
+            "definition": "一起",
+            "loc": "六年级下册::Unit 4::3"
+        },
+        {
+            "no": 661,
+            "word": "special",
+            "definition": "特殊",
+            "loc": "六年级下册::Unit 4::4"
+        },
+        {
+            "no": 662,
+            "word": "beaver",
+            "definition": "海狸",
+            "loc": "六年级下册::Unit 4::5"
+        },
+        {
+            "no": 663,
+            "word": "raccoon",
+            "definition": "浣熊",
+            "loc": "六年级下册::Unit 4::6"
+        },
+        {
+            "no": 664,
+            "word": "moose",
+            "definition": "驼鹿",
+            "loc": "六年级下册::Unit 4::7"
+        },
+        {
+            "no": 665,
+            "word": "countryside",
+            "definition": "乡下",
+            "loc": "六年级下册::Unit 5::1"
+        },
+        {
+            "no": 666,
+            "word": "Thanksgiving",
+            "definition": "感恩节",
+            "loc": "六年级下册::Unit 5::2"
+        },
+        {
+            "no": 667,
+            "word": "squirrel",
+            "definition": "松鼠",
+            "loc": "六年级下册::Unit 5::4"
+        },
+        {
+            "no": 668,
+            "word": "swan",
+            "definition": "天鹅",
+            "loc": "六年级下册::Unit 5::5"
+        },
+        {
+            "no": 669,
+            "word": "frog",
+            "definition": "青蛙",
+            "loc": "六年级下册::Unit 5::7"
+        },
+        {
+            "no": 670,
+            "word": "amazing",
+            "definition": "惊人的",
+            "loc": "六年级下册::Unit 6::4"
+        }
+    ]
+}

@@ -1,0 +1,353 @@
+{
+    "name": "三年级下册",
+    "words": [
+        {
+            "no": 285,
+            "word": "Chinese",
+            "definition": "语文；汉语",
+            "loc": "三年级下册::Unit 1::1"
+        },
+        {
+            "no": 286,
+            "word": "English",
+            "definition": "英语",
+            "loc": "三年级下册::Unit 1::2"
+        },
+        {
+            "no": 287,
+            "word": "science",
+            "definition": "科学",
+            "loc": "三年级下册::Unit 1::3"
+        },
+        {
+            "no": 288,
+            "word": "PE",
+            "definition": "体育",
+            "loc": "三年级下册::Unit 1::4"
+        },
+        {
+            "no": 289,
+            "word": "music",
+            "definition": "音乐",
+            "loc": "三年级下册::Unit 1::5"
+        },
+        {
+            "no": 290,
+            "word": "maths",
+            "definition": "数学",
+            "loc": "三年级下册::Unit 1::6"
+        },
+        {
+            "no": 291,
+            "word": "art",
+            "definition": "美术",
+            "loc": "三年级下册::Unit 1::7"
+        },
+        {
+            "no": 292,
+            "word": "we",
+            "definition": "我们",
+            "loc": "三年级下册::Unit 1::9"
+        },
+        {
+            "no": 293,
+            "word": "that",
+            "definition": "那，那个",
+            "loc": "三年级下册::Unit 1::10"
+        },
+        {
+            "no": 294,
+            "word": "classroom",
+            "definition": "教室",
+            "loc": "三年级下册::Unit 2::1"
+        },
+        {
+            "no": 295,
+            "word": "library",
+            "definition": "图书馆",
+            "loc": "三年级下册::Unit 2::2"
+        },
+        {
+            "no": 296,
+            "word": "toilet",
+            "definition": "洗手间",
+            "loc": "三年级下册::Unit 2::3"
+        },
+        {
+            "no": 297,
+            "word": "playground",
+            "definition": "操场",
+            "loc": "三年级下册::Unit 2::4"
+        },
+        {
+            "no": 298,
+            "word": "first",
+            "definition": "第一的",
+            "loc": "三年级下册::Unit 2::5"
+        },
+        {
+            "no": 299,
+            "word": "second",
+            "definition": "第二的",
+            "loc": "三年级下册::Unit 2::6"
+        },
+        {
+            "no": 300,
+            "word": "third",
+            "definition": "第三的",
+            "loc": "三年级下册::Unit 2::7"
+        },
+        {
+            "no": 301,
+            "word": "floor",
+            "definition": "（楼）层",
+            "loc": "三年级下册::Unit 2::8"
+        },
+        {
+            "no": 302,
+            "word": "room",
+            "definition": "房间",
+            "loc": "三年级下册::Unit 2::9"
+        },
+        {
+            "no": 303,
+            "word": "our",
+            "definition": "我们的",
+            "loc": "三年级下册::Unit 2::10"
+        },
+        {
+            "no": 304,
+            "word": "they",
+            "definition": "他们",
+            "loc": "三年级下册::Unit 2::11"
+        },
+        {
+            "no": 305,
+            "word": "chair",
+            "definition": "椅子",
+            "loc": "三年级下册::Unit 2::12"
+        },
+        {
+            "no": 306,
+            "word": "desk",
+            "definition": "书桌",
+            "loc": "三年级下册::Unit 2::13"
+        },
+        {
+            "no": 307,
+            "word": "blackboard",
+            "definition": "黑板",
+            "loc": "三年级下册::Unit 2::14"
+        },
+        {
+            "no": 308,
+            "word": "afterschool",
+            "definition": "放学后",
+            "loc": "三年级下册::Unit 3::1"
+        },
+        {
+            "no": 309,
+            "word": "dance",
+            "definition": "跳舞",
+            "loc": "三年级下册::Unit 3::5"
+        },
+        {
+            "no": 310,
+            "word": "really",
+            "definition": "确实",
+            "loc": "三年级下册::Unit 3::8"
+        },
+        {
+            "no": 311,
+            "word": "tomorrow",
+            "definition": "明天",
+            "loc": "三年级下册::Unit 3::9"
+        },
+        {
+            "no": 312,
+            "word": "swim",
+            "definition": "游泳",
+            "loc": "三年级下册::Unit 3::15"
+        },
+        {
+            "no": 313,
+            "word": "family",
+            "definition": "家庭",
+            "loc": "三年级下册::Unit 4::1"
+        },
+        {
+            "no": 314,
+            "word": "uncle",
+            "definition": "姑父；叔叔",
+            "loc": "三年级下册::Unit 4::2"
+        },
+        {
+            "no": 315,
+            "word": "aunt",
+            "definition": "姑母；阿姨",
+            "loc": "三年级下册::Unit 4::3"
+        },
+        {
+            "no": 316,
+            "word": "cousin",
+            "definition": "堂兄弟；堂姐妹",
+            "loc": "三年级下册::Unit 4::4"
+        },
+        {
+            "no": 317,
+            "word": "handsome",
+            "definition": "英俊的",
+            "loc": "三年级下册::Unit 4::5"
+        },
+        {
+            "no": 318,
+            "word": "beautiful",
+            "definition": "美丽的",
+            "loc": "三年级下册::Unit 4::6"
+        },
+        {
+            "no": 319,
+            "word": "lost",
+            "definition": "遗失",
+            "loc": "三年级下册::Unit 4::7"
+        },
+        {
+            "no": 320,
+            "word": "know",
+            "definition": "知道",
+            "loc": "三年级下册::Unit 4::9"
+        },
+        {
+            "no": 321,
+            "word": "OK",
+            "definition": "好的；行",
+            "loc": "三年级下册::Unit 4::10"
+        },
+        {
+            "no": 322,
+            "word": "much",
+            "definition": "很多的；非常",
+            "loc": "三年级下册::Unit 4::11"
+        },
+        {
+            "no": 323,
+            "word": "welcome",
+            "definition": "受欢迎的",
+            "loc": "三年级下册::Unit 4::12"
+        },
+        {
+            "no": 324,
+            "word": "grandfather",
+            "definition": "（外）祖父",
+            "loc": "三年级下册::Unit 4::13"
+        },
+        {
+            "no": 325,
+            "word": "grandmother",
+            "definition": "（外）祖母",
+            "loc": "三年级下册::Unit 4::14"
+        },
+        {
+            "no": 326,
+            "word": "father",
+            "definition": "父亲；爸爸",
+            "loc": "三年级下册::Unit 4::15"
+        },
+        {
+            "no": 327,
+            "word": "mother",
+            "definition": "母亲；妈妈",
+            "loc": "三年级下册::Unit 4::16"
+        },
+        {
+            "no": 328,
+            "word": "brother",
+            "definition": "兄；弟",
+            "loc": "三年级下册::Unit 4::17"
+        },
+        {
+            "no": 329,
+            "word": "sister",
+            "definition": "姐；妹",
+            "loc": "三年级下册::Unit 4::18"
+        },
+        {
+            "no": 330,
+            "word": "everyone",
+            "definition": "人人",
+            "loc": "三年级下册::Unit 5::10"
+        },
+        {
+            "no": 331,
+            "word": "children",
+            "definition": "孩子们",
+            "loc": "三年级下册::Unit 5::11"
+        },
+        {
+            "no": 332,
+            "word": "run",
+            "definition": "跑",
+            "loc": "三年级下册::Unit 5::12"
+        },
+        {
+            "no": 333,
+            "word": "home",
+            "definition": "家；家庭",
+            "loc": "三年级下册::Unit 6::1"
+        },
+        {
+            "no": 334,
+            "word": "bedroom",
+            "definition": "卧室",
+            "loc": "三年级下册::Unit 6::2"
+        },
+        {
+            "no": 335,
+            "word": "bathroom",
+            "definition": "浴室",
+            "loc": "三年级下册::Unit 6::4"
+        },
+        {
+            "no": 336,
+            "word": "study",
+            "definition": "书房",
+            "loc": "三年级下册::Unit 6::6"
+        },
+        {
+            "no": 337,
+            "word": "kitchen",
+            "definition": "厨房",
+            "loc": "三年级下册::Unit 6::7"
+        },
+        {
+            "no": 338,
+            "word": "sofa",
+            "definition": "沙发",
+            "loc": "三年级下册::Unit 6::9"
+        },
+        {
+            "no": 339,
+            "word": "light",
+            "definition": "灯",
+            "loc": "三年级下册::Unit 6::10"
+        },
+        {
+            "no": 340,
+            "word": "bed",
+            "definition": "床",
+            "loc": "三年级下册::Unit 6::11"
+        },
+        {
+            "no": 341,
+            "word": "door",
+            "definition": "门",
+            "loc": "三年级下册::Unit 6::12"
+        },
+        {
+            "no": 342,
+            "word": "box",
+            "definition": "盒子；箱子",
+            "loc": "三年级下册::Unit 6::13"
+        }
+    ]
+}

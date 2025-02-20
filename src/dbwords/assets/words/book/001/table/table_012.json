@@ -1,0 +1,173 @@
+{
+    "name": "六年级下册",
+    "words": [
+        {
+            "no": 648,
+            "word": "live",
+            "definition": "居住",
+            "loc": "六年级下册::Unit 1::1"
+        },
+        {
+            "no": 649,
+            "word": "quite",
+            "definition": "相当",
+            "loc": "六年级下册::Unit 1::2"
+        },
+        {
+            "no": 650,
+            "word": "scarf",
+            "definition": "围巾",
+            "loc": "六年级下册::Unit 1::3"
+        },
+        {
+            "no": 651,
+            "word": "airport",
+            "definition": "机场",
+            "loc": "六年级下册::Unit 1::4"
+        },
+        {
+            "no": 652,
+            "word": "pupil",
+            "definition": "小学生",
+            "loc": "六年级下册::Unit 1::5"
+        },
+        {
+            "no": 653,
+            "word": "arrive",
+            "definition": "到达",
+            "loc": "六年级下册::Unit 1::6"
+        },
+        {
+            "no": 654,
+            "word": "meet",
+            "definition": "会面",
+            "loc": "六年级下册::Unit 1::7"
+        },
+        {
+            "no": 655,
+            "word": "wardrobe",
+            "definition": "衣柜",
+            "loc": "六年级下册::Unit 1::8"
+        },
+        {
+            "no": 656,
+            "word": "downtown",
+            "definition": "市中心",
+            "loc": "六年级下册::Unit 2::5"
+        },
+        {
+            "no": 657,
+            "word": "stadium",
+            "definition": "体育场",
+            "loc": "六年级下册::Unit 2::7"
+        },
+        {
+            "no": 658,
+            "word": "volunteer",
+            "definition": "志愿者",
+            "loc": "六年级下册::Unit 3::1"
+        },
+        {
+            "no": 659,
+            "word": "sandwich",
+            "definition": "三明治",
+            "loc": "六年级下册::Unit 3::2"
+        },
+        {
+            "no": 660,
+            "word": "top",
+            "definition": "上边",
+            "loc": "六年级下册::Unit 3::3"
+        },
+        {
+            "no": 661,
+            "word": "habit",
+            "definition": "习惯",
+            "loc": "六年级下册::Unit 3::4"
+        },
+        {
+            "no": 662,
+            "word": "idea",
+            "definition": "主意",
+            "loc": "六年级下册::Unit 3::5"
+        },
+        {
+            "no": 663,
+            "word": "less",
+            "definition": "更少",
+            "loc": "六年级下册::Unit 3::6"
+        },
+        {
+            "no": 664,
+            "word": "hockey",
+            "definition": "曲棍球",
+            "loc": "六年级下册::Unit 4::2"
+        },
+        {
+            "no": 665,
+            "word": "together",
+            "definition": "一起",
+            "loc": "六年级下册::Unit 4::3"
+        },
+        {
+            "no": 666,
+            "word": "special",
+            "definition": "特殊",
+            "loc": "六年级下册::Unit 4::4"
+        },
+        {
+            "no": 667,
+            "word": "beaver",
+            "definition": "海狸",
+            "loc": "六年级下册::Unit 4::5"
+        },
+        {
+            "no": 668,
+            "word": "raccoon",
+            "definition": "浣熊",
+            "loc": "六年级下册::Unit 4::6"
+        },
+        {
+            "no": 669,
+            "word": "moose",
+            "definition": "驼鹿",
+            "loc": "六年级下册::Unit 4::7"
+        },
+        {
+            "no": 670,
+            "word": "countryside",
+            "definition": "乡下",
+            "loc": "六年级下册::Unit 5::1"
+        },
+        {
+            "no": 671,
+            "word": "Thanksgiving",
+            "definition": "感恩节",
+            "loc": "六年级下册::Unit 5::2"
+        },
+        {
+            "no": 672,
+            "word": "squirrel",
+            "definition": "松鼠",
+            "loc": "六年级下册::Unit 5::4"
+        },
+        {
+            "no": 673,
+            "word": "swan",
+            "definition": "天鹅",
+            "loc": "六年级下册::Unit 5::5"
+        },
+        {
+            "no": 674,
+            "word": "frog",
+            "definition": "青蛙",
+            "loc": "六年级下册::Unit 5::7"
+        },
+        {
+            "no": 675,
+            "word": "amazing",
+            "definition": "惊人的",
+            "loc": "六年级下册::Unit 6::4"
+        }
+    ]
+}

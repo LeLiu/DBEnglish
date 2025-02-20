@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
-import '../models/word_bank.dart';
+import '../models/word_table.dart';
 import '../models/word.dart';
 
 class PlanCreatePage extends StatefulWidget {
@@ -13,7 +13,7 @@ class PlanCreatePage extends StatefulWidget {
 }
 
 class _PlanCreatePageState extends State<PlanCreatePage> {
-  List<WordBank> _libraries = [];
+  List<WordTable> _libraries = [];
   bool _loading = true;
 
   @override
@@ -27,14 +27,14 @@ class _PlanCreatePageState extends State<PlanCreatePage> {
       final manifestContent = await DefaultAssetBundle.of(context).loadString('AssetManifest.json');
       final Map<String, dynamic> manifest = json.decode(manifestContent);
       final wordFiles = manifest.keys.where((String key) => key.startsWith('assets/words/') && key.endsWith('.json'));
-      final libraries = <WordBank>[];
+      final libraries = <WordTable>[];
 
       for (var filePath in wordFiles) {
         final name = path.basenameWithoutExtension(filePath);
         final content = await DefaultAssetBundle.of(context).loadString(filePath);
         final jsonList = jsonDecode(content) as List;
         final words = jsonList.map((json) => Word.fromJson(json as Map<String, dynamic>)).toList();
-        libraries.add(WordBank(name: name, words: words));
+        libraries.add(WordTable(name: name, words: words));
       }
 
       setState(() {

@@ -1,0 +1,311 @@
+{
+    "name": "一年级上册",
+    "words": [
+        {
+            "no": 1,
+            "word": "book",
+            "definition": "书，书本",
+            "loc": "一年级上册::Unit 1::1"
+        },
+        {
+            "no": 2,
+            "word": "ruler",
+            "definition": "尺子",
+            "loc": "一年级上册::Unit 1::2"
+        },
+        {
+            "no": 3,
+            "word": "pencil",
+            "definition": "铅笔",
+            "loc": "一年级上册::Unit 1::3"
+        },
+        {
+            "no": 4,
+            "word": "schoolbag",
+            "definition": "书包",
+            "loc": "一年级上册::Unit 1::4"
+        },
+        {
+            "no": 5,
+            "word": "teacher",
+            "definition": "教师",
+            "loc": "一年级上册::Unit 1::5"
+        },
+        {
+            "no": 6,
+            "word": "I",
+            "definition": "我",
+            "loc": "一年级上册::Unit 1::6"
+        },
+        {
+            "no": 7,
+            "word": "have",
+            "definition": "有",
+            "loc": "一年级上册::Unit 1::7"
+        },
+        {
+            "no": 8,
+            "word": "face",
+            "definition": "脸",
+            "loc": "一年级上册::Unit 2::1"
+        },
+        {
+            "no": 9,
+            "word": "ear",
+            "definition": "耳朵",
+            "loc": "一年级上册::Unit 2::2"
+        },
+        {
+            "no": 10,
+            "word": "eye",
+            "definition": "眼睛",
+            "loc": "一年级上册::Unit 2::3"
+        },
+        {
+            "no": 11,
+            "word": "nose",
+            "definition": "鼻子",
+            "loc": "一年级上册::Unit 2::4"
+        },
+        {
+            "no": 12,
+            "word": "mouth",
+            "definition": "嘴巴",
+            "loc": "一年级上册::Unit 2::5"
+        },
+        {
+            "no": 13,
+            "word": "this",
+            "definition": "这（个）",
+            "loc": "一年级上册::Unit 2::6"
+        },
+        {
+            "no": 14,
+            "word": "is",
+            "definition": "是",
+            "loc": "一年级上册::Unit 2::7"
+        },
+        {
+            "no": 15,
+            "word": "my",
+            "definition": "我的",
+            "loc": "一年级上册::Unit 2::8"
+        },
+        {
+            "no": 16,
+            "word": "dog",
+            "definition": "狗",
+            "loc": "一年级上册::Unit 3::1"
+        },
+        {
+            "no": 17,
+            "word": "bird",
+            "definition": "鸟",
+            "loc": "一年级上册::Unit 3::2"
+        },
+        {
+            "no": 18,
+            "word": "tiger",
+            "definition": "老虎",
+            "loc": "一年级上册::Unit 3::3"
+        },
+        {
+            "no": 19,
+            "word": "monkey",
+            "definition": "猴子",
+            "loc": "一年级上册::Unit 3::4"
+        },
+        {
+            "no": 20,
+            "word": "cat",
+            "definition": "猫",
+            "loc": "一年级上册::Unit 3::5"
+        },
+        {
+            "no": 21,
+            "word": "what",
+            "definition": "什么",
+            "loc": "一年级上册::Unit 3::6"
+        },
+        {
+            "no": 22,
+            "word": "it",
+            "definition": "它",
+            "loc": "一年级上册::Unit 3::7"
+        },
+        {
+            "no": 23,
+            "word": "one",
+            "definition": "一",
+            "loc": "一年级上册::Unit 4::1"
+        },
+        {
+            "no": 24,
+            "word": "two",
+            "definition": "二",
+            "loc": "一年级上册::Unit 4::2"
+        },
+        {
+            "no": 25,
+            "word": "three",
+            "definition": "三",
+            "loc": "一年级上册::Unit 4::3"
+        },
+        {
+            "no": 26,
+            "word": "four",
+            "definition": "四",
+            "loc": "一年级上册::Unit 4::4"
+        },
+        {
+            "no": 27,
+            "word": "five",
+            "definition": "五",
+            "loc": "一年级上册::Unit 4::5"
+        },
+        {
+            "no": 28,
+            "word": "six",
+            "definition": "六",
+            "loc": "一年级上册::Unit 4::6"
+        },
+        {
+            "no": 29,
+            "word": "seven",
+            "definition": "七",
+            "loc": "一年级上册::Unit 4::7"
+        },
+        {
+            "no": 30,
+            "word": "eight",
+            "definition": "八",
+            "loc": "一年级上册::Unit 4::8"
+        },
+        {
+            "no": 31,
+            "word": "nine",
+            "definition": "九",
+            "loc": "一年级上册::Unit 4::9"
+        },
+        {
+            "no": 32,
+            "word": "ten",
+            "definition": "十",
+            "loc": "一年级上册::Unit 4::10"
+        },
+        {
+            "no": 33,
+            "word": "how",
+            "definition": "多少",
+            "loc": "一年级上册::Unit 4::11"
+        },
+        {
+            "no": 34,
+            "word": "many",
+            "definition": "多的，许多的",
+            "loc": "一年级上册::Unit 4::12"
+        },
+        {
+            "no": 35,
+            "word": "are",
+            "definition": "是",
+            "loc": "一年级上册::Unit 4::13"
+        },
+        {
+            "no": 36,
+            "word": "there",
+            "definition": "（代替主语）",
+            "loc": "一年级上册::Unit 4::14"
+        },
+        {
+            "no": 37,
+            "word": "black",
+            "definition": "黑色；黑色的",
+            "loc": "一年级上册::Unit 5::1"
+        },
+        {
+            "no": 38,
+            "word": "yellow",
+            "definition": "黄色；黄色的",
+            "loc": "一年级上册::Unit 5::2"
+        },
+        {
+            "no": 39,
+            "word": "blue",
+            "definition": "蓝色；蓝色的",
+            "loc": "一年级上册::Unit 5::3"
+        },
+        {
+            "no": 40,
+            "word": "red",
+            "definition": "红色；红色的",
+            "loc": "一年级上册::Unit 5::4"
+        },
+        {
+            "no": 41,
+            "word": "green",
+            "definition": "绿色；绿色的",
+            "loc": "一年级上册::Unit 5::5"
+        },
+        {
+            "no": 42,
+            "word": "colour",
+            "definition": "颜色",
+            "loc": "一年级上册::Unit 5::6"
+        },
+        {
+            "no": 43,
+            "word": "apple",
+            "definition": "苹果",
+            "loc": "一年级上册::Unit 6::1"
+        },
+        {
+            "no": 44,
+            "word": "pear",
+            "definition": "梨",
+            "loc": "一年级上册::Unit 6::2"
+        },
+        {
+            "no": 45,
+            "word": "banana",
+            "definition": "香蕉",
+            "loc": "一年级上册::Unit 6::3"
+        },
+        {
+            "no": 46,
+            "word": "orange",
+            "definition": "柑橘；橙",
+            "loc": "一年级上册::Unit 6::4"
+        },
+        {
+            "no": 47,
+            "word": "do",
+            "definition": "（助动词）",
+            "loc": "一年级上册::Unit 6::5"
+        },
+        {
+            "no": 48,
+            "word": "you",
+            "definition": "你；你们",
+            "loc": "一年级上册::Unit 6::6"
+        },
+        {
+            "no": 49,
+            "word": "like",
+            "definition": "喜欢；喜爱",
+            "loc": "一年级上册::Unit 6::7"
+        },
+        {
+            "no": 50,
+            "word": "yes",
+            "definition": "是，是的",
+            "loc": "一年级上册::Unit 6::8"
+        },
+        {
+            "no": 51,
+            "word": "no",
+            "definition": "不，不是",
+            "loc": "一年级上册::Unit 6::9"
+        }
+    ]
+}

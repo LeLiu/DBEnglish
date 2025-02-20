@@ -1,0 +1,245 @@
+{
+    "name": "五年级下册",
+    "words": [
+        {
+            "no": 523,
+            "word": "candy",
+            "definition": "糖果",
+            "loc": "五年级下册::Unit 1::2"
+        },
+        {
+            "no": 524,
+            "word": "early",
+            "definition": "早",
+            "loc": "五年级下册::Unit 1::4"
+        },
+        {
+            "no": 525,
+            "word": "exercise",
+            "definition": "锻炼",
+            "loc": "五年级下册::Unit 1::5"
+        },
+        {
+            "no": 526,
+            "word": "tired",
+            "definition": "困倦的",
+            "loc": "五年级下册::Unit 1::6"
+        },
+        {
+            "no": 527,
+            "word": "drink",
+            "definition": "喝",
+            "loc": "五年级下册::Unit 1::7"
+        },
+        {
+            "no": 528,
+            "word": "before",
+            "definition": "在……之前",
+            "loc": "五年级下册::Unit 1::8"
+        },
+        {
+            "no": 529,
+            "word": "dirty",
+            "definition": "脏的",
+            "loc": "五年级下册::Unit 1::9"
+        },
+        {
+            "no": 530,
+            "word": "always",
+            "definition": "总是",
+            "loc": "五年级下册::Unit 1::10"
+        },
+        {
+            "no": 531,
+            "word": "stomachache",
+            "definition": "胃疼",
+            "loc": "五年级下册::Unit 1::11"
+        },
+        {
+            "no": 532,
+            "word": "headache",
+            "definition": "头疼",
+            "loc": "五年级下册::Unit 1::12"
+        },
+        {
+            "no": 533,
+            "word": "toothache",
+            "definition": "牙疼",
+            "loc": "五年级下册::Unit 1::13"
+        },
+        {
+            "no": 534,
+            "word": "sleepy",
+            "definition": "困的",
+            "loc": "五年级下册::Unit 1::15"
+        },
+        {
+            "no": 535,
+            "word": "subject",
+            "definition": "学科",
+            "loc": "五年级下册::Unit 1::16"
+        },
+        {
+            "no": 536,
+            "word": "mark",
+            "definition": "分数",
+            "loc": "五年级下册::Unit 1::17"
+        },
+        {
+            "no": 537,
+            "word": "advice",
+            "definition": "建议",
+            "loc": "五年级下册::Unit 1::18"
+        },
+        {
+            "no": 538,
+            "word": "more",
+            "definition": "更多的",
+            "loc": "五年级下册::Unit 1::19"
+        },
+        {
+            "no": 539,
+            "word": "birthday",
+            "definition": "生日",
+            "loc": "五年级下册::Unit 2::9"
+        },
+        {
+            "no": 540,
+            "word": "tenth",
+            "definition": "第十",
+            "loc": "五年级下册::Unit 2::11"
+        },
+        {
+            "no": 541,
+            "word": "twelfth",
+            "definition": "第十二",
+            "loc": "五年级下册::Unit 2::12"
+        },
+        {
+            "no": 542,
+            "word": "twenty-fifth",
+            "definition": "第二十五",
+            "loc": "五年级下册::Unit 2::13"
+        },
+        {
+            "no": 543,
+            "word": "plant",
+            "definition": "种植",
+            "loc": "五年级下册::Unit 2::14"
+        },
+        {
+            "no": 544,
+            "word": "celebrate",
+            "definition": "庆祝",
+            "loc": "五年级下册::Unit 2::16"
+        },
+        {
+            "no": 545,
+            "word": "office",
+            "definition": "办公室",
+            "loc": "五年级下册::Unit 2::18"
+        },
+        {
+            "no": 546,
+            "word": "together",
+            "definition": "在一起",
+            "loc": "五年级下册::Unit 2::19"
+        },
+        {
+            "no": 547,
+            "word": "special",
+            "definition": "特别的",
+            "loc": "五年级下册::Unit 2::20"
+        },
+        {
+            "no": 548,
+            "word": "say",
+            "definition": "说；讲",
+            "loc": "五年级下册::Unit 3::7"
+        },
+        {
+            "no": 549,
+            "word": "everywhere",
+            "definition": "到处",
+            "loc": "五年级下册::Unit 3::9"
+        },
+        {
+            "no": 550,
+            "word": "danced",
+            "definition": "（dance的过去式）跳舞",
+            "loc": "五年级下册::Unit 4::5"
+        },
+        {
+            "no": 551,
+            "word": "boring",
+            "definition": "乏味的",
+            "loc": "五年级下册::Unit 4::14"
+        },
+        {
+            "no": 552,
+            "word": "badminton",
+            "definition": "羽毛球",
+            "loc": "五年级下册::Unit 4::15"
+        },
+        {
+            "no": 553,
+            "word": "won",
+            "definition": "（win的过去式）赢；获胜",
+            "loc": "五年级下册::Unit 4::16"
+        },
+        {
+            "no": 554,
+            "word": "swam",
+            "definition": "（swim的过去式）游泳",
+            "loc": "五年级下册::Unit 5::3"
+        },
+        {
+            "no": 555,
+            "word": "slept",
+            "definition": "（sleep的过去式）睡觉",
+            "loc": "五年级下册::Unit 5::9"
+        },
+        {
+            "no": 556,
+            "word": "delicious",
+            "definition": "美味的",
+            "loc": "五年级下册::Unit 5::10"
+        },
+        {
+            "no": 557,
+            "word": "sad",
+            "definition": "悲哀的",
+            "loc": "五年级下册::Unit 5::12"
+        },
+        {
+            "no": 558,
+            "word": "left",
+            "definition": "（leave过去式）离开",
+            "loc": "五年级下册::Unit 5::13"
+        },
+        {
+            "no": 559,
+            "word": "were",
+            "definition": "（are的过去式）是",
+            "loc": "五年级下册::Unit 5::15"
+        },
+        {
+            "no": 560,
+            "word": "into",
+            "definition": "进入",
+            "loc": "五年级下册::Unit 6::14"
+        },
+        {
+            "no": 561,
+            "word": "chopsticks",
+            "definition": "筷子",
+            "loc": "五年级下册::Unit 6::15"
+        },
+        {
+            "no": 562,
+            "word": "wet",
+            "definition": "湿的",
+            "loc": "五年级下册::Unit 6::16"
+        }
+    ]
+}

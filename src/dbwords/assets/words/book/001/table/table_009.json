@@ -1,0 +1,305 @@
+{
+    "name": "五年级上册",
+    "words": [
+        {
+            "no": 473,
+            "word": "clever",
+            "definition": "聪明的",
+            "loc": "五年级上册::Unit 1::1"
+        },
+        {
+            "no": 474,
+            "word": "careless",
+            "definition": "粗心的",
+            "loc": "五年级上册::Unit 1::2"
+        },
+        {
+            "no": 475,
+            "word": "polite",
+            "definition": "有礼貌的",
+            "loc": "五年级上册::Unit 1::3"
+        },
+        {
+            "no": 476,
+            "word": "quiet",
+            "definition": "安静的",
+            "loc": "五年级上册::Unit 1::4"
+        },
+        {
+            "no": 477,
+            "word": "cute",
+            "definition": "漂亮的，可爱的",
+            "loc": "五年级上册::Unit 1::5"
+        },
+        {
+            "no": 478,
+            "word": "friendly",
+            "definition": "肯帮忙的",
+            "loc": "五年级上册::Unit 1::6"
+        },
+        {
+            "no": 479,
+            "word": "helpful",
+            "definition": "有帮助的",
+            "loc": "五年级上册::Unit 1::7"
+        },
+        {
+            "no": 480,
+            "word": "active",
+            "definition": "活跃的",
+            "loc": "五年级上册::Unit 1::8"
+        },
+        {
+            "no": 481,
+            "word": "popular",
+            "definition": "受欢迎的",
+            "loc": "五年级上册::Unit 1::9"
+        },
+        {
+            "no": 482,
+            "word": "talk",
+            "definition": "说话",
+            "loc": "五年级上册::Unit 1::10"
+        },
+        {
+            "no": 483,
+            "word": "party",
+            "definition": "聚会",
+            "loc": "五年级上册::Unit 1::11"
+        },
+        {
+            "no": 484,
+            "word": "all",
+            "definition": "全部",
+            "loc": "五年级上册::Unit 1::12"
+        },
+        {
+            "no": 485,
+            "word": "but",
+            "definition": "但是",
+            "loc": "五年级上册::Unit 1::13"
+        },
+        {
+            "no": 486,
+            "word": "sometimes",
+            "definition": "有时",
+            "loc": "五年级上册::Unit 1::14"
+        },
+        {
+            "no": 487,
+            "word": "bark",
+            "definition": "叫",
+            "loc": "五年级上册::Unit 1::15"
+        },
+        {
+            "no": 488,
+            "word": "forget",
+            "definition": "忘记",
+            "loc": "五年级上册::Unit 1::16"
+        },
+        {
+            "no": 489,
+            "word": "with",
+            "definition": "同……一起",
+            "loc": "五年级上册::Unit 1::17"
+        },
+        {
+            "no": 490,
+            "word": "slim",
+            "definition": "苗条的",
+            "loc": "五年级上册::Unit 2::2"
+        },
+        {
+            "no": 491,
+            "word": "curly",
+            "definition": "卷曲的",
+            "loc": "五年级上册::Unit 2::3"
+        },
+        {
+            "no": 492,
+            "word": "straight",
+            "definition": "直的",
+            "loc": "五年级上册::Unit 2::4"
+        },
+        {
+            "no": 493,
+            "word": "nice",
+            "definition": "好的",
+            "loc": "五年级上册::Unit 2::5"
+        },
+        {
+            "no": 494,
+            "word": "young",
+            "definition": "年轻的",
+            "loc": "五年级上册::Unit 2::6"
+        },
+        {
+            "no": 495,
+            "word": "teach",
+            "definition": "教",
+            "loc": "五年级上册::Unit 2::7"
+        },
+        {
+            "no": 496,
+            "word": "guess",
+            "definition": "猜",
+            "loc": "五年级上册::Unit 2::8"
+        },
+        {
+            "no": 497,
+            "word": "has",
+            "definition": "有",
+            "loc": "五年级上册::Unit 2::9"
+        },
+        {
+            "no": 498,
+            "word": "animal",
+            "definition": "动物",
+            "loc": "五年级上册::Unit 3::1"
+        },
+        {
+            "no": 499,
+            "word": "elephant",
+            "definition": "大象",
+            "loc": "五年级上册::Unit 3::2"
+        },
+        {
+            "no": 500,
+            "word": "panda",
+            "definition": "熊猫",
+            "loc": "五年级上册::Unit 3::3"
+        },
+        {
+            "no": 501,
+            "word": "horse",
+            "definition": "马",
+            "loc": "五年级上册::Unit 3::4"
+        },
+        {
+            "no": 502,
+            "word": "cow",
+            "definition": "牛",
+            "loc": "五年级上册::Unit 3::5"
+        },
+        {
+            "no": 503,
+            "word": "pig",
+            "definition": "猪",
+            "loc": "五年级上册::Unit 3::6"
+        },
+        {
+            "no": 504,
+            "word": "sheep",
+            "definition": "绵羊",
+            "loc": "五年级上册::Unit 3::7"
+        },
+        {
+            "no": 505,
+            "word": "bee",
+            "definition": "蜜蜂",
+            "loc": "五年级上册::Unit 3::8"
+        },
+        {
+            "no": 506,
+            "word": "farm",
+            "definition": "农场",
+            "loc": "五年级上册::Unit 3::9"
+        },
+        {
+            "no": 507,
+            "word": "fast",
+            "definition": "迅速",
+            "loc": "五年级上册::Unit 3::10"
+        },
+        {
+            "no": 508,
+            "word": "why",
+            "definition": "为什么",
+            "loc": "五年级上册::Unit 3::11"
+        },
+        {
+            "no": 509,
+            "word": "lovely",
+            "definition": "可爱的",
+            "loc": "五年级上册::Unit 3::12"
+        },
+        {
+            "no": 510,
+            "word": "butterfly",
+            "definition": "蝴蝶",
+            "loc": "五年级上册::Unit 3::13"
+        },
+        {
+            "no": 511,
+            "word": "please",
+            "definition": "请",
+            "loc": "五年级上册::Unit 4::6"
+        },
+        {
+            "no": 512,
+            "word": "only",
+            "definition": "只",
+            "loc": "五年级上册::Unit 4::7"
+        },
+        {
+            "no": 513,
+            "word": "also",
+            "definition": "也",
+            "loc": "五年级上册::Unit 4::8"
+        },
+        {
+            "no": 514,
+            "word": "saleswoman",
+            "definition": "女售货员",
+            "loc": "五年级上册::Unit 4::9"
+        },
+        {
+            "no": 515,
+            "word": "great",
+            "definition": "好极了",
+            "loc": "五年级上册::Unit 4::10"
+        },
+        {
+            "no": 516,
+            "word": "love",
+            "definition": "喜欢",
+            "loc": "五年级上册::Unit 4::11"
+        },
+        {
+            "no": 517,
+            "word": "wonderful",
+            "definition": "精彩的",
+            "loc": "五年级上册::Unit 5::1"
+        },
+        {
+            "no": 518,
+            "word": "cool",
+            "definition": "酷的",
+            "loc": "五年级上册::Unit 5::2"
+        },
+        {
+            "no": 519,
+            "word": "fantastic",
+            "definition": "极好的",
+            "loc": "五年级上册::Unit 5::3"
+        },
+        {
+            "no": 520,
+            "word": "cartoons",
+            "definition": "动画片",
+            "loc": "五年级上册::Unit 5::4"
+        },
+        {
+            "no": 521,
+            "word": "chore",
+            "definition": "家务",
+            "loc": "五年级上册::Unit 6::1"
+        },
+        {
+            "no": 522,
+            "word": "call",
+            "definition": "打电话给……",
+            "loc": "五年级上册::Unit 6::8"
+        }
+    ]
+}

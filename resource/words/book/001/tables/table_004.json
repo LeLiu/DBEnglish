@@ -1,0 +1,245 @@
+{
+    "name": "二年级下册",
+    "words": [
+        {
+            "no": 148,
+            "word": "swim",
+            "definition": "游泳",
+            "loc": "二年级下册::Unit 1::5"
+        },
+        {
+            "no": 149,
+            "word": "rainy",
+            "definition": "下雨的",
+            "loc": "二年级下册::Unit 2::1"
+        },
+        {
+            "no": 150,
+            "word": "cloudy",
+            "definition": "多云的",
+            "loc": "二年级下册::Unit 2::2"
+        },
+        {
+            "no": 151,
+            "word": "snowy",
+            "definition": "下雪的",
+            "loc": "二年级下册::Unit 2::3"
+        },
+        {
+            "no": 152,
+            "word": "windy",
+            "definition": "刮风的",
+            "loc": "二年级下册::Unit 2::4"
+        },
+        {
+            "no": 153,
+            "word": "sunny",
+            "definition": "晴朗的",
+            "loc": "二年级下册::Unit 2::5"
+        },
+        {
+            "no": 154,
+            "word": "umbrella",
+            "definition": "雨伞",
+            "loc": "二年级下册::Unit 2::6"
+        },
+        {
+            "no": 155,
+            "word": "weather",
+            "definition": "天气",
+            "loc": "二年级下册::Unit 2::7"
+        },
+        {
+            "no": 156,
+            "word": "wow",
+            "definition": "哇",
+            "loc": "二年级下册::Unit 2::8"
+        },
+        {
+            "no": 157,
+            "word": "spring",
+            "definition": "春天",
+            "loc": "二年级下册::Unit 3::1"
+        },
+        {
+            "no": 158,
+            "word": "summer",
+            "definition": "夏天",
+            "loc": "二年级下册::Unit 3::2"
+        },
+        {
+            "no": 159,
+            "word": "autumn",
+            "definition": "秋天",
+            "loc": "二年级下册::Unit 3::3"
+        },
+        {
+            "no": 160,
+            "word": "winter",
+            "definition": "冬天",
+            "loc": "二年级下册::Unit 3::4"
+        },
+        {
+            "no": 161,
+            "word": "hot",
+            "definition": "炎热的",
+            "loc": "二年级下册::Unit 3::5"
+        },
+        {
+            "no": 162,
+            "word": "warm",
+            "definition": "温暖的",
+            "loc": "二年级下册::Unit 3::6"
+        },
+        {
+            "no": 163,
+            "word": "cool",
+            "definition": "凉爽的",
+            "loc": "二年级下册::Unit 3::7"
+        },
+        {
+            "no": 164,
+            "word": "cold",
+            "definition": "寒冷的",
+            "loc": "二年级下册::Unit 3::8"
+        },
+        {
+            "no": 165,
+            "word": "favourite",
+            "definition": "最喜欢的",
+            "loc": "二年级下册::Unit 3::9"
+        },
+        {
+            "no": 166,
+            "word": "season",
+            "definition": "季节",
+            "loc": "二年级下册::Unit 3::10"
+        },
+        {
+            "no": 167,
+            "word": "eleven",
+            "definition": "十一",
+            "loc": "二年级下册::Unit 4::1"
+        },
+        {
+            "no": 168,
+            "word": "twelve",
+            "definition": "十二",
+            "loc": "二年级下册::Unit 4::2"
+        },
+        {
+            "no": 169,
+            "word": "twenty",
+            "definition": "二十",
+            "loc": "二年级下册::Unit 4::3"
+        },
+        {
+            "no": 170,
+            "word": "thirty",
+            "definition": "三十",
+            "loc": "二年级下册::Unit 4::4"
+        },
+        {
+            "no": 171,
+            "word": "forty",
+            "definition": "四十",
+            "loc": "二年级下册::Unit 4::5"
+        },
+        {
+            "no": 172,
+            "word": "fifty",
+            "definition": "五十",
+            "loc": "二年级下册::Unit 4::6"
+        },
+        {
+            "no": 173,
+            "word": "thirteen",
+            "definition": "十三",
+            "loc": "二年级下册::Unit 4::7"
+        },
+        {
+            "no": 174,
+            "word": "fourteen",
+            "definition": "十四",
+            "loc": "二年级下册::Unit 4::8"
+        },
+        {
+            "no": 175,
+            "word": "fifteen",
+            "definition": "十五",
+            "loc": "二年级下册::Unit 4::9"
+        },
+        {
+            "no": 176,
+            "word": "time",
+            "definition": "时间",
+            "loc": "二年级下册::Unit 4::10"
+        },
+        {
+            "no": 177,
+            "word": "playtime",
+            "definition": "游戏时间",
+            "loc": "二年级下册::Unit 4::11"
+        },
+        {
+            "no": 178,
+            "word": "when",
+            "definition": "什么时候",
+            "loc": "二年级下册::Unit 5::8"
+        },
+        {
+            "no": 179,
+            "word": "at",
+            "definition": "在……点钟",
+            "loc": "二年级下册::Unit 5::10"
+        },
+        {
+            "no": 180,
+            "word": "Sunday",
+            "definition": "星期天",
+            "loc": "二年级下册::Unit 6::1"
+        },
+        {
+            "no": 181,
+            "word": "Monday",
+            "definition": "星期一",
+            "loc": "二年级下册::Unit 6::2"
+        },
+        {
+            "no": 182,
+            "word": "Tuesday",
+            "definition": "星期二",
+            "loc": "二年级下册::Unit 6::3"
+        },
+        {
+            "no": 183,
+            "word": "Wednesday",
+            "definition": "星期三",
+            "loc": "二年级下册::Unit 6::4"
+        },
+        {
+            "no": 184,
+            "word": "Thursday",
+            "definition": "星期四",
+            "loc": "二年级下册::Unit 6::5"
+        },
+        {
+            "no": 185,
+            "word": "Friday",
+            "definition": "星期五",
+            "loc": "二年级下册::Unit 6::6"
+        },
+        {
+            "no": 186,
+            "word": "Saturday",
+            "definition": "星期六",
+            "loc": "二年级下册::Unit 6::7"
+        },
+        {
+            "no": 187,
+            "word": "today",
+            "definition": "今天",
+            "loc": "二年级下册::Unit 6::8"
+        }
+    ]
+}

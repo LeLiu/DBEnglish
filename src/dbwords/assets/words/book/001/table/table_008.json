@@ -1,0 +1,323 @@
+{
+    "name": "四年级下册",
+    "words": [
+        {
+            "no": 420,
+            "word": "between",
+            "definition": "在……之间",
+            "loc": "四年级下册::Unit 1::3"
+        },
+        {
+            "no": 421,
+            "word": "restaurant",
+            "definition": "餐馆",
+            "loc": "四年级下册::Unit 1::4"
+        },
+        {
+            "no": 422,
+            "word": "bank",
+            "definition": "银行",
+            "loc": "四年级下册::Unit 1::6"
+        },
+        {
+            "no": 423,
+            "word": "grocery",
+            "definition": "食品杂货店",
+            "loc": "四年级下册::Unit 1::7"
+        },
+        {
+            "no": 424,
+            "word": "crossroads",
+            "definition": "十字路口",
+            "loc": "四年级下册::Unit 1::11"
+        },
+        {
+            "no": 425,
+            "word": "neighbourhood",
+            "definition": "街坊",
+            "loc": "四年级下册::Unit 1::12"
+        },
+        {
+            "no": 426,
+            "word": "send",
+            "definition": "发送",
+            "loc": "四年级下册::Unit 1::13"
+        },
+        {
+            "no": 427,
+            "word": "get",
+            "definition": "得到",
+            "loc": "四年级下册::Unit 1::14"
+        },
+        {
+            "no": 428,
+            "word": "money",
+            "definition": "钱",
+            "loc": "四年级下册::Unit 1::15"
+        },
+        {
+            "no": 429,
+            "word": "before",
+            "definition": "在……之前",
+            "loc": "四年级下册::Unit 1::17"
+        },
+        {
+            "no": 430,
+            "word": "leave",
+            "definition": "离开",
+            "loc": "四年级下册::Unit 1::18"
+        },
+        {
+            "no": 431,
+            "word": "toy",
+            "definition": "玩具",
+            "loc": "四年级下册::Unit 1::19"
+        },
+        {
+            "no": 432,
+            "word": "hospital",
+            "definition": "医院",
+            "loc": "四年级下册::Unit 1::20"
+        },
+        {
+            "no": 433,
+            "word": "bookshop",
+            "definition": "书店",
+            "loc": "四年级下册::Unit 1::21"
+        },
+        {
+            "no": 434,
+            "word": "school",
+            "definition": "学校",
+            "loc": "四年级下册::Unit 1::22"
+        },
+        {
+            "no": 435,
+            "word": "supermarket",
+            "definition": "超市",
+            "loc": "四年级下册::Unit 1::23"
+        },
+        {
+            "no": 436,
+            "word": "ball",
+            "definition": "球",
+            "loc": "四年级下册::Unit 1::24"
+        },
+        {
+            "no": 437,
+            "word": "city",
+            "definition": "城市",
+            "loc": "四年级下册::Unit 2::1"
+        },
+        {
+            "no": 438,
+            "word": "street",
+            "definition": "街道",
+            "loc": "四年级下册::Unit 2::2"
+        },
+        {
+            "no": 439,
+            "word": "hotel",
+            "definition": "宾馆",
+            "loc": "四年级下册::Unit 2::4"
+        },
+        {
+            "no": 440,
+            "word": "square",
+            "definition": "广场",
+            "loc": "四年级下册::Unit 2::5"
+        },
+        {
+            "no": 441,
+            "word": "busy",
+            "definition": "忙碌的",
+            "loc": "四年级下册::Unit 2::9"
+        },
+        {
+            "no": 442,
+            "word": "station",
+            "definition": "车站",
+            "loc": "四年级下册::Unit 2::10"
+        },
+        {
+            "no": 443,
+            "word": "place",
+            "definition": "地方",
+            "loc": "四年级下册::Unit 2::11"
+        },
+        {
+            "no": 444,
+            "word": "thing",
+            "definition": "事物",
+            "loc": "四年级下册::Unit 2::12"
+        },
+        {
+            "no": 445,
+            "word": "stay",
+            "definition": "停留",
+            "loc": "四年级下册::Unit 2::13"
+        },
+        {
+            "no": 446,
+            "word": "star",
+            "definition": "星星",
+            "loc": "四年级下册::Unit 2::14"
+        },
+        {
+            "no": 447,
+            "word": "king",
+            "definition": "国王",
+            "loc": "四年级下册::Unit 2::15"
+        },
+        {
+            "no": 448,
+            "word": "central",
+            "definition": "中心的",
+            "loc": "四年级下册::Unit 2::16"
+        },
+        {
+            "no": 449,
+            "word": "museum",
+            "definition": "博物馆",
+            "loc": "四年级下册::Unit 2::18"
+        },
+        {
+            "no": 450,
+            "word": "dream",
+            "definition": "梦",
+            "loc": "四年级下册::Unit 2::19"
+        },
+        {
+            "no": 451,
+            "word": "sea",
+            "definition": "大海",
+            "loc": "四年级下册::Unit 3::1"
+        },
+        {
+            "no": 452,
+            "word": "ski",
+            "definition": "滑雪",
+            "loc": "四年级下册::Unit 3::2"
+        },
+        {
+            "no": 453,
+            "word": "travel",
+            "definition": "旅游",
+            "loc": "四年级下册::Unit 3::10"
+        },
+        {
+            "no": 454,
+            "word": "reading",
+            "definition": "读书",
+            "loc": "四年级下册::Unit 4::1"
+        },
+        {
+            "no": 455,
+            "word": "skateboarding",
+            "definition": "玩滑板",
+            "loc": "四年级下册::Unit 4::2"
+        },
+        {
+            "no": 456,
+            "word": "singing",
+            "definition": "唱歌",
+            "loc": "四年级下册::Unit 4::3"
+        },
+        {
+            "no": 457,
+            "word": "dancing",
+            "definition": "跳舞",
+            "loc": "四年级下册::Unit 4::4"
+        },
+        {
+            "no": 458,
+            "word": "different",
+            "definition": "不同的",
+            "loc": "四年级下册::Unit 4::8"
+        },
+        {
+            "no": 459,
+            "word": "hobby",
+            "definition": "爱好",
+            "loc": "四年级下册::Unit 4::9"
+        },
+        {
+            "no": 460,
+            "word": "stamp",
+            "definition": "邮票",
+            "loc": "四年级下册::Unit 4::10"
+        },
+        {
+            "no": 461,
+            "word": "catch",
+            "definition": "抓住",
+            "loc": "四年级下册::Unit 4::11"
+        },
+        {
+            "no": 462,
+            "word": "free",
+            "definition": "空闲的",
+            "loc": "四年级下册::Unit 5::6"
+        },
+        {
+            "no": 463,
+            "word": "never",
+            "definition": "从不",
+            "loc": "四年级下册::Unit 5::7"
+        },
+        {
+            "no": 464,
+            "word": "Canada",
+            "definition": "加拿大",
+            "loc": "四年级下册::Unit 6::1"
+        },
+        {
+            "no": 465,
+            "word": "Australia",
+            "definition": "澳大利亚",
+            "loc": "四年级下册::Unit 6::2"
+        },
+        {
+            "no": 466,
+            "word": "China",
+            "definition": "中国",
+            "loc": "四年级下册::Unit 6::5"
+        },
+        {
+            "no": 467,
+            "word": "koala",
+            "definition": "考拉",
+            "loc": "四年级下册::Unit 6::6"
+        },
+        {
+            "no": 468,
+            "word": "Disneyland",
+            "definition": "迪斯尼乐园",
+            "loc": "四年级下册::Unit 6::9"
+        },
+        {
+            "no": 469,
+            "word": "campfire",
+            "definition": "篝火",
+            "loc": "四年级下册::Unit 6::10"
+        },
+        {
+            "no": 470,
+            "word": "cute",
+            "definition": "可爱的",
+            "loc": "四年级下册::Unit 6::11"
+        },
+        {
+            "no": 471,
+            "word": "country",
+            "definition": "国家",
+            "loc": "四年级下册::Unit 6::12"
+        },
+        {
+            "no": 472,
+            "word": "pretty",
+            "definition": "漂亮的",
+            "loc": "四年级下册::Unit 6::13"
+        }
+    ]
+}

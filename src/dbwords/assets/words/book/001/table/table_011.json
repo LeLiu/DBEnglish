@@ -1,0 +1,515 @@
+{
+    "name": "六年级上册",
+    "words": [
+        {
+            "no": 563,
+            "word": "soup",
+            "definition": "汤",
+            "loc": "六年级上册::Unit 1::2"
+        },
+        {
+            "no": 564,
+            "word": "garden",
+            "definition": "花园",
+            "loc": "六年级上册::Unit 1::3"
+        },
+        {
+            "no": 565,
+            "word": "vacation",
+            "definition": "假期",
+            "loc": "六年级上册::Unit 1::7"
+        },
+        {
+            "no": 566,
+            "word": "taste",
+            "definition": "品尝",
+            "loc": "六年级上册::Unit 1::8"
+        },
+        {
+            "no": 567,
+            "word": "map",
+            "definition": "地图",
+            "loc": "六年级上册::Unit 1::9"
+        },
+        {
+            "no": 568,
+            "word": "north",
+            "definition": "北",
+            "loc": "六年级上册::Unit 1::10"
+        },
+        {
+            "no": 569,
+            "word": "south",
+            "definition": "南",
+            "loc": "六年级上册::Unit 1::11"
+        },
+        {
+            "no": 570,
+            "word": "east",
+            "definition": "东",
+            "loc": "六年级上册::Unit 1::12"
+        },
+        {
+            "no": 571,
+            "word": "west",
+            "definition": "西",
+            "loc": "六年级上册::Unit 1::13"
+        },
+        {
+            "no": 572,
+            "word": "famous",
+            "definition": "著名的",
+            "loc": "六年级上册::Unit 1::14"
+        },
+        {
+            "no": 573,
+            "word": "temple",
+            "definition": "寺",
+            "loc": "六年级上册::Unit 1::15"
+        },
+        {
+            "no": 574,
+            "word": "around",
+            "definition": "遍及",
+            "loc": "六年级上册::Unit 1::16"
+        },
+        {
+            "no": 575,
+            "word": "foggy",
+            "definition": "有雾的",
+            "loc": "六年级上册::Unit 1::18"
+        },
+        {
+            "no": 576,
+            "word": "spicy",
+            "definition": "辣的",
+            "loc": "六年级上册::Unit 1::19"
+        },
+        {
+            "no": 577,
+            "word": "silk",
+            "definition": "丝绸",
+            "loc": "六年级上册::Unit 1::20"
+        },
+        {
+            "no": 578,
+            "word": "forest",
+            "definition": "树林",
+            "loc": "六年级上册::Unit 1::21"
+        },
+        {
+            "no": 579,
+            "word": "stone",
+            "definition": "石头",
+            "loc": "六年级上册::Unit 1::22"
+        },
+        {
+            "no": 580,
+            "word": "London",
+            "definition": "伦敦",
+            "loc": "六年级上册::Unit 2::1"
+        },
+        {
+            "no": 581,
+            "word": "Toronto",
+            "definition": "多伦多",
+            "loc": "六年级上册::Unit 2::2"
+        },
+        {
+            "no": 582,
+            "word": "Sydney",
+            "definition": "悉尼",
+            "loc": "六年级上册::Unit 2::3"
+        },
+        {
+            "no": 583,
+            "word": "kangaroo",
+            "definition": "袋鼠",
+            "loc": "六年级上册::Unit 2::7"
+        },
+        {
+            "no": 584,
+            "word": "clock",
+            "definition": "时钟",
+            "loc": "六年级上册::Unit 2::10"
+        },
+        {
+            "no": 585,
+            "word": "speak",
+            "definition": "说",
+            "loc": "六年级上册::Unit 2::11"
+        },
+        {
+            "no": 586,
+            "word": "French",
+            "definition": "法语",
+            "loc": "六年级上册::Unit 2::12"
+        },
+        {
+            "no": 587,
+            "word": "hiking",
+            "definition": "远足",
+            "loc": "六年级上册::Unit 2::15"
+        },
+        {
+            "no": 588,
+            "word": "sunrise",
+            "definition": "日出",
+            "loc": "六年级上册::Unit 2::16"
+        },
+        {
+            "no": 589,
+            "word": "president",
+            "definition": "总统",
+            "loc": "六年级上册::Unit 2::17"
+        },
+        {
+            "no": 590,
+            "word": "reptile",
+            "definition": "爬行动物",
+            "loc": "六年级上册::Unit 3::1"
+        },
+        {
+            "no": 591,
+            "word": "bird",
+            "definition": "鸟",
+            "loc": "六年级上册::Unit 3::2"
+        },
+        {
+            "no": 592,
+            "word": "mammal",
+            "definition": "哺乳动物",
+            "loc": "六年级上册::Unit 3::3"
+        },
+        {
+            "no": 593,
+            "word": "insect",
+            "definition": "昆虫",
+            "loc": "六年级上册::Unit 3::4"
+        },
+        {
+            "no": 594,
+            "word": "penguin",
+            "definition": "企鹅",
+            "loc": "六年级上册::Unit 3::5"
+        },
+        {
+            "no": 595,
+            "word": "shark",
+            "definition": "鲨鱼",
+            "loc": "六年级上册::Unit 3::6"
+        },
+        {
+            "no": 596,
+            "word": "whale",
+            "definition": "鲸",
+            "loc": "六年级上册::Unit 3::7"
+        },
+        {
+            "no": 597,
+            "word": "kind",
+            "definition": "种类",
+            "loc": "六年级上册::Unit 3::8"
+        },
+        {
+            "no": 598,
+            "word": "metre",
+            "definition": "米",
+            "loc": "六年级上册::Unit 3::9"
+        },
+        {
+            "no": 599,
+            "word": "spend",
+            "definition": "花费",
+            "loc": "六年级上册::Unit 3::10"
+        },
+        {
+            "no": 600,
+            "word": "trunk",
+            "definition": "象鼻",
+            "loc": "六年级上册::Unit 3::11"
+        },
+        {
+            "no": 601,
+            "word": "peanut",
+            "definition": "花生",
+            "loc": "六年级上册::Unit 3::12"
+        },
+        {
+            "no": 602,
+            "word": "fan",
+            "definition": "扇子",
+            "loc": "六年级上册::Unit 3::13"
+        },
+        {
+            "no": 603,
+            "word": "tusk",
+            "definition": "（象、野猪等的）长牙",
+            "loc": "六年级上册::Unit 3::14"
+        },
+        {
+            "no": 604,
+            "word": "Africa",
+            "definition": "非洲",
+            "loc": "六年级上册::Unit 3::15"
+        },
+        {
+            "no": 605,
+            "word": "Asia",
+            "definition": "亚洲",
+            "loc": "六年级上册::Unit 3::16"
+        },
+        {
+            "no": 606,
+            "word": "smart",
+            "definition": "聪明的",
+            "loc": "六年级上册::Unit 3::17"
+        },
+        {
+            "no": 607,
+            "word": "scared",
+            "definition": "害怕的",
+            "loc": "六年级上册::Unit 4::1"
+        },
+        {
+            "no": 608,
+            "word": "worried",
+            "definition": "担心的",
+            "loc": "六年级上册::Unit 4::2"
+        },
+        {
+            "no": 609,
+            "word": "angry",
+            "definition": "生气的",
+            "loc": "六年级上册::Unit 4::3"
+        },
+        {
+            "no": 610,
+            "word": "proud",
+            "definition": "自豪的",
+            "loc": "六年级上册::Unit 4::4"
+        },
+        {
+            "no": 611,
+            "word": "sad",
+            "definition": "难过的",
+            "loc": "六年级上册::Unit 4::5"
+        },
+        {
+            "no": 612,
+            "word": "excited",
+            "definition": "激动地",
+            "loc": "六年级上册::Unit 4::6"
+        },
+        {
+            "no": 613,
+            "word": "happy",
+            "definition": "高兴的",
+            "loc": "六年级上册::Unit 4::7"
+        },
+        {
+            "no": 614,
+            "word": "ill",
+            "definition": "有病",
+            "loc": "六年级上册::Unit 4::8"
+        },
+        {
+            "no": 615,
+            "word": "win",
+            "definition": "获胜",
+            "loc": "六年级上册::Unit 4::9"
+        },
+        {
+            "no": 616,
+            "word": "race",
+            "definition": "赛跑",
+            "loc": "六年级上册::Unit 4::10"
+        },
+        {
+            "no": 617,
+            "word": "find",
+            "definition": "发现",
+            "loc": "六年级上册::Unit 4::11"
+        },
+        {
+            "no": 618,
+            "word": "cry",
+            "definition": "哭",
+            "loc": "六年级上册::Unit 4::12"
+        },
+        {
+            "no": 619,
+            "word": "because",
+            "definition": "因为",
+            "loc": "六年级上册::Unit 4::13"
+        },
+        {
+            "no": 620,
+            "word": "test",
+            "definition": "测验",
+            "loc": "六年级上册::Unit 4::14"
+        },
+        {
+            "no": 621,
+            "word": "competition",
+            "definition": "竞赛",
+            "loc": "六年级上册::Unit 4::15"
+        },
+        {
+            "no": 622,
+            "word": "hurt",
+            "definition": "弄伤",
+            "loc": "六年级上册::Unit 4::16"
+        },
+        {
+            "no": 623,
+            "word": "inventor",
+            "definition": "发明家",
+            "loc": "六年级上册::Unit 5::1"
+        },
+        {
+            "no": 624,
+            "word": "artist",
+            "definition": "画家",
+            "loc": "六年级上册::Unit 5::2"
+        },
+        {
+            "no": 625,
+            "word": "scientist",
+            "definition": "科学家",
+            "loc": "六年级上册::Unit 5::3"
+        },
+        {
+            "no": 626,
+            "word": "poet",
+            "definition": "诗人",
+            "loc": "六年级上册::Unit 5::4"
+        },
+        {
+            "no": 627,
+            "word": "writer",
+            "definition": "作家",
+            "loc": "六年级上册::Unit 5::5"
+        },
+        {
+            "no": 628,
+            "word": "American",
+            "definition": "美国人",
+            "loc": "六年级上册::Unit 5::6"
+        },
+        {
+            "no": 629,
+            "word": "French",
+            "definition": "法国人",
+            "loc": "六年级上册::Unit 5::7"
+        },
+        {
+            "no": 630,
+            "word": "Danish",
+            "definition": "丹麦人",
+            "loc": "六年级上册::Unit 5::8"
+        },
+        {
+            "no": 631,
+            "word": "poem",
+            "definition": "诗",
+            "loc": "六年级上册::Unit 5::9"
+        },
+        {
+            "no": 632,
+            "word": "paint",
+            "definition": "用颜料画",
+            "loc": "六年级上册::Unit 5::10"
+        },
+        {
+            "no": 633,
+            "word": "invention",
+            "definition": "发明",
+            "loc": "六年级上册::Unit 5::11"
+        },
+        {
+            "no": 634,
+            "word": "invent",
+            "definition": "发明",
+            "loc": "六年级上册::Unit 5::12"
+        },
+        {
+            "no": 635,
+            "word": "study",
+            "definition": "学习",
+            "loc": "六年级上册::Unit 5::13"
+        },
+        {
+            "no": 636,
+            "word": "story",
+            "definition": "故事",
+            "loc": "六年级上册::Unit 5::14"
+        },
+        {
+            "no": 637,
+            "word": "university",
+            "definition": "大学",
+            "loc": "六年级上册::Unit 5::15"
+        },
+        {
+            "no": 638,
+            "word": "deaf",
+            "definition": "聋的",
+            "loc": "六年级上册::Unit 5::16"
+        },
+        {
+            "no": 639,
+            "word": "blind",
+            "definition": "失明的",
+            "loc": "六年级上册::Unit 5::17"
+        },
+        {
+            "no": 640,
+            "word": "fall",
+            "definition": "落下",
+            "loc": "六年级上册::Unit 5::18"
+        },
+        {
+            "no": 641,
+            "word": "dumpling",
+            "definition": "饺子，汤圆",
+            "loc": "六年级上册::Unit 6::1"
+        },
+        {
+            "no": 642,
+            "word": "fan",
+            "definition": "迷，爱好者",
+            "loc": "六年级上册::Unit 6::2"
+        },
+        {
+            "no": 643,
+            "word": "bring",
+            "definition": "带来",
+            "loc": "六年级上册::Unit 6::4"
+        },
+        {
+            "no": 644,
+            "word": "hear",
+            "definition": "听到",
+            "loc": "六年级上册::Unit 6::6"
+        },
+        {
+            "no": 645,
+            "word": "broken",
+            "definition": "损坏了的",
+            "loc": "六年级上册::Unit 6::8"
+        },
+        {
+            "no": 646,
+            "word": "pity",
+            "definition": "遗憾",
+            "loc": "六年级上册::Unit 6::9"
+        },
+        {
+            "no": 647,
+            "word": "prize",
+            "definition": "奖品",
+            "loc": "六年级上册::Unit 6::10"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "name": "人教版新起点",
+    "description": "人教版新起点小学一到六年级英语词汇。",
+    "tables": [
+        {
+            "name": "一年级上册",
+            "file": "tables/table_001.json"
+        },
+        {
+            "name": "一年级下册",
+            "file": "tables/table_002.json"
+        },
+        {
+            "name": "二年级上册",
+            "file": "tables/table_003.json"
+        },
+        {
+            "name": "二年级下册",
+            "file": "tables/table_004.json"
+        },
+        {
+            "name": "三年级上册",
+            "file": "tables/table_005.json"
+        },
+        {
+            "name": "三年级下册",
+            "file": "tables/table_006.json"
+        },
+        {
+            "name": "四年级上册",
+            "file": "tables/table_007.json"
+        },
+        {
+            "name": "四年级下册",
+            "file": "tables/table_008.json"
+        },
+        {
+            "name": "五年级上册",
+            "file": "tables/table_009.json"
+        },
+        {
+            "name": "五年级下册",
+            "file": "tables/table_010.json"
+        },
+        {
+            "name": "六年级上册",
+            "file": "tables/table_011.json"
+        },
+        {
+            "name": "六年级下册",
+            "file": "tables/table_012.json"
+        }
+    ]
+}

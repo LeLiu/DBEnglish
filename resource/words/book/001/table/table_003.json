@@ -1,0 +1,311 @@
+{
+    "name": "二年级上册",
+    "words": [
+        {
+            "no": 97,
+            "word": "father",
+            "definition": "父亲",
+            "loc": "二年级上册::Unit 1::1"
+        },
+        {
+            "no": 98,
+            "word": "mother",
+            "definition": "母亲",
+            "loc": "二年级上册::Unit 1::2"
+        },
+        {
+            "no": 99,
+            "word": "brother",
+            "definition": "兄；弟",
+            "loc": "二年级上册::Unit 1::3"
+        },
+        {
+            "no": 100,
+            "word": "sister",
+            "definition": "姐；妹",
+            "loc": "二年级上册::Unit 1::4"
+        },
+        {
+            "no": 101,
+            "word": "grandmother",
+            "definition": "（外）祖母",
+            "loc": "二年级上册::Unit 1::5"
+        },
+        {
+            "no": 102,
+            "word": "grandfather",
+            "definition": "（外）祖父",
+            "loc": "二年级上册::Unit 1::6"
+        },
+        {
+            "no": 103,
+            "word": "who",
+            "definition": "谁",
+            "loc": "二年级上册::Unit 1::7"
+        },
+        {
+            "no": 104,
+            "word": "he",
+            "definition": "他",
+            "loc": "二年级上册::Unit 1::8"
+        },
+        {
+            "no": 105,
+            "word": "she",
+            "definition": "她",
+            "loc": "二年级上册::Unit 1::9"
+        },
+        {
+            "no": 106,
+            "word": "classmate",
+            "definition": "同班同学",
+            "loc": "二年级上册::Unit 2::1"
+        },
+        {
+            "no": 107,
+            "word": "friend",
+            "definition": "朋友",
+            "loc": "二年级上册::Unit 2::2"
+        },
+        {
+            "no": 108,
+            "word": "woman",
+            "definition": "女人",
+            "loc": "二年级上册::Unit 2::3"
+        },
+        {
+            "no": 109,
+            "word": "girl",
+            "definition": "女孩",
+            "loc": "二年级上册::Unit 2::4"
+        },
+        {
+            "no": 110,
+            "word": "man",
+            "definition": "男人",
+            "loc": "二年级上册::Unit 2::5"
+        },
+        {
+            "no": 111,
+            "word": "boy",
+            "definition": "男孩",
+            "loc": "二年级上册::Unit 2::6"
+        },
+        {
+            "no": 112,
+            "word": "look",
+            "definition": "看；瞧",
+            "loc": "二年级上册::Unit 2::7"
+        },
+        {
+            "no": 113,
+            "word": "his",
+            "definition": "他的",
+            "loc": "二年级上册::Unit 2::8"
+        },
+        {
+            "no": 114,
+            "word": "name",
+            "definition": "名字",
+            "loc": "二年级上册::Unit 2::9"
+        },
+        {
+            "no": 115,
+            "word": "her",
+            "definition": "她的",
+            "loc": "二年级上册::Unit 2::10"
+        },
+        {
+            "no": 116,
+            "word": "or",
+            "definition": "还是",
+            "loc": "二年级上册::Unit 2::11"
+        },
+        {
+            "no": 117,
+            "word": "big",
+            "definition": "大的",
+            "loc": "二年级上册::Unit 3::1"
+        },
+        {
+            "no": 118,
+            "word": "tall",
+            "definition": "高的",
+            "loc": "二年级上册::Unit 3::2"
+        },
+        {
+            "no": 119,
+            "word": "pretty",
+            "definition": "漂亮的",
+            "loc": "二年级上册::Unit 3::3"
+        },
+        {
+            "no": 120,
+            "word": "thin",
+            "definition": "瘦的",
+            "loc": "二年级上册::Unit 3::4"
+        },
+        {
+            "no": 121,
+            "word": "short",
+            "definition": "矮的",
+            "loc": "二年级上册::Unit 3::5"
+        },
+        {
+            "no": 122,
+            "word": "handsome",
+            "definition": "英俊的",
+            "loc": "二年级上册::Unit 3::6"
+        },
+        {
+            "no": 123,
+            "word": "new",
+            "definition": "新的",
+            "loc": "二年级上册::Unit 3::7"
+        },
+        {
+            "no": 124,
+            "word": "does",
+            "definition": "（助动词）",
+            "loc": "二年级上册::Unit 3::8"
+        },
+        {
+            "no": 125,
+            "word": "bookshop",
+            "definition": "书店",
+            "loc": "二年级上册::Unit 4::1"
+        },
+        {
+            "no": 126,
+            "word": "zoo",
+            "definition": "动物园",
+            "loc": "二年级上册::Unit 4::2"
+        },
+        {
+            "no": 127,
+            "word": "school",
+            "definition": "学校",
+            "loc": "二年级上册::Unit 4::3"
+        },
+        {
+            "no": 128,
+            "word": "supermarket",
+            "definition": "超市",
+            "loc": "二年级上册::Unit 4::4"
+        },
+        {
+            "no": 129,
+            "word": "park",
+            "definition": "公园",
+            "loc": "二年级上册::Unit 4::5"
+        },
+        {
+            "no": 130,
+            "word": "hospital",
+            "definition": "医院",
+            "loc": "二年级上册::Unit 4::6"
+        },
+        {
+            "no": 131,
+            "word": "go",
+            "definition": "去",
+            "loc": "二年级上册::Unit 4::7"
+        },
+        {
+            "no": 132,
+            "word": "to",
+            "definition": "向，朝",
+            "loc": "二年级上册::Unit 4::8"
+        },
+        {
+            "no": 133,
+            "word": "grass",
+            "definition": "草",
+            "loc": "二年级上册::Unit 5::1"
+        },
+        {
+            "no": 134,
+            "word": "tree",
+            "definition": "树",
+            "loc": "二年级上册::Unit 5::2"
+        },
+        {
+            "no": 135,
+            "word": "flower",
+            "definition": "花",
+            "loc": "二年级上册::Unit 5::3"
+        },
+        {
+            "no": 136,
+            "word": "boat",
+            "definition": "船",
+            "loc": "二年级上册::Unit 5::4"
+        },
+        {
+            "no": 137,
+            "word": "lake",
+            "definition": "湖",
+            "loc": "二年级上册::Unit 5::5"
+        },
+        {
+            "no": 138,
+            "word": "hill",
+            "definition": "山",
+            "loc": "二年级上册::Unit 5::6"
+        },
+        {
+            "no": 139,
+            "word": "Christmas",
+            "definition": "圣诞节",
+            "loc": "二年级上册::Unit 6::1"
+        },
+        {
+            "no": 140,
+            "word": "card",
+            "definition": "贺卡",
+            "loc": "二年级上册::Unit 6::4"
+        },
+        {
+            "no": 141,
+            "word": "present",
+            "definition": "礼物",
+            "loc": "二年级上册::Unit 6::5"
+        },
+        {
+            "no": 142,
+            "word": "merry",
+            "definition": "高兴的",
+            "loc": "二年级上册::Unit 6::7"
+        },
+        {
+            "no": 143,
+            "word": "too",
+            "definition": "也",
+            "loc": "二年级上册::Unit 6::8"
+        },
+        {
+            "no": 144,
+            "word": "here",
+            "definition": "这儿",
+            "loc": "二年级上册::Unit 6::9"
+        },
+        {
+            "no": 145,
+            "word": "for",
+            "definition": "（表示接受某事物或从某事物中获益的人）",
+            "loc": "二年级上册::Unit 6::10"
+        },
+        {
+            "no": 146,
+            "word": "thank",
+            "definition": "谢谢",
+            "loc": "二年级上册::Unit 6::11"
+        },
+        {
+            "no": 147,
+            "word": "happy",
+            "definition": "快乐的",
+            "loc": "二年级上册::Unit 6::12"
+        }
+    ]
+}
