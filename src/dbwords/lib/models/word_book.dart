@@ -20,9 +20,9 @@ class WordBook {
     );
   }
 
-  /// 从JSON字符串加载词书配置列表
+  /// 从JSON字符串加载词书配置
   static Future<List<WordBook>> loadFromJson(String jsonString) async {
-    final List<dynamic> jsonList = json.decode(jsonString);
-    return jsonList.map((json) => WordBook.fromJson(json)).toList();
+    final List<dynamic> jsonList = jsonDecode(jsonString);
+    return jsonList.map((json) => WordBook.fromJson(json as Map<String, dynamic>)).toList();
   }
 }

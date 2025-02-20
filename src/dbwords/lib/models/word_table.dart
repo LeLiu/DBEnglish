@@ -19,21 +19,21 @@ class WordTable {
   /// 从词书配置文件加载所有词库
   static Future<List<WordTable>> loadFromBooks() async {
     // 加载词书配置文件
-    final booksJsonString = await rootBundle.loadString('assets/words/word_books.json');
+    final booksJsonString = await rootBundle.loadString('words/word_books.json');
     final List<WordBook> books = await WordBook.loadFromJson(booksJsonString);
     
     // 加载每个词书的内容
     List<WordTable> tables = [];
     for (var book in books) {
       try {
-        final jsonString = await rootBundle.loadString('assets/words/${book.file}');
+        final jsonString = await rootBundle.loadString('words/${book.file}');
         final Map<String, dynamic> bookData = json.decode(jsonString);
         
         // 加载词书中的每个单词表
         if (bookData['tables'] != null) {
           for (var table in bookData['tables']) {
             if (table['file'] != null) {
-              final tableJsonString = await rootBundle.loadString('assets/words/${book.file.replaceAll('book.json', '')}${table['file']}');
+              final tableJsonString = await rootBundle.loadString('words/${book.file.replaceAll('book.json', '')}${table['file']}');
               final List<dynamic> wordList = json.decode(tableJsonString);
               final words = wordList.map((json) => Word.fromJson(json)).toList();
               tables.add(WordTable(name: table['name'], words: words));

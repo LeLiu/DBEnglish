@@ -25,7 +25,7 @@ class _WordTableSelectPageState extends State<WordTableSelectPage> {
     try {
       // 加载词书配置文件
       final configJson = await rootBundle.loadString(
-        'assets/words/word_books.json',
+        'words/word_books.json',
       );
       final wordBooks = await WordBook.loadFromJson(configJson);
 
@@ -33,15 +33,16 @@ class _WordTableSelectPageState extends State<WordTableSelectPage> {
       final tables = await Future.wait(
         wordBooks.map((book) async {
           // 从json文件加载单词库
-          return await WordTable.fromJson(
+          return await WordTable.loadFromJson(
             book.name,
-            'assets/words/${book.file}',
+            'words/${book.file}',
           );
         }),
       );
 
       setState(() {
-        _wordTables = tables;
+        _wordTables.clear();
+        _wordTables.addAll(tables);
         _loading = false;
       });
     } catch (e) {

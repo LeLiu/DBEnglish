@@ -153,19 +153,30 @@ class NewHomePage extends StatelessWidget {
   }
 
   Widget _buildNavItem(IconData icon, String label) {
-    return Column(
-      mainAxisSize: MainAxisSize.min,
-      children: [
-        Icon(icon, color: Colors.blue.shade600),
-        const SizedBox(height: 4),
-        Text(
-          label,
-          style: TextStyle(
-            fontSize: 12,
-            color: Colors.blue.shade600,
+    return GestureDetector(
+      onTap: () {
+        if (label == '词书管理') {
+          Get.toNamed('/word-book-manage');
+        } else if (label == '计划管理') {
+          Get.toNamed('/view-plans');
+        } else if (label == '统计数据') {
+          Get.toNamed('/statistics');
+        }
+      },
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Icon(icon, color: Colors.blue.shade600),
+          const SizedBox(height: 4),
+          Text(
+            label,
+            style: TextStyle(
+              fontSize: 12,
+              color: Colors.blue.shade600,
+            ),
           ),
-        ),
-      ],
+        ],
+      ),
     );
   }
 }
