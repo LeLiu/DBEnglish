@@ -1,0 +1,542 @@
+[
+    {
+        "content": {
+            "cn": "书山有路勤为径，学海无涯苦作舟",
+            "en": "书山有路勤为径，学海无涯苦作舟"
+        },
+        "source": {
+            "cn": "韩愈",
+            "en": "Han Yu"
+        }
+    },
+    {
+        "content": {
+            "cn": "Practice makes perfect",
+            "en": "熟能生巧"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "少壮不努力，老大徒伤悲",
+            "en": "A lazy youth, a lousy age"
+        },
+        "source": {
+            "cn": "《乐府诗集》",
+            "en": "Anonymous"
+        }
+    },
+    {
+        "content": {
+            "cn": "天才出于勤奋",
+            "en": "Genius is one percent inspiration and ninety-nine percent perspiration"
+        },
+        "source": {
+            "cn": "爱迪生",
+            "en": "Thomas Edison"
+        }
+    },
+    {
+        "content": {
+            "cn": "读一本好书，就是和许多高尚的人谈话",
+            "en": "Reading is to the mind what exercise is to the body"
+        },
+        "source": {
+            "cn": "歌德",
+            "en": "Johann Wolfgang von Goethe"
+        }
+    },
+    {
+        "content": {
+            "cn": "知之者不如好之者，好之者不如乐之者",
+            "en": "Those who know not, and know not that they know not, are fools; yet they are the most dangerous"
+        },
+        "source": {
+            "cn": "孔子",
+            "en": "Confucius"
+        }
+    },
+    {
+        "content": {
+            "cn": "不积跬步，无以至千里",
+            "en": "A journey of a thousand miles begins with one step"
+        },
+        "source": {
+            "cn": "荀子",
+            "en": "Xunzi"
+        }
+    },
+    {
+        "content": {
+            "cn": "重复是学习之母",
+            "en": "Repetition is the mother of learning"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "读万卷书，行万里路",
+            "en": "Reading thousands of books is not as useful as traveling thousands of miles"
+        },
+        "source": {
+            "cn": "董其昌",
+            "en": "Dong Qichang"
+        }
+    },
+    {
+        "content": {
+            "cn": "学而不思则罔，思而不学则殆",
+            "en": "Learning without thought is labor lost; thought without learning is perilous"
+        },
+        "source": {
+            "cn": "孔子",
+            "en": "Confucius"
+        }
+    },
+    {
+        "content": {
+            "cn": "天才就是百分之一的灵感加上百分之九十九的汗水",
+            "en": "Genius is one percent inspiration and ninety-nine percent perspiration"
+        },
+        "source": {
+            "cn": "爱迪生",
+            "en": "Thomas Edison"
+        }
+    },
+    {
+        "content": {
+            "cn": "失败是成功之母",
+            "en": "Failure is the mother of success"
+        },
+        "source": {
+            "cn": "佚名",
+            "en": "Anonymous"
+        }
+    },
+    {
+        "content": {
+            "cn": "敏而好学，不耻下问",
+            "en": "Be eager to learn and not ashamed to ask questions"
+        },
+        "source": {
+            "cn": "孔子",
+            "en": "Confucius"
+        }
+    },
+    {
+        "content": {
+            "cn": "书到用时方恨少",
+            "en": "I regret not having read more when I needed the knowledge"
+        },
+        "source": {
+            "cn": "陆游",
+            "en": "Lu You"
+        }
+    },
+    {
+        "content": {
+            "cn": "读一本好书，就是和许多高尚的人谈话",
+            "en": "Reading is to the mind what exercise is to the body"
+        },
+        "source": {
+            "cn": "歌德",
+            "en": "Johann Wolfgang von Goethe"
+        }
+    },
+    {
+        "content": {
+            "cn": "知之为知之，不知为不知，是知也",
+            "en": "To know what you know and what you do not know, that is true knowledge"
+        },
+        "source": {
+            "cn": "孔子",
+            "en": "Confucius"
+        }
+    },
+    {
+        "content": {
+            "cn": "不积小流，无以成江海",
+            "en": "Without accumulating small streams, one cannot form a great river"
+        },
+        "source": {
+            "cn": "荀子",
+            "en": "Xunzi"
+        }
+    },
+    {
+        "content": {
+            "cn": "学习如逆水行舟，不进则退",
+            "en": "Learning is like rowing upstream; not to advance is to drop back"
+        },
+        "source": {
+            "cn": "佚名",
+            "en": "Anonymous"
+        }
+    },
+    {
+        "content": {
+            "cn": "读万卷书，行万里路",
+            "en": "Reading thousands of books is not as useful as traveling thousands of miles"
+        },
+        "source": {
+            "cn": "董其昌",
+            "en": "Dong Qichang"
+        }
+    },
+    {
+        "content": {
+            "cn": "天才就是百分之一的灵感加上百分之九十九的汗水",
+            "en": "Genius is one percent inspiration and ninety-nine percent perspiration"
+        },
+        "source": {
+            "cn": "爱迪生",
+            "en": "Thomas Edison"
+        }
+    },
+    {
+        "content": {
+            "cn": "失败是成功之母",
+            "en": "Failure is the mother of success"
+        },
+        "source": {
+            "cn": "佚名",
+            "en": "Anonymous"
+        }
+    },
+    {
+        "content": {
+            "cn": "敏而好学，不耻下问",
+            "en": "Be eager to learn and not ashamed to ask questions"
+        },
+        "source": {
+            "cn": "孔子",
+            "en": "Confucius"
+        }
+    },
+    {
+        "content": {
+            "cn": "书到用时方恨少",
+            "en": "I regret not having read more when I needed the knowledge"
+        },
+        "source": {
+            "cn": "陆游",
+            "en": "Lu You"
+        }
+    },
+    {
+        "content": {
+            "cn": "读一本好书，就是和许多高尚的人谈话",
+            "en": "Reading is to the mind what exercise is to the body"
+        },
+        "source": {
+            "cn": "歌德",
+            "en": "Johann Wolfgang von Goethe"
+        }
+    },
+    {
+        "content": {
+            "cn": "知之为知之，不知为不知，是知也",
+            "en": "To know what you know and what you do not know, that is true knowledge"
+        },
+        "source": {
+            "cn": "孔子",
+            "en": "Confucius"
+        }
+    },
+    {
+        "content": {
+            "cn": "不积小流，无以成江海",
+            "en": "Without accumulating small streams, one cannot form a great river"
+        },
+        "source": {
+            "cn": "荀子",
+            "en": "Xunzi"
+        }
+    },
+    {
+        "content": {
+            "cn": "学习如逆水行舟，不进则退",
+            "en": "Learning is like rowing upstream; not to advance is to drop back"
+        },
+        "source": {
+            "cn": "佚名",
+            "en": "Anonymous"
+        }
+    },
+    {
+        "content": {
+            "cn": "Practice makes perfect",
+            "en": "熟能生巧"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "A little spark kindles a great fire",
+            "en": "星星之火，可以燎原"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "All roads lead to Rome",
+            "en": "条条道路通罗马"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "The shortest answer is doing",
+            "en": "最简单的回答就是干"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "A clear conscience laughs at false accusations",
+            "en": "白日不做亏心事，夜半敲门心不惊"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "Early to bed and early to rise, makes a man healthy, wealthy, and wise",
+            "en": "早睡早起使人健康、富裕又聪明"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "We havetoo manyhigh-soundingwords, andtoo few actionsthat correspond with them",
+            "en": "我们有太多豪言壮语，却鲜有行动将其付诸实践"
+        },
+        "source": {
+            "cn": "阿比盖尔·亚当斯",
+            "en": "Abigail Adams"
+        }
+    },
+    {
+        "content": {
+            "cn": "Readwhat you love to read until you love reading",
+            "en": "读你所爱，直到爱上阅读"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "模仿是学习语音的关键",
+            "en": "Imitation is the key to learning pronunciation"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "没有语法，表达甚少；没有词汇，无法表达",
+            "en": "Without grammar, a little can be conveyed; without vocabulary, nothingcan be conveyed"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "熟能生巧",
+            "en": "Practice makes perfect"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "少即是多；慢即是快",
+            "en": "Lessis more;sloweris faster"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "静水流深",
+            "en": "Still waters run deep"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "塞翁失马，焉知非福",
+            "en": "塞翁失马，焉知非福"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "活到老，学到老",
+            "en": "Live and let live"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "三人行，必有我师焉",
+            "en": "When the going gets tough (the tough get going)"
+        },
+        "source": {
+            "cn": "孔子",
+            "en": "Confucius"
+        }
+    },
+    {
+        "content": {
+            "cn": "己所不欲，勿施于人",
+            "en": "Treat other people as you hope they will treat you"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "天道酬勤",
+            "en": "天道酬勤"
+        },
+        "source": {
+            "cn": "",
+            "en": "传统谚语"
+        }
+    },
+    {
+        "content": {
+            "cn": "读一本好书，就是和许多高尚的人谈话",
+            "en": "Reading is to the mind what exercise is to the body"
+        },
+        "source": {
+            "cn": "歌德",
+            "en": "Johann Wolfgang von Goethe"
+        }
+    },
+    {
+        "content": {
+            "cn": "知之为知之，不知为不知，是知也",
+            "en": "To know what you know and what you do not know, that is true knowledge"
+        },
+        "source": {
+            "cn": "孔子",
+            "en": "Confucius"
+        }
+    },
+    {
+        "content": {
+            "cn": "不积跬步，无以至千里",
+            "en": "A journey of a thousand miles begins with one step"
+        },
+        "source": {
+            "cn": "荀子",
+            "en": "Xunzi"
+        }
+    },
+    {
+        "content": {
+            "cn": "读万卷书，行万里路",
+            "en": "Reading thousands of books is not as useful as traveling thousands of miles"
+        },
+        "source": {
+            "cn": "董其昌",
+            "en": "Dong Qichang"
+        }
+    },
+    {
+        "content": {
+            "cn": "天才就是百分之一的灵感加上百分之九十九的汗水",
+            "en": "Genius is one percent inspiration and ninety-nine percent perspiration"
+        },
+        "source": {
+            "cn": "爱迪生",
+            "en": "Thomas Edison"
+        }
+    },
+    {
+        "content": {
+            "cn": "失败是成功之母",
+            "en": "Failure is the mother of success"
+        },
+        "source": {
+            "cn": "佚名",
+            "en": "Anonymous"
+        }
+    },
+    {
+        "content": {
+            "cn": "敏而好学，不耻下问",
+            "en": "Be eager to learn and not ashamed to ask questions"
+        },
+        "source": {
+            "cn": "孔子",
+            "en": "Confucius"
+        }
+    },
+    {
+        "content": {
+            "cn": "书到用时方恨少",
+            "en": "I regret not having read more when I needed the knowledge"
+        },
+        "source": {
+            "cn": "陆游",
+            "en": "Lu You"
+        }
+    },
+    {
+        "content": {
+            "cn": "读一本好书，就是和许多高尚的人谈话",
+            "en": "Reading is to the mind what exercise is to the body"
+        },
+        "source": {
+            "cn": "歌德",
+            "en": "Johann Wolfgang von Goethe"
+        }
+    }
+]
