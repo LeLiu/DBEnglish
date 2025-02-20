@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'pages/home_page.dart';
+import 'pages/new_home_page.dart';
 import 'pages/plan_create_page.dart';
 import 'pages/view_plans_page.dart';
 
@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
       ),
       initialRoute: '/',
       getPages: [
-        GetPage(name: '/', page: () => const HomePage()),
+        GetPage(name: '/', page: () => const NewHomePage()),
         GetPage(name: '/create-plan', page: () => const PlanCreatePage()),
         GetPage(name: '/view-plans', page: () => const ViewPlansPage()),
       ],
